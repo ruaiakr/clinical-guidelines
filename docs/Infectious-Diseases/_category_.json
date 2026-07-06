@@ -1,0 +1,8 @@
+{
+  "label": "Infectious Diseases",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Communicable disease protocols."
+  }
+}

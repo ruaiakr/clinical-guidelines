@@ -1,0 +1,157 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 3.5rem 0 4rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(
+      ellipse 80% 60% at 100% 50%,
+      rgba(252, 209, 22, 0.08) 0%,
+      transparent 70%
+    ),
+    linear-gradient(135deg, rgba(0, 0, 0, 0.12) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.heroGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+
+.heroContent {
+  text-align: left;
+}
+
+.heroContent .hero__title {
+  font-size: 2.75rem;
+  line-height: 1.15;
+  margin-bottom: 0.75rem;
+}
+
+.heroDescription {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin: 1.25rem 0 2rem;
+  max-width: 36rem;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.emergencyButton {
+  border-color: rgba(255, 255, 255, 0.7) !important;
+  color: #ffffff !important;
+}
+
+.emergencyButton:hover {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  border-color: #fcd116 !important;
+  color: #fcd116 !important;
+}
+
+.heroCover {
+  display: flex;
+  justify-content: center;
+}
+
+.coverFrame {
+  margin: 0;
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow:
+    0 4px 6px rgba(0, 0, 0, 0.08),
+    0 20px 40px rgba(0, 0, 0, 0.25);
+  border-top: 4px solid #fcd116;
+}
+
+.coverImage {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center 30%;
+}
+
+.coverCaption {
+  padding: 0.75rem 1rem;
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #003da5;
+  background: linear-gradient(to bottom, #f8f9fb, #ffffff);
+  border-top: 1px solid rgba(0, 61, 165, 0.1);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem 0 2.5rem;
+  }
+
+  .heroGrid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+  }
+
+  .heroContent {
+    text-align: center;
+  }
+
+  .heroContent .hero__title {
+    font-size: 2rem;
+  }
+
+  .heroDescription {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .buttons {
+    justify-content: center;
+  }
+
+  .coverFrame {
+    max-width: 360px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .heroContent .hero__title {
+    font-size: 1.65rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .buttons :global(.button) {
+    width: 100%;
+    margin-left: 0 !important;
+  }
+}

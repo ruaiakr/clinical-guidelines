@@ -1,0 +1,599 @@
+=== PAGE 3 ===
+Kiribati 
+Primary Clinical Care Manual 
+2026
+
+
+=== PAGE 4 ===
+Table of contents
+Foreword 
+xii
+Acknowledgments
+xiii
+Funding
+xv
+Introduction
+1
+Introduction
+2
+Kiribati Patient’s Bill of Rights
+5
+Kiribati Nurses Code of Conduct
+6
+The Nursing Cultural Framework (Abridged Version)
+9
+Kiribati Decision-Making Framework (Abridged Version)
+11
+Patient assessment and transport 
+16
+Patient presentation - Adult/Child
+17
+Adult presentation
+18
+Clinical consultation
+29
+Patient retrieval
+30
+Pain, nausea and vomiting
+34
+Acute pain - Adult/Child
+35
+Nausea and vomiting - Adult/Child
+44
+Emergency
+47
+Basic life support (BLS) - Adult/Child DRSABCD resuscitation,  
+the collapsed patient
+48
+Oxygen delivery - Adult/Child 
+51
+Intravenous (IV) cannulation
+53
+Intraosseous access - Adult/Child
+55
+Diving accidents and decompression sickness
+59
+Critical emergencies 
+Unconscious/altered level of consciousness - Adult/Child
+63
+Shock - Adult/Child 
+67
+Sepsis/septic shock - Adult/Child
+69
+Meningitis - Adult/Child
+78
+Choking (foreign body airway obstruction) - Adult/Child
+84
+Button battery ingestion/insertion -  
+Adult/Child
+88
+Anaphylaxis - Adult/Child
+91
+iv | Kiribati Primary Clinical Care Manual
+
+
+=== PAGE 5 ===
+Fitting - convulsions, seizures – Adult/Child
+98
+Diabetic ketoacidosis (DKA) - Adult/Child
+102
+Hyperosmolar hyperglycaemic state (HHS)
+102
+Hypoglycaemia - Adult/Child
+105
+Acute asthma - Adult/Child
+109
+Poisoning and overdose – Adult/Child
+119
+Fish poisoning (Ciguatera)
+130
+Drowning/submersion - Adult/Child
+132
+Cardiovascular emergencies: 
+Chest pain assessment 
+135
+Acute coronary syndrome (ACS) - Adult  
+Possible cardiac chest pain, unstable angina, myocardial infarction
+141
+Acute pulmonary oedema (Cardiac causes) - Adult 
+149
+Hypertensive emergency - Adult
+153
+Arrhytmias – Adult
+156
+Electrocution/electric shock - Adult/Child
+158
+Acute lower leg ischaemia - Adult
+161
+Deep vein thrombosis (DVT) - Adult
+163
+Pulmonary embolism (PE) - Adult
+166
+Neurological Emergencies 
+Headache  - Adult/Child
+168
+Dizziness/vertigo - Adult
+171
+Transient ischaemic attack (TIA) and stroke - Adult/Child
+175
+Delirium - Adult 
+177
+Traumatic injuries – Adult/Child
+180
+Chest injuries - Adult
+189
+Head injuries - Adult
+193
+Spinal injuries – Adult/Child
+200
+Abdominal injuries - Adult/Child
+205
+Penetrating abdominal injury
+208
+Fractures, dislocations and sprains 
+209
+Simple fracture of limbs - Adult/Child
+210
+Open (compound) fractures - Adult/Child
+214
+Fractured pelvis - Adult/Child
+216
+Fractured jaw - Adult/Child
+219
+Oral facial fractures 
+221
+Kiribati Primary Clinical Care Manual | v
+
+
+=== PAGE 6 ===
+Dislocations - Adult/Child
+224
+Sprains/soft tissue injury - Adult/Child
+226
+Compartment syndrome - Adult/Child
+228
+Dog Bite – all ages (Kiribati Original Protocol)
+230
+Acute abdominal pain
+233
+Management of common surgical abdominal condition  
+associated with acute abdominal pain
+237
+Bowel obstruction (large and small bowel)
+237
+Acute appendicitis
+240
+Cholecystitis
+244
+Rectal bleeding (Anorectal disease)
+247
+Abdominal wall hernias
+252
+Common medical conditions
+256
+Urticaria, allergic rhinitis - Adult  
+Hives, hay fever
+257
+Upper respiratory tract infection (URTI) - Adult 
+Common cold, influenza, bronchitis, sore throat
+260
+Acutely swollen/painful joint - Adult
+263
+Gout - Adult
+265
+Secondary prophylaxis for acute rheumatic fever (ARF) -  
+Adult/Child
+267
+Anemia - Adult/Child
+271
+Oedema – Adult/Child
+275
+Generalised weakness – Adult/Child
+277
+Fever – Adult
+279
+Non-Communicable Disease (NCD) Assessment and management 284
+Cardiovascular and respiratory disorders
+294
+Congestive cardiac failure - Adult
+295
+Pneumonia - Adult
+298
+Pleural effusion - Adult
+300
+Dyspnoea – Adult
+302
+Ear, Nose and Throat (ENT)
+304
+Ear assessment - Adult/Child
+305
+Nose bleed/epistaxis - adult/child
+309
+Traumatic rupture of eardrum - adult/child
+312
+Foreign body in ear or nose - adult/child
+314
+vi | Kiribati Primary Clinical Care Manual
+
+
+=== PAGE 7 ===
+Epiglottitis - Adult/Child
+318
+Mastoiditis - Adult/Child
+320
+Acute otitis media (AOM) - Adult/Child 
+Acute middle ear infection ± perforation
+322
+Otitis media with effusion (OME) - Child 
+Fluid behind the intact eardrum(s), glue ear
+326
+Chronic suppurative otitis media (CSOM) – Adult/Child
+328
+Dry perforation - Adult/Child                          
+Hole in eardrum with no discharge
+331
+Otitis externa (acute) - Adult/Child                  
+Ear canal infection, swimmer’s ear, tropical ear
+333
+Sore throat – (Pharyngitis, tonsillitis) - Adult/Child
+336
+Acute sinusitis - Adult/Child
+342
+Allergic rhinitis - Adult/Child
+344
+Problems of Thyroid Grand - Adult 
+345
+Oral health 
+347
+Trauma to teeth - Adult/Child         
+Knocked out tooth, displaced tooth, broken tooth
+348
+Toothache - Adult/Child
+353
+Dental caries - Adult/Child                   
+Tooth decay
+356
+Mouth ulcers - Adult/Child
+359
+Tooth abcess - Adult/Child
+361
+Dry Socket - Adult/Child
+365
+Gum disease - Adult/Child                    
+Gingivitis, periodontitis, necrotising gingivitis
+366
+Oral thrush - Adult/Child 
+369
+Oral facial fractures (Kiribati Original Protocol)
+372
+Odontogenic infection and spread to neck spaces  
+(Kiribati Original Protocol)
+375
+Trigeminal neuralgia – Adult/Child (Kiribati Original Protocol)
+378
+Jaw dislocation – Adult/Child
+381
+Eye problems
+385
+Eye assessment – Adult/Child
+386
+Eye differential diagnosis - Adult/Child
+391
+Foreign body in eye - Adult/Child
+392
+Corneal abrasion - Adult/Child
+395
+Kiribati Primary Clinical Care Manual | vii
+
+
+=== PAGE 8 ===
+Flash burn to eye - Adult/Child
+397
+Chemical burn to eye - Adult/Child
+399
+Eye injury - Adult/Child 
+Blunt, penetrating
+401
+Sudden, painless loss of vision - Adult/Child
+403
+Orbital/periorbital cellulitis - Adult/Child
+405
+Conjunctivitis - Adult/Child/Newborn
+408
+Trachoma - Adult/Child
+413
+Diabetic retinopathy
+416
+Gastrointestinal
+418
+Gastrointestinal emergencies 
+Acute abdominal pain - Adult/Child
+419
+Gastroenteritis/dehydration - Adult  
+Diarrhoea ± vomiting
+424
+Gastritis - Adult
+427
+Upper gastrointestinal bleeding - Adult/Child  
+Vomiting blood
+429
+Complications of liver cirrhosis – Adult 
+431
+Ascites – Adult
+432
+Variceal hemorrhage – Adult
+435
+Spontaneous Bacterial Peritonitis (SBP) – Adult
+438
+Hepatic encephalopathy – Adult
+441
+Hepatitis A – Adult/Child
+444
+Hepatitis B – Adult/Child
+447
+Hepatitis C – Adult/Child
+450
+Hepatitis D – Adult/Child (Kiribati Original Protocol)
+453
+Obstetric and Gynecological
+456
+Pelvic Inflammatory Disease (PID) (Kiribati Original Protocol)
+457
+Group B Streptococcus (GBS) Screening in Pregnancy  
+(Kiribati Original Protocol)
+459
+Cervical cancer screening adult female (Kiribati Original Protocol) 461
+Abnormal Uterine Bleeding (AUB) adult female  
+(Kiribati Original Protocol)
+463
+Vaginal itchiness (Kiribati Original Protocol)
+466
+Cord Presentation and Cord Prolapse (Kiribati Protocol)
+470
+Shoulder Dystocia (Kiribati Protocol)
+473
+Uterine Inversion (Kiribati Protocol)
+476
+viii | Kiribati Primary Clinical Care Manual
+
+
+=== PAGE 9 ===
+Genitourinary emergencies
+480
+Renal colic - Adult
+481
+Acute retention of urine - Adult
+483
+Testicular/scrotal pain - Adult/Child 
+Testicular torsion
+485
+Urinary Tract Infection (UTI) - Adult 
+Cystitis, pyelonephritis
+487
+Mental health
+490
+Acute severe behavioral disturbance (ASBD)
+491
+Suicidal behaviour – Adult/Child
+503
+Dementia – Adult
+508
+Psychosis – Adult
+511
+Depression, Bi polar disorders
+514
+Anxiety disorders panic attack
+517
+Substance use disorders – Adult
+519
+Paediatrics
+524
+Paediatric presentation 
+525
+History and physical examination - Child
+525
+Differential diagnosis - Child
+537
+Meningitis - Child
+543
+Upper respiratory tract infection (URTI) - Child
+549
+Common cold
+549
+Sore throat - Adult/Child
+551
+Pharyngitis, tonsillitis
+551
+Croup - Child
+557
+Bronchiolitis - Child
+561
+Pneumonia - Child
+564
+Pertussis - Adult/Child
+568
+Whooping cough
+568
+Post streptococcal diseases 
+570
+Acute post streptococcal glomerulonephritis (APSGN) - Child
+570
+Acute rheumatic fever (ARF) - Child
+576
+Anaemia - Child
+580
+Gastrointestinal problems
+583
+Gastroenteritis/dehydration - Child
+583
+Kiribati Primary Clinical Care Manual | ix
+
+
+=== PAGE 10 ===
+Diarrhoea ± vomiting
+583
+Giardiasis - Adult/Child
+592
+Worms - Child
+594
+Constipation - Child
+597
+Pyloric stenosis - Child
+599
+Intussusception - Child
+600
+Oral Candidiasis (Thrush) – Child
+602
+Meningitis – Child
+604
+Meningococcal disease – Child
+607
+Severe Acute Malnutrition – Child(Kiribati Original Protocol)
+610
+Febrile Convulsions – Child
+613
+Urinary tract infection (UTI) - Child
+615
+Acutely swollen/painful joint - Child
+618
+Child protection
+620
+Neonatal care – newborn at birth
+622
+Child health visits (Kiribati Original Protocol)
+627
+Approach to a sick neonate(Kiribati Original Protocol)
+634
+Omphalitis (Cord Sepsis) (Kiribati Original Protocol)
+637
+Ophthalmia neonatorum – neonatal Conjunctivitis  
+(Kiribati Original Protocol)
+641
+Neonatal jaundice (Kiribati Original Protocol)
+644
+Neonatal sepsis (Kiribati Original Protocol)
+648
+Management of premature and other infants at risk  
+(Kiribati Original Protocol)
+651
+Skin problems
+654
+Tinea (ringworm, athlete’s foot, jock itch, scalp ringworm,  
+fungal nail infection)
+655
+Candidiasis (skin) – Adult/Child
+658
+Tinea versicolor (Pityriasis versicolor) – Adult/Child
+660
+Shingles – Adult/Child
+662
+Dermatitis (Eczema) – Adult/Child
+665
+Leprosy (Hansen’s Disease) – Adult/Child
+668
+Impetigo Child/ Adult
+671
+Scabies – Adult/Child
+672
+Head Lice: (Pediculosis)
+676
+Chromoblastomycosis
+677
+x | Kiribati Primary Clinical Care Manual
+
+
+=== PAGE 11 ===
+Infectious diseases
+678
+Chickenpox
+679
+Cholera
+681
+Dengue fever
+683
+Filariasis
+685
+Fish poisoning (Ciguatera)
+687
+HIV infection/AIDS
+689
+Measles
+691
+Mumps
+693
+Polio
+695
+Scarlet Fever
+697
+Tuberculosis (including Pediatric TB)
+699
+Typhoid
+701
+Appendix
+703
+Glasgow Coma Scale / AVPU
+704
+Managing injection pain – Adult/Child
+705
+Safe use of Drugs, Including Antibiotic Use 
+708
+General Guidlines
+709
+Drug Use in Children
+709
+Asprin and Paracetamol
+710
+Antibiotic usage
+711
+Drugs in Pregnancy and Breastfeeding
+713
+Calculating Liquid Doses When Working with Medications
+714
+Drug Dosage Tables
+715
+Promethazine and Salbutamol Dosage Tables
+720
+IV Therapy / IV Flow Rates
+722
+Common Conditions Requiring IV Fluids
+724
+IV Fluid Rate Table
+725
+List of Abbreviations and Acronyms
+726
+Kiribati Primary Clinical Care Manual | xi
+
+
+=== PAGE 12 ===
+Foreword 
+On behalf of the Ministry of Health and Medical Services, it is my great 
+pleasure to introduce the Kiribati Primary Clinical Care Manual. This manual 
+is a milestone in our commitment to improving the quality and accessibility 
+of healthcare across Kiribati, ensuring that all I-Kiribati have access to safe, 
+effective, and culturally appropriate care.
+The development of this manual has been a collaborative effort, drawing 
+on local expertise and the valuable knowledge and resources shared 
+through partnerships with international organizations. It will serve as an 
+essential tool for healthcare workers across our nation, empowering them 
+to deliver care that meets the highest standards of clinical practice.
+The Kiribati Primary Clinical Care Manual provides comprehensive 
+guidance on managing medical conditions, responding to emergencies, 
+promoting health and well-being, and enhancing the patient experience.  
+It also emphasizes the importance of community-based care, with a focus 
+on health promotion and prevention.
+As we continue to address the health challenges faced by our 
+communities, this manual will play a key role in strengthening our 
+healthcare system, improving health outcomes, and enhancing the lives 
+of all those we serve. The Ministry remains committed to supporting the 
+health workforce and ensuring that our services meet the diverse needs of 
+the I-Kiribati population.
+I extend my gratitude to all those who have contributed to the creation 
+of this valuable resource and to all healthcare workers who will use it to 
+provide exceptional care. Together, we are building a healthier future for 
+Kiribati.
+Mr. Michael Bootii Nauan 
+Minister for Health 
+Republic of Kiribati
+xii | Kiribati Primary Clinical Care Manual
+
+

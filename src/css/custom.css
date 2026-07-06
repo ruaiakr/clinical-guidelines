@@ -1,0 +1,95 @@
+/**
+ * Kiribati Clinical Guidelines — MHMS brand colors
+ * Inspired by Kiribati flag: red, gold, blue
+ */
+:root {
+  --site-brand-bar-height: 5.25rem;
+  --ifm-color-primary: #c8102e;
+  --ifm-color-primary-dark: #b40e29;
+  --ifm-color-primary-darker: #aa0d27;
+  --ifm-color-primary-darkest: #8c0b20;
+  --ifm-color-primary-light: #d42842;
+  --ifm-color-primary-lighter: #d8324b;
+  --ifm-color-primary-lightest: #e04d63;
+  --ifm-color-secondary: #003da5;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+  --ifm-navbar-background-color: #003da5;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #fcd116;
+  --ifm-navbar-brand-color: #ffffff;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e04d63;
+  --ifm-color-primary-dark: #d42842;
+  --ifm-color-primary-darker: #c8102e;
+  --ifm-color-primary-darkest: #a60d25;
+  --ifm-color-primary-light: #e8687a;
+  --ifm-color-primary-lighter: #eb7586;
+  --ifm-color-primary-lightest: #f094a1;
+  --ifm-navbar-background-color: #002b75;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar--fixed-top {
+  top: calc(var(--site-brand-bar-height) + env(safe-area-inset-top, 0));
+}
+
+.main-wrapper {
+  padding-top: calc(
+    var(--ifm-navbar-height) + var(--site-brand-bar-height) +
+      env(safe-area-inset-top, 0)
+  ) !important;
+}
+
+.navbar-sidebar {
+  top: calc(
+    var(--ifm-navbar-height) + var(--site-brand-bar-height) +
+      env(safe-area-inset-top, 0)
+  );
+}
+
+.navbar__logo img {
+  object-fit: contain;
+  height: 2.25rem;
+  width: auto;
+}
+
+.navbar__title {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+@media screen and (max-width: 996px) {
+  :root {
+    --site-brand-bar-height: 4.35rem;
+  }
+
+  .navbar__title {
+    font-size: 0.85rem;
+  }
+
+  .navbar__logo img {
+    height: 2rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  :root {
+    --site-brand-bar-height: 3.85rem;
+  }
+
+  .navbar__logo img {
+    height: 1.75rem;
+  }
+}
+
+.hero--primary {
+  --ifm-hero-background-color: #003da5;
+  --ifm-hero-text-color: #ffffff;
+}
+
+.heroBanner .hero__subtitle {
+  color: rgba(255, 255, 255, 0.9);
+}

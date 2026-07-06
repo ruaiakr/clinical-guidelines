@@ -1,0 +1,273 @@
+.page {
+  min-height: calc(100vh - var(--ifm-navbar-height) - var(--site-brand-bar-height));
+  background: linear-gradient(180deg, #f4f7fb 0%, #eef2f8 100%);
+  padding: 2rem 1rem 3rem;
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  margin: 0 0 0.35rem;
+  color: #002b75;
+  font-size: 1.75rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: #5a6472;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 61, 165, 0.12);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 61, 165, 0.08);
+  padding: 1.5rem;
+}
+
+.loginCard {
+  max-width: 420px;
+  margin: 3rem auto 0;
+}
+
+.label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: #002b75;
+}
+
+.input,
+.textarea,
+.select {
+  width: 100%;
+  border: 1px solid rgba(0, 61, 165, 0.18);
+  border-radius: 10px;
+  padding: 0.75rem 0.9rem;
+  font: inherit;
+  background: #ffffff;
+  color: #1a202c;
+}
+
+.textarea {
+  min-height: 420px;
+  resize: vertical;
+  font-family: var(--ifm-font-family-monospace);
+  line-height: 1.5;
+}
+
+.input:focus,
+.textarea:focus,
+.select:focus {
+  outline: none;
+  border-color: #003da5;
+  box-shadow: 0 0 0 3px rgba(0, 61, 165, 0.12);
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.search {
+  flex: 1;
+  min-width: 220px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 1rem;
+}
+
+.chapterList {
+  max-height: 70vh;
+  overflow: auto;
+  padding-right: 0.25rem;
+}
+
+.chapterButton {
+  width: 100%;
+  text-align: left;
+  border: 1px solid transparent;
+  background: #f8fafc;
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.65rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.chapterButton:hover {
+  border-color: rgba(0, 61, 165, 0.18);
+  background: #ffffff;
+}
+
+.chapterButtonActive {
+  border-color: #003da5;
+  background: #eef4ff;
+}
+
+.chapterTitle {
+  display: block;
+  font-weight: 700;
+  color: #002b75;
+  margin-bottom: 0.25rem;
+}
+
+.chapterMeta {
+  display: block;
+  font-size: 0.78rem;
+  color: #667085;
+}
+
+.editorHeader {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.field {
+  flex: 1;
+  min-width: 180px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.primaryButton,
+.secondaryButton,
+.dangerButton {
+  border: none;
+  border-radius: 999px;
+  padding: 0.7rem 1.2rem;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.primaryButton {
+  background: #003da5;
+  color: #ffffff;
+}
+
+.primaryButton:hover {
+  background: #002b75;
+}
+
+.secondaryButton {
+  background: #ffffff;
+  color: #003da5;
+  border: 1px solid rgba(0, 61, 165, 0.2);
+}
+
+.dangerButton {
+  background: #fff5f5;
+  color: #c8102e;
+  border: 1px solid rgba(200, 16, 46, 0.2);
+}
+
+.notice {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 10px;
+  background: #fff8e6;
+  color: #7a5b00;
+  border: 1px solid rgba(252, 209, 22, 0.45);
+}
+
+.error {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 10px;
+  background: #fff5f5;
+  color: #c8102e;
+  border: 1px solid rgba(200, 16, 46, 0.2);
+}
+
+.success {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 10px;
+  background: #ecfdf3;
+  color: #027a48;
+  border: 1px solid rgba(2, 122, 72, 0.2);
+}
+
+.emptyState {
+  color: #667085;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 996px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .chapterList {
+    max-height: 280px;
+  }
+}
+
+[data-theme='dark'] .page {
+  background: linear-gradient(180deg, #0f1729 0%, #121826 100%);
+}
+
+[data-theme='dark'] .title {
+  color: #ffffff;
+}
+
+[data-theme='dark'] .subtitle,
+[data-theme='dark'] .chapterMeta,
+[data-theme='dark'] .emptyState {
+  color: #a0aec0;
+}
+
+[data-theme='dark'] .card,
+[data-theme='dark'] .input,
+[data-theme='dark'] .textarea,
+[data-theme='dark'] .select {
+  background: #1a2233;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+[data-theme='dark'] .chapterButton {
+  background: #151d2d;
+}
+
+[data-theme='dark'] .chapterButtonActive {
+  background: #1d2a45;
+  border-color: #4d8dff;
+}
+
+[data-theme='dark'] .chapterTitle,
+[data-theme='dark'] .label {
+  color: #ffffff;
+}
+
+[data-theme='dark'] .secondaryButton {
+  background: transparent;
+  color: #ffffff;
+}

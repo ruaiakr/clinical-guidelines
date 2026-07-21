@@ -93,3 +93,404 @@
 .heroBanner .hero__subtitle {
   color: rgba(255, 255, 255, 0.9);
 }
+
+/* Full-page manual reference sheets (e.g. Page 2 trauma triage) */
+.theme-doc-markdown .manual-full-page {
+  margin: 0 calc(-1 * var(--ifm-spacing-horizontal));
+  padding: 0;
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 61, 165, 0.08);
+  border: 1px solid rgba(0, 61, 165, 0.1);
+}
+
+.theme-doc-markdown .manual-full-page img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+  object-position: top center;
+}
+
+.theme-doc-markdown .manual-triage-chart {
+  width: 100%;
+  max-width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  color: #1a1a1a;
+  line-height: 1.45;
+}
+
+.theme-doc-markdown .manual-triage-chart table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+}
+
+.theme-doc-markdown .manual-triage-chart > table {
+  border: 2px solid #1d3461;
+}
+
+.theme-doc-markdown .manual-triage-chart td,
+.theme-doc-markdown .manual-triage-chart th {
+  border: 1px solid #1d3461;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-section-label {
+  background-color: #3a5c8c;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.35rem;
+  width: 2rem;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  white-space: nowrap;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-section-label-sm {
+  font-size: 0.68rem;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-header-empty {
+  background-color: #1d3461;
+  width: 7.5rem;
+  padding: 0.35rem;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-header {
+  background-color: #1d3461;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  padding: 0.4rem 0.35rem;
+  font-size: 0.72rem;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-row-label {
+  background-color: #3a5c8c;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.4rem 0.35rem;
+  font-size: 0.68rem;
+  vertical-align: middle;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-cell {
+  text-align: center;
+  padding: 0.4rem 0.35rem;
+  background-color: #ffffff;
+  vertical-align: middle;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-cell-alt {
+  background-color: #f5f7fc;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-nested-wrap {
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-nested-wrap-alt {
+  background-color: #f5f7fc;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-nested {
+  width: 100%;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-nested-cell {
+  vertical-align: top;
+  padding: 0.65rem;
+  width: 50%;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-nested-cell + .triage-nested-cell {
+  border-left: 1px solid #1d3461;
+}
+
+.theme-doc-markdown .manual-triage-chart ul {
+  margin: 0.25rem 0;
+  padding-left: 1.1rem;
+  line-height: 1.55;
+}
+
+.theme-doc-markdown .manual-triage-chart ul ul {
+  padding-left: 1rem;
+}
+
+.theme-doc-markdown .manual-triage-chart .triage-footer {
+  background-color: #1d3461;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.65rem 0.75rem;
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 996px) {
+  .theme-doc-markdown .manual-triage-chart {
+    font-size: 0.68rem;
+  }
+
+  .theme-doc-markdown .manual-triage-chart .triage-header-empty {
+    width: 5.5rem;
+  }
+
+  .theme-doc-markdown .manual-triage-chart .triage-nested-cell {
+    display: block;
+    width: 100%;
+    border-left: none !important;
+    border-top: 1px solid #1d3461;
+  }
+
+  .theme-doc-markdown .manual-triage-chart .triage-nested tr {
+    display: block;
+  }
+}
+
+[data-theme='dark'] .theme-doc-markdown .manual-triage-chart {
+  color: #eef2f8;
+}
+
+[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-cell,
+[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-nested-wrap {
+  background-color: #1a2233;
+}
+
+[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-cell-alt,
+[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-nested-wrap-alt {
+  background-color: #243047;
+}
+
+@media screen and (max-width: 996px) {
+  .theme-doc-markdown .manual-full-page {
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 8px;
+  }
+}
+
+[data-theme='dark'] .theme-doc-markdown .manual-full-page {
+  background: #1a2233;
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+}
+
+@media print {
+  .theme-doc-markdown .manual-full-page {
+    margin: 0;
+    box-shadow: none;
+    border: none;
+    page-break-inside: avoid;
+  }
+
+  .theme-doc-markdown .manual-full-page img {
+    max-width: 100%;
+    max-height: 100vh;
+  }
+}
+
+/* PCCM Clinical Flowchart Styling */
+
+.pccm-flowchart {
+  width: 100%;
+  max-width: none;
+  margin: 1.5rem calc(-1 * var(--ifm-spacing-horizontal)) 2rem;
+  padding: 0 var(--ifm-spacing-horizontal);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-flow-box {
+  width: 100%;
+  padding: 1rem 1.15rem;
+  box-sizing: border-box;
+}
+
+.pccm-flow-box--outline {
+  background: #ffffff;
+  border: 2px solid #a5b8ff;
+}
+
+.pccm-flow-box--outline-grey {
+  background: #ffffff;
+  border: 2px solid #b5b5b5;
+}
+
+.pccm-flow-box--blue {
+  background: #d7dded;
+  border: 2px solid #d7dded;
+}
+
+.pccm-flow-box--grey {
+  background: #efefef;
+  border: 2px solid #efefef;
+}
+
+.pccm-flow-box--center {
+  text-align: center;
+}
+
+.pccm-flow-box p,
+.pccm-flow-box ul {
+  margin: 0;
+}
+
+.pccm-flow-box ul {
+  padding-left: 1.25rem;
+}
+
+.pccm-flow-box li + li {
+  margin-top: 0.35rem;
+}
+
+.pccm-flow-box p + p {
+  margin-top: 0.75rem;
+}
+
+.pccm-flow-heading {
+  color: #ef6a4c;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 0.75rem;
+}
+
+.pccm-flow-heading--center {
+  text-align: center;
+}
+
+.pccm-flow-decision {
+  color: #ef6a4c;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+}
+
+.pccm-flow-arrow {
+  color: #7a8dff;
+  text-align: center;
+  font-size: 1.35rem;
+  line-height: 1;
+  margin: 0.35rem 0;
+}
+
+.pccm-flow-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  margin-top: 0.35rem;
+  position: relative;
+}
+
+.pccm-flow-split::before {
+  content: '';
+  position: absolute;
+  top: 1.55rem;
+  left: 8%;
+  right: 8%;
+  border-top: 1px dashed #c4a882;
+  z-index: 0;
+}
+
+.pccm-flow-branch {
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+}
+
+.pccm-flow-label {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.pccm-flow-stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.pccm-flowchart .mermaid {
+  text-align: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 996px) {
+  .pccm-flowchart {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+  }
+
+  .pccm-flow-split {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .pccm-flow-split::before {
+    display: none;
+  }
+
+  .pccm-flow-box {
+    padding: 0.9rem 1rem;
+  }
+
+  .pccm-flow-heading {
+    font-size: 15px;
+  }
+}
+
+.mermaid {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.mermaid .label {
+  font-size: 15px !important;
+  line-height: 1.5 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.mermaid .edgeLabel {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  background: transparent !important;
+}
+
+.mermaid .node rect,
+.mermaid .node polygon,
+.mermaid .node path {
+  rx: 0 !important;
+  ry: 0 !important;
+}
+
+.mermaid foreignObject {
+  overflow: visible !important;
+}
+
+.mermaid .label text {
+  white-space: pre-wrap !important;
+}
+
+/* larger diagram width */
+.theme-doc-markdown .mermaid {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}

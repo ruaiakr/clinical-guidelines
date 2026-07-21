@@ -25,10 +25,13 @@ const config: Config = {
 
   markdown: {
     format: 'detect',
+    mermaid: true,
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
   },
+
+  themes: ['@docusaurus/theme-mermaid'],
 
   i18n: {
     defaultLocale: 'en',
@@ -56,7 +59,7 @@ const config: Config = {
     [
       require.resolve('@docusaurus/plugin-pwa'),
       {
-        debug: process.env.NODE_ENV === 'development',
+        debug: false,
         offlineModeActivationStrategies: [
           'appInstalled',
           'standalone',
@@ -104,8 +107,8 @@ const config: Config = {
         indexDocs: true,
         indexPages: true,
         indexBlog: false,
-  
-        // Enable searching in development
+
+        // Index pages marked noIndex (does not enable search in dev mode)
         forceIgnoreNoIndex: true,
       },
     ],
@@ -152,8 +155,8 @@ const config: Config = {
           items: [
             {label: 'Home', to: '/docs/intro'},
             {label: 'Emergency', to: '/docs/category/emergency'},
-            {label: 'Pediatrics', to: '/docs/category/pediatrics'},
-            {label: 'Appendix', to: '/docs/category/appendix'},
+            {label: 'Pediatrics', to: '/docs/category/Paediatrics'},
+            {label: 'Appendix', to: '/docs/category/Appendix'},
           ],
         },
         {

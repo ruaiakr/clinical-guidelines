@@ -1,29 +1,29 @@
----
+﻿---
 sidebar_position: 7
 ---
 
-# Oedema – Adult/Child
+# Oedema ΓÇô Adult/Child
 
 Dietary advice
-•	 Encourage iron-rich foods: liver, meat, fish, leafy greens, legumes, eggs
-•	 Give small, frequent meals in children
+ΓÇó	 Encourage iron-rich foods: liver, meat, fish, leafy greens, legumes, eggs
+ΓÇó	 Give small, frequent meals in children
 If no improvement
-•	 Hb should rise ~1g/dL per week
-•	 If no improvement or relapse after treatment, refer to hospital
-•	 If patient becomes symptomatic or has unclear cause, refer to MO
+ΓÇó	 Hb should rise ~1g/dL per week
+ΓÇó	 If no improvement or relapse after treatment, refer to hospital
+ΓÇó	 If patient becomes symptomatic or has unclear cause, refer to MO
 5.	 Follow up
-•	 Weekly review for 1 month
-•	 Monitor clinical improvement and weight gain (children)
-•	 Reinforce adherence to iron and diet
-•	 Continue therapy for 3–6 months to rebuild iron stores
+ΓÇó	 Weekly review for 1 month
+ΓÇó	 Monitor clinical improvement and weight gain (children)
+ΓÇó	 Reinforce adherence to iron and diet
+ΓÇó	 Continue therapy for 3ΓÇô6 months to rebuild iron stores
 6.	 Referral/Consultation
-•	 If severe anaemia, no improvement after 2–3 weeks, or cause unclear
-•	 If symptoms worsen (e.g. fainting, breathlessness)
-•	 Suspected bone marrow disorders, leukaemia, or chronic disease
-•	 Children with delayed development or failure to thrive despite treatment
-274 | Kiribati Primary Clinical Care Manual
+ΓÇó	 If severe anaemia, no improvement after 2ΓÇô3 weeks, or cause unclear
+ΓÇó	 If symptoms worsen (e.g. fainting, breathlessness)
+ΓÇó	 Suspected bone marrow disorders, leukaemia, or chronic disease
+ΓÇó	 Children with delayed development or failure to thrive despite treatment
+274ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
 
-Oedema – Adult/Child
+Oedema ΓÇô Adult/Child
 Background
 Oedema is the accumulation of fluid in the tissues, usually seen as swelling. It may
 be generalised or localised. Oedema can be a sign of underlying systemic disease
@@ -31,102 +31,102 @@ and must be evaluated carefully. Bilateral oedema often suggests systemic causes
 such as cardiac, renal, or hepatic disease, while unilateral oedema may point to local
 causes such as infection or thrombosis.
 Recommend
-•	 Consider serious causes such as heart failure, nephrotic syndrome, renal failure,
+ΓÇó	 Consider serious causes such as heart failure, nephrotic syndrome, renal failure,
 liver disease, or malnutrition.
-•	 In pregnant women, assess for pre-eclampsia.
-•	 Swelling of one leg may be due to local causes including infection, injury, or vein
+ΓÇó	 In pregnant women, assess for pre-eclampsia.
+ΓÇó	 Swelling of one leg may be due to local causes including infection, injury, or vein
 thrombosis.
-•	 Refer significant oedema for review at central hospital.
+ΓÇó	 Refer significant oedema for review at central hospital.
 1.
 May present with
-•	 Swelling of both legs, face, abdomen, or eyelids
-•	 Shortness of breath, fatigue, distended neck veins (suggesting heart failure)
-•	 Jaundice or ascites (suggesting liver disease)
-•	 Pallor, tiredness, dizziness (suggesting anaemia)
-•	 Swelling of arms and legs with skin changes in children (suggesting Kwashiorkor)
-•	 Ankle swelling in pregnancy (physiological or pre-eclampsia)
-•	 Swelling of only one leg – may be due to cellulitis, deep vein thrombosis (DVT),
+ΓÇó	 Swelling of both legs, face, abdomen, or eyelids
+ΓÇó	 Shortness of breath, fatigue, distended neck veins (suggesting heart failure)
+ΓÇó	 Jaundice or ascites (suggesting liver disease)
+ΓÇó	 Pallor, tiredness, dizziness (suggesting anaemia)
+ΓÇó	 Swelling of arms and legs with skin changes in children (suggesting Kwashiorkor)
+ΓÇó	 Ankle swelling in pregnancy (physiological or pre-eclampsia)
+ΓÇó	 Swelling of only one leg ΓÇô may be due to cellulitis, deep vein thrombosis (DVT),
 or injury
 2.	 Immediate management
-•	 Check vital signs and oxygen saturation
-•	 Triage and prioritise if patient is breathless, confused, or acutely unwell
-•	 In pregnant women with oedema + raised BP or proteinuria, refer urgently for
+ΓÇó	 Check vital signs and oxygen saturation
+ΓÇó	 Triage and prioritise if patient is breathless, confused, or acutely unwell
+ΓÇó	 In pregnant women with oedema + raised BP or proteinuria, refer urgently for
 suspected pre-eclampsia
-Kiribati Primary Clinical Care Manual | 275
+Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ275
 
 3.	 Clinical assessment
-•	 Full history including:
+ΓÇó	 Full history including:
 
-–
+ΓÇô
 Onset, location, progression of swelling
 
-–
+ΓÇô
 Symptoms of heart, kidney or liver disease
 
-–
+ΓÇô
 Medication history
 
-–
+ΓÇô
 Dietary status
 
-–
+ΓÇô
 Pregnancy status
-•	 Physical examination:
+ΓÇó	 Physical examination:
 
-–
+ΓÇô
 Assess site and extent of oedema
 
-–
+ΓÇô
 Look for signs of heart failure (e.g. crepitations, elevated JVP)
 
-–
+ΓÇô
 Examine liver and abdomen for signs of liver disease or ascites
 
-–
+ΓÇô
 Check BP and urine (for protein) in pregnant women
 
-–
+ΓÇô
 Look for local signs of infection or thrombosis in one leg
 4.	 Management
-•	 Manage according to likely cause:
+ΓÇó	 Manage according to likely cause:
 
-–
+ΓÇô
 Heart failure: consider diuretics if advised by MO
 
-–
+ΓÇô
 Nephrotic syndrome or renal failure: consult MO; may require fluid/salt
 restriction
 
-–
+ΓÇô
 Liver disease: supportive care; refer
 
-–
+ΓÇô
 Kwashiorkor: nutritional rehabilitation
 
-–
+ΓÇô
 Pregnancy: assess for pre-eclampsia
 
-–
+ΓÇô
 Infection/DVT in one leg: initiate antibiotics if cellulitis; refer if thrombosis
 suspected
-•	 Advise rest with leg elevation where appropriate
-•	 Monitor urine output and vital signs
+ΓÇó	 Advise rest with leg elevation where appropriate
+ΓÇó	 Monitor urine output and vital signs
 5.	 Follow up
-•	 Monitor oedema and underlying cause
-•	 Adjust treatment based on clinical course
-•	 Reassess nutritional status in children or malnourished adults
+ΓÇó	 Monitor oedema and underlying cause
+ΓÇó	 Adjust treatment based on clinical course
+ΓÇó	 Reassess nutritional status in children or malnourished adults
 6.	 Referral/consultation
-•	 Refer to central hospital if:
+ΓÇó	 Refer to central hospital if:
 
-–
+ΓÇô
 Generalised oedema with signs of systemic illness
 
-–
+ΓÇô
 No improvement
 
-–
+ΓÇô
 Pregnant woman with high BP or proteinuria
 
-–
+ΓÇô
 Unexplained or worsening one-leg oedema
-276 | Kiribati Primary Clinical Care Manual
+276ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual

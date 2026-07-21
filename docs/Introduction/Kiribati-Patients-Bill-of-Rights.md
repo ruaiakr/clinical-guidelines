@@ -1,35 +1,37 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
+title: Kiribati Patient's Bill of Rights
 ---
 
-# Kiribati Patient’s Bill of Rights
+# <span style="color: #EF6A4C;">Kiribati Patient's Bill of Rights</span>
 
-The Manual’s Role in Education and Training
-The manual is also a critical tool for education and training, especially for
-nurses, medical assistants, and other healthcare providers who may be
-less familiar with advanced medical procedures. It serves as a practical
-resource during formal and informal training, allowing trainers to use it
-as a reference for case studies, skills-building exercises, and continuing
-education. Nurses and medical assistants can learn best practices, clinical
-guidelines, and patient management techniques that will improve their
-clinical competencies, helping them to undertake high-level patient
-assessments and interventions with greater confidence.
-For those involved in capacity building and training, the manual should
-be used as a reference point in teaching clinical skills and protocols,
-ensuring that PHC workers have a standard and consistent approach to
-care. This also allows for continuous improvement as health conditions
-and treatment guidelines evolve, ensuring that healthcare workers stay
-updated with the latest evidence and standards of care.
-Feedback and Continuous Improvement
-To ensure that the manual remains a living document that evolves with the
-needs of the healthcare system, healthcare providers are encouraged to
-provide feedback on the manual’s usability, content, and clinical guidelines.
-This feedback will help identify areas for improvement and updates in
-future editions, ensuring that the manual remains relevant, practical,
-and effective in meeting the healthcare needs of the Kiribati population.
-pccmfeedback@mhms.gov.ki
-By continuously updating the manual, healthcare providers can stay at the
-forefront of care delivery, improving patient outcomes, and contributing to
-the strength of the PHC system in Kiribati.
+**<span style="color: #EF6A4C;">1.  Karinean inaomatan te aoraki</span>**</br>
+The right to be treated with Respect and Dignity
 
-4 | Kiribati Primary Clinical Care Manual
+**<span style="color: #EF6A4C;">2. Te tararua ae nakoroai, rokoroi ao kororoai</span>**</br>
+The Right to receive Quality and Holistic care
+
+**<span style="color: #EF6A4C;">3. Te tararua rinanon te katei</span>**</br>
+The Right to receive Culturally Safe and Sensitive care
+
+**<span style="color: #EF6A4C;">4. Karinean ao Boutokaan inaomatan te aoraki</span>**</br>
+The Right to receive Informed Consent
+
+**<span style="color: #EF6A4C;">5. Kamanoan rongorongon te aoraki</span>**</br>
+The Right to Confidentiality and Privacy
+
+**<span style="color: #EF6A4C;">6. Te katiteboaki</span>**</br>
+The Right to be Treated Fairly
+
+**<span style="color: #EF6A4C;">7. Butimwaen ao rinanoan ana tangtang te aoraki</span>**</br>
+The Right to Lay a Formal Complaint
+
+**<span style="color: #EF6A4C;">8. Te tararua ae tabwannin raoi</span>**</br>
+The Right to Receive Care that is Central to the Individual, Family or 
+Community’s needs
+
+**<span style="color: #EF6A4C;">9. Ongorean bwanaan te aoraki</span>**</br>
+The Right to be Heard
+
+**<span style="color: #EF6A4C;">10. Kabobongan ao Kakororaoan raoi te tararua</span>**</br>
+The Right to Receive Quality Care

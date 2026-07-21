@@ -1,6 +1,6 @@
 {
   "label": "Emergency",
-  "position": 1,
+  "position": 4,
   "link": {
     "type": "generated-index",
     "description": "Emergency clinical guidelines for time-critical conditions."

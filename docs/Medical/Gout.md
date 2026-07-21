@@ -1,62 +1,62 @@
----
+﻿---
 sidebar_position: 4
 ---
 
 # Gout - Adult
 
 4.	 Management1,2
-•	 Be suspicious of septic arthritis, acute oste0myelitis and ARF.
-•	 If highly suggestive of gout, see Gout
-•	 If suspected sprain/soft tissue injury, see Sprains/soft tissue injury
-•	 Offer analgesia. See Acute pain
-•	 Contact MO if any Red flags
+ΓÇó	 Be suspicious of septic arthritis, acute oste0myelitis and ARF.
+ΓÇó	 If highly suggestive of gout, see Gout
+ΓÇó	 If suspected sprain/soft tissue injury, see Sprains/soft tissue injury
+ΓÇó	 Offer analgesia. See Acute pain
+ΓÇó	 Contact MO if any Red flags
 5.	 Follow up
-•	 As per MO
+ΓÇó	 As per MO
 6.	 Referral/consultation
-•	 As above
-264 | Kiribati Primary Clinical Care Manual
+ΓÇó	 As above
+264ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
 
 Gout - Adult
 Background
-•	 Gout occurs from deposits of urate crystals in the body. Causes joint pain +
+ΓÇó	 Gout occurs from deposits of urate crystals in the body. Causes joint pain +
 swelling1
 1.
 May present with1,2
-•	 Painful, red + swollen joint(s) eg big toe, knee
-•	 Attack of gout
+ΓÇó	 Painful, red + swollen joint(s) eg big toe, knee
+ΓÇó	 Attack of gout
 2.	 Immediate management
-•	 Not applicable
+ΓÇó	 Not applicable
 3.	 Clinical assessment1,2
-•	 Get history, including:
+ΓÇó	 Get history, including:
 
-–
+ΓÇô
 previous diagnosis,  past episodes of gout + treatment eg urate lowering
 medicines
-•	 Vital signs
-•	 Examine joint(s) for swelling, tenderness, warmth and mobility:2
+ΓÇó	 Vital signs
+ΓÇó	 Examine joint(s) for swelling, tenderness, warmth and mobility:2
 
-–
+ΓÇô
 hard nodules over elbows, knees + feet may indicate chronic gout1
 4.	 Management1,2
-•	 Always consider another cause of the pain. See Swollen/painful joint
-•	 Consult MO if:
+ΓÇó	 Always consider another cause of the pain. See Swollen/painful joint
+ΓÇó	 Consult MO if:
 
-–
-systemic symptoms eg ↑ HR, fever, malaise, night sweats, weight loss
+ΓÇô
+systemic symptoms eg Γåæ HR, fever, malaise, night sweats, weight loss
 
-–
+ΓÇô
 first attack of gout (can mimic septic arthritis, an orthopaedic emergency1)
 
-–
+ΓÇô
 re-presentation for this attack
-•	 If acute attack of previously diagnosed gout, offer short-term pain relief:1,3
+ΓÇó	 If acute attack of previously diagnosed gout, offer short-term pain relief:1,3
 
-–
-NSAID eg ibuprofen or indomethacin for 3–5 days. See Acute pain
+ΓÇô
+NSAID eg ibuprofen or indomethacin for 3ΓÇô5 days. See Acute pain
 
-–
+ΓÇô
 OR colchicine as a single 1 day course (start as soon as possible)3
-Kiribati Primary Clinical Care Manual | 265
+Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ265
 
 COLCHICINE
 L3
@@ -78,7 +78,7 @@ Note: If renal or hepatic impairment, seek MO advice
 Contraindication: Blood dyscrasias,  severe GI disease, corneal wounds or ulcers
 Management of associated emergency: Consult MO. See Anaphylaxis1,3
 5.	 Follow up
-•	 Advise to be seen at next MO clinic for ongoing management
+ΓÇó	 Advise to be seen at next MO clinic for ongoing management
 6.	 Referral/consultation
-•	 As above
-266 | Kiribati Primary Clinical Care Manual
+ΓÇó	 As above
+266ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual

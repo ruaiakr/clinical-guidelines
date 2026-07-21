@@ -21,6 +21,9 @@ function getLanAddresses() {
 const port = process.env.PORT || 3000;
 const addresses = getLanAddresses();
 
+console.log('\nOpen on this PC:');
+console.log(`  http://localhost:${port}`);
+
 console.log('\nPhone / tablet access (same Wi-Fi):');
 if (addresses.length === 0) {
   console.log(`  http://YOUR-PC-IP:${port}`);

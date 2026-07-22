@@ -5,8 +5,7 @@ title: Patient presentation - Adult/Child
 
 # <span style="color: #EF6A4C;">Patient presentation - Adult/Child</span>
 
-<div class="pccm-flowchart" role="region" aria-label="Patient presentation decision flowchart">
-
+<div class="manual-full-page pccm-flowchart" role="region" aria-label="Patient presentation decision flowchart">
 <div class="pccm-flow-box pccm-flow-box--outline">
   <div class="pccm-flow-heading">General principles¹</div>
   <ul>
@@ -15,9 +14,7 @@ title: Patient presentation - Adult/Child
     <li>In children, pay particular attention to history from parent/carer where available</li>
   </ul>
 </div>
-
 <div class="pccm-flow-arrow" aria-hidden="true">↓</div>
-
 <div class="pccm-flow-box pccm-flow-box--blue">
   <div class="pccm-flow-heading pccm-flow-heading--center">Rapid assessment</div>
   <ul>
@@ -34,16 +31,14 @@ title: Patient presentation - Adult/Child
   </ul>
   <div class="pccm-flow-decision">Is patient immediately at risk</div>
 </div>
-
 <div class="pccm-flow-split">
   <div class="pccm-flow-branch">
     <div class="pccm-flow-label">Yes <span aria-hidden="true">↓</span></div>
     <div class="pccm-flow-box pccm-flow-box--outline pccm-flow-box--center">
       <div class="pccm-flow-heading">Consult MO as soon as circumstances allow</div>
-      <p>Perform immediate stabilising or life-saving measures. See Basic life support, Advanced life support, or other topic relevant to urgent presentation</p>
+      <p>Perform immediate stabilising or life-saving measures. See Basic life support, Advanced life support, or other topic relevant to urgent presentation.</p>
     </div>
   </div>
-
   <div class="pccm-flow-branch">
     <div class="pccm-flow-label">No <span aria-hidden="true">↓</span></div>
     <div class="pccm-flow-stack">
@@ -51,28 +46,19 @@ title: Patient presentation - Adult/Child
         <p><strong>Note:</strong> if trauma related eg fall/hit by an object/motorvehicle accident, promptly assess against Criteria for early notification of trauma for interfacility transfer (inside front cover).</p>
         <p>If meets criteria contact:<br />Contact: Tungaru Central Hospital (TCH)</p>
       </div>
-
       <div class="pccm-flow-arrow" aria-hidden="true">↓</div>
-
       <div class="pccm-flow-box pccm-flow-box--blue pccm-flow-box--center">
-        <p>Get history and do physical examination as relevant.<br />
-        See History and physical examination - adult,<br />
-        or History and physical examination - child</p>
+        <p>Get history and do physical examination as relevant.<br />See History and physical examination - adult,<br />or History and physical examination - child</p>
       </div>
-
       <div class="pccm-flow-arrow" aria-hidden="true">↓</div>
-
       <div class="pccm-flow-box pccm-flow-box--outline-grey pccm-flow-box--center">
         <p>Form a clinical impression</p>
       </div>
-
       <div class="pccm-flow-arrow" aria-hidden="true">↓</div>
-
       <div class="pccm-flow-box pccm-flow-box--outline-grey pccm-flow-box--center">
         <p>Select appropriate topic to guide further assessment and management</p>
       </div>
     </div>
   </div>
 </div>
-
 </div>

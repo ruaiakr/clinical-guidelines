@@ -1,59 +1,43 @@
 ---
 sidebar_position: 2
 title: Adult presentation
+hide_title: true
 ---
 
-# Adult presentation
-
-Adult presentation
-History and physical examination - adult
-Recommend
-•	 If child, see History and physical examination - child
-•	 Always think could it be Sepsis, if signs of infection or history/evidence of fever
-or hypothermia
-•	 For specific presentations, see:
-
-–
-Traumatic injuries
-
-–
-Chest pain assessment
-
-–
-Mental health emergency
-
-–
-STI/BBV assessment
-•	 Ensure a culturally safe environment. As appropriate, be guided by local health
-workers
-•	 Document your findings clearly, concisely and in logical sequence - use this
-section to assist
-•	 Offer opportunistic health promotion, screening + brief intervention as
-appropriate.1,2 See Chronic Conditions Manual
-Background
-•	 The history is the most powerful tool for identifying the likely diagnosis in most
-cases1
-•	 Types of history:2
-
-–
-emergency - urgent, rapid collection of crucial information compiled
-concurrently with
-
-–
-life-threatening measures. Take a comprehensive history once patient is
-stabilised
-
-–
-focused/problem centred - shorter and specific to the patient’s current
-presenting concern
-
-–
-complete - comprehensive history of the patient's past and present health
-status. Usually done at initial visit in a non-emergency situation
-
-–
-follow up - evaluation of problem from preceding visit
-18 | Kiribati Primary Clinical Care Manual
+<div class="pccm-guideline-page">
+<h1 class="pccm-page-title">Adult presentation</h1>
+<p class="pccm-page-subtitle">History and physical examination - adult</p>
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul>
+<li>If child, see History and physical examination - child</li>
+<li>Always think could it be <a href="/docs/Emergency/Sepsisseptic-shock">Sepsis</a>, if signs of infection or history/evidence of fever or hypothermia</li>
+<li>For specific presentations, see:
+<ul>
+<li><a href="/docs/Emergency/Traumatic-injuries">Traumatic injuries</a></li>
+<li><a href="/docs/Emergency/Chest-pain-assessment">Chest pain assessment</a></li>
+<li>Mental health emergency</li>
+<li>STI/BBV assessment</li>
+</ul>
+</li>
+<li>Ensure a culturally safe environment. As appropriate, be guided by local health workers</li>
+<li>Document your findings clearly, concisely and in logical sequence - use this section to assist</li>
+<li>Offer opportunistic health promotion, screening + brief intervention as appropriate.<sup>1,2</sup> See Chronic Conditions Manual</li>
+</ul>
+<h2 class="pccm-section-heading">Background</h2>
+<ul>
+<li>The history is the most powerful tool for identifying the likely diagnosis in most cases<sup>1</sup></li>
+<li>Types of history:<sup>2</sup>
+<ul>
+<li><strong>emergency</strong> - urgent, rapid collection of crucial information compiled concurrently with life-threatening measures. Take a comprehensive history once patient is stabilised</li>
+<li><strong>focused/problem centred</strong> - shorter and specific to the patient's current presenting concern</li>
+<li><strong>complete</strong> - comprehensive history of the patient's past and present health status. Usually done at initial visit in a non-emergency situation</li>
+<li><strong>follow up</strong> - evaluation of problem from preceding visit</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
 
 VITAL SIGNS - ADULT APPROXIMATE NORMAL VALUES1-4
 Respiratory rate RR
@@ -72,7 +56,6 @@ Capillary refill time CRT
 ≤ 2 seconds
 Blood glucose level5 BGL
 4.0–7.8
-Kiribati Primary Clinical Care Manual | 19
 
 Step 1: Obtain history of the presenting concern/problem1,6
 •	 Taking the history is the first step in making a diagnosis
@@ -143,7 +126,6 @@ during this illness
 •	 Consider possible differential diagnosis
 •	 Subsequently use closed ended questions to confirm or refute your differential
 diagnoses
-20 | Kiribati Primary Clinical Care Manual
 
 Step 2: Ask about past history1,6
 •	 Review and update past history in medical record each visit.
@@ -205,7 +187,6 @@ prescribed
 recently changed/course completed
 •	 If patient has medicines with them, check against medical
 record
-Kiribati Primary Clinical Care Manual | 21
 
 PAST HISTORY
 Allergies
@@ -238,7 +219,6 @@ appropriate)
 •	 Check if due for routine health checks eg STI/BBV check,
 Cervical Screening Test, mammogram, bowel screening
 •	 See Chronic Conditions Manual for adult health checks
-22 | Kiribati Primary Clinical Care Manual
 
 Step 3: Do physical examination1,6
 •	 Most information will be gained from history taking. Use this information to guide
@@ -306,7 +286,6 @@ elderly)
 •	 Dry axillae
 •	 Recent weight loss/gain
 •	 Also see Hydration assessment - adult
-Kiribati Primary Clinical Care Manual | 23
 
 PHYSICAL EXAMINATION - ADULT
 Skin
@@ -385,7 +364,6 @@ for 5 seconds. Time how long it takes for the colour to
 return in seconds
 •	 Look for distended neck veins
 •	 If skilled listen to heart sounds - any murmur
-24 | Kiribati Primary Clinical Care Manual
 
 PHYSICAL EXAMINATION - ADULT
 Respiratory
@@ -455,7 +433,6 @@ tenderness, itch, lesions
 –
 ask about penile discharge
 •	 See Abdominal examination for detailed assessment
-Kiribati Primary Clinical Care Manual | 25
 
 PHYSICAL EXAMINATION - ADULT
 Nervous system
@@ -506,7 +483,6 @@ pupils - equal in size, regular in shape, reaction to light
 –
 eye movements
 •	 See Eye assessment for detailed assessment
-26 | Kiribati Primary Clinical Care Manual
 
 PHYSICAL EXAMINATION - ADULT
 Ears, nose and
@@ -560,7 +536,6 @@ urinary symptoms
 diabetes
 •	 Do urinalysis
 •	 Note colour - normal, dark or blood stained, cloudy
-Kiribati Primary Clinical Care Manual | 27
 
 Step 4: Consider differential diagnosis
 •	 If unsure, contact with MO
@@ -572,4 +547,3 @@ Step 6: Order/collect pathology if indicated
 Step 7: Collaborate with MO as needed
 •	 Always consult MA or respective MO at SKH, TCH or Kiritimati, if you are unsure
 •	 Use ISBAR to guide your communication
-28 | Kiribati Primary Clinical Care Manual

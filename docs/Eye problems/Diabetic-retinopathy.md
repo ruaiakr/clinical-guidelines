@@ -1,77 +1,89 @@
 ﻿---
-sidebar_position: 55
+sidebar_position: 12
+title: Diabetic retinopathy
+hide_title: true
 ---
 
-# Diabetic retinopathy
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Diabetic retinopathy</h1>
 
-Diabetic retinopathy
-Background
-ΓÇó	 Damage to the retina and blood vessels due to diabetic mellitus (DM)
-ΓÇó	 Can affect any patient with DM (type 1 or 2)- risk increases with years since
-diagnosis and poor or unstable blood sugar control.
-ΓÇó	 Progresses over months/years from non-proliferative to proliferative retinopathy
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Damage to the retina and blood vessels due to diabetic mellitus (DM)</li>
+<li>Can affect any patient with DM (type 1 or 2) - risk increases with years since diagnosis and poor or unstable blood sugar control.</li>
+<li>Progresses over months/years from non-proliferative to proliferative retinopathy
+<ul>
+<li>Blindness from damage to the macula and/or retinal detachment and scarring</li>
+</ul>
+</li>
+<li>Damage is usually progressive and irreversible</li>
+</ul>
+</div>
 
-ΓÇô
-Blindness from damage to the macula and/or retinal detachment and scarring
-ΓÇó	 Damage is usually progressive and irreversible
-1.
-May present with
-ΓÇó	 Asymptomatic at the beginning of retinopathy
-ΓÇó	 May have decreased VA
-ΓÇó	 Sudden or Gradual
-ΓÇó	 Flashes of light
-ΓÇó	 Floaters
-ΓÇó	 History of DM, but can be in patients without diagnosis of DM (presenting feature
-for DM)
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Asymptomatic at the beginning of retinopathy</li>
+<li>May have decreased VA</li>
+<li>Sudden or Gradual</li>
+<li>Flashes of light</li>
+<li>Floaters</li>
+<li>History of DM, but can be in patients without diagnosis of DM (presenting feature for DM)
+<ul>
+<li>Blood sugar levels are often poorly controlled (high or fluctuating)</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Blood sugar levels are often poorly controlled (high or fluctuating)
-2.	 Immediate management Not applicable
-3.	 Clinical assessment
-ΓÇó	 Get rapid history/assessment as per Eye assessment plus Red Reflex
-ΓÇó	 Also ask:
-	ΓÇ║
-how quick did the vision go - sudden, over several minutes or hours
-	ΓÇ║
-1 or both eyes
-	ΓÇ║
-other symptoms - any:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management Not applicable</h2>
 
-ΓÇô
-preceding flashes ┬▒ floaters- may indicate retinal detachment
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Get rapid history/assessment as per <a href="/docs/Eye%20problems/Eye-assessment">Eye assessment</a> plus Red Reflex</li>
+<li>Also ask:
+<ul>
+<li>how quick did the vision go - sudden, over several minutes or hours</li>
+<li>1 or both eyes</li>
+<li>other symptoms - any:
+<ul>
+<li>preceding flashes ± floaters - may indicate retinal detachment</li>
+<li>double vision, ‘dark shadow’ in vision of affected eyes</li>
+</ul>
+</li>
+<li>prior episodes</li>
+</ul>
+</li>
+<li>Check Blood sugar levels and blood pressure</li>
+<li>Careful, dilated ophthalmoscopy in both eyes with red-free light</li>
+<li>Assess, if possible, grade of retinopathy (if skilled)</li>
+</ul>
 
-ΓÇô
-double vision, ΓÇÿdark shadowΓÇÖ in vision of affected eyes
-	ΓÇ║
-prior episodes
-ΓÇó	 Check Blood sugar levels and blood sugar
-ΓÇó	 Careful, dilated ophthalmoscopy in both eyes with red-free light
-ΓÇó	 Assess, if possible, grade of retinopathy (if skilled)
-416ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Consult/Refer with Ophthalmologist</li>
+<li>Treatments aims to stop progression of the disease - it cannot reverse the loss of vision
+<ul>
+<li>Laser treatment</li>
+<li>Monthly Intravitreal Injection</li>
+</ul>
+</li>
+<li>All Diabetic patients should have dilated fundus exam annually or as per advice accordingly.</li>
+<li>Strict control of blood sugar levels and blood pressure</li>
+<li>Prognosis:
+<ul>
+<li>Good if early stage and good glycaemic/blood sugar control.</li>
+<li>Prognosis decreases with level of retinopathy, glycaemic/blood sugar control and lack of treatment options.</li>
+</ul>
+</li>
+</ul>
 
-4.	 Management
-ΓÇó	 Consult/Refer with Ophthalmologist
-ΓÇó	 Treatments aims to stop progression of the disease- it cannot reverse the loss of
-vision
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As per Eye Nurses/ Ophthalmologist</li>
+</ul>
 
-ΓÇô
-Laser treatment
-
-ΓÇô
-Monthly Intravitreal Injection
-ΓÇó	 All Diabetic patients should have dilated fundus exam annually or as per advice
-accordingly.
-ΓÇó	 Strict control of blood of sugar levels and blood pressure
-ΓÇó	 Prognosis:
-
-ΓÇô
-Good if early stage and good glycaemic/blood sugar control.
-
-ΓÇô
-Prognosis decreases with level of retinopathy, glycaemic/blood sugar control
-and lack of treatment options.
-5.	 Follow up
-ΓÇó	 As per Eye Nurses/ Ophthalmologist
-6.	 Referral/consultation
-ΓÇó	 As above
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ417
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

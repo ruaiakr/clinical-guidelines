@@ -1,126 +1,82 @@
 ﻿---
-sidebar_position: 51
+sidebar_position: 8
+title: Sudden, painless loss of vision - Adult/Child
+hide_title: true
 ---
 
-# Sudden, painless loss of vision - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Sudden, painless loss of vision - Adult/Child</h1>
 
-4.	 Management
-ΓÇó	 If ruptured eyeball or penetrating injury cannot be ruled out:2,5
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>This is an emergency. Causes can include - stroke, TIA, blockage in eye vessel, retinal detachment</li>
+</ul>
+</div>
 
-ΓÇô
-consult MO urgently
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Sudden loss of vision - partial or complete in 1 or both eyes</li>
+</ul>
 
-ΓÇô
-Apply Eye shield:
-	ΓÇ║
-protect by taping rigid eye shield over eye:2
-	ΓÇ║
-if no eye shield use cut down Styrofoam┬« cup taped securely to the brow +
-cheek
-	ΓÇ║
-make sure the shield/cup is not pressing on the eye
-	ΓÇ║
-bed rest on back, with head elevated if preferred, in dim lighting
-	ΓÇ║
-DonΓÇÖt remove anything attached or sticking out of the Eye.
-	ΓÇ║
-keep nil by mouth 2,5
-ΓÇó	 Consult MO in all cases, who may advise:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>If loss of vision + signs of stroke eg one sided weakness, slurred speech:<sup>1,2</sup>
+<ul>
+<li>contact MO urgently</li>
+<li>see <a href="/docs/Emergency/Transient-ischaemic-attack-and-stroke">Stroke</a></li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Antibiotics: Oral or IV antibiotics
-	ΓÇ║
-Note: Do not put any creams/ointment or preservative-contain into the
-eye as they toxic to internal structures.
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1-3</sup></h2>
+<ul class="pccm-content-list">
+<li>Get rapid history/assessment as per <a href="/docs/Eye%20problems/Eye-assessment">Eye assessment</a></li>
+<li>Also ask:
+<ul>
+<li>how quick did the vision go - sudden, over several minutes or hours</li>
+<li>1 or both eyes - 1 usually means ocular cause; both usually systemic disease</li>
+<li>has vision returned - may indicate TIA/vascular cause</li>
+<li>other symptoms - any:
+<ul>
+<li>preceding flashes ± floaters, or recent facial trauma - may indicate retinal detachment</li>
+<li>double vision, ‘dark shadow’ in vision of affected eye</li>
+<li>jaw pain on chewing - may indicate temporal arteritis</li>
+</ul>
+</li>
+<li>prior episodes</li>
+<li>contact lenses/glasses</li>
+<li>hypertension, diabetes, cataract surgery</li>
+<li>current medicines, eye drops</li>
+</ul>
+</li>
+<li>Vital signs + BGL</li>
+<li>Examine eyes, including:
+<ul>
+<li>VA (distance + near) + pupil reaction to light</li>
+<li>visual field, eye movements</li>
+<li>red reflex - loss of reflex may indicate retinal detachment</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Consider Tetanus toxoid as needed.
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Consult MO urgently for all cases:
+<ul>
+<li>ongoing management ± urgent evacuation for specialist review/management</li>
+</ul>
+</li>
+<li>Minimise activity eg bed rest<sup>3</sup></li>
+</ul>
 
-ΓÇô
-urgent evacuation for ophthalmic review ┬▒ x-ray, CT scan/MRI if suspected
-intraocular FB:
-	ΓÇ║
-if risk of trapped air from penetrating injury, sea level cabin pressure is
-required for flight
-ΓÇó	 Offer analgesia ┬▒ antiemetic. Nausea and vomiting can Γåæinjury.2,5 See Acute pain.
-ΓÇó	 Nausea and vomiting
-ΓÇó	 Prognosis: guarded
-5.	 Follow up
-ΓÇó	 If not evacuated advise follow up as per MO/ophthalmologist
-6.	 Referral/consultation
-ΓÇó	 As above
-402ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As per MO</li>
+</ul>
 
-Sudden, painless loss of vision - Adult/Child
-Background1
-ΓÇó	 This is an emergency. Causes can include - stroke, TIA, blockage in eye vessel,
-retinal detachment
-1.
-May present with
-ΓÇó	 Sudden loss of vision - partial or complete in 1 or both eyes
-2.	 Immediate management
-ΓÇó	 If loss of vision + signs of stroke eg one sided weakness, slurred speech:1,2
-
-ΓÇô
-contact MO urgently
-
-ΓÇô
-see Stroke
-3.	 Clinical assessment1-3
-ΓÇó	 Get rapid history/assessment as per Eye assessment
-ΓÇó	 Also ask:
-
-ΓÇô
-how quick did the vision go - sudden, over several minutes or hours
-
-ΓÇô
-1 or both eyes - 1 usually means ocular cause; both usually systemic disease
-
-ΓÇô
-has vision returned - may indicate TIA/vascular cause
-
-ΓÇô
-other symptoms - any:
-	ΓÇ║
-preceding flashes ┬▒ floaters, or recent facial trauma - may indicate retinal
-detachment
-	ΓÇ║
-double vision, ΓÇÿdark shadowΓÇÖ in vision of affected eye
-	ΓÇ║
-jaw pain on chewing - may indicate temporal arteritis
-
-ΓÇô
-prior episodes
-
-ΓÇô
-contact lenses/glasses
-
-ΓÇô
-hypertension, diabetes, cataract surgery
-
-ΓÇô
-current medicines, eye drops
-ΓÇó	 Vital signs + BGL
-ΓÇó	 Examine eyes, including:
-
-ΓÇô
-VA (distance + near) + pupil reaction to light
-
-ΓÇô
-visual field, eye movements
-
-ΓÇô
-red reflex - loss of reflex may indicate retinal detachment
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ403
-
-4.	 Management
-ΓÇó	 Consult MO urgently for all cases:
-
-ΓÇô
-ongoing management ┬▒ urgent evacuation for specialist review/management
-ΓÇó	 Minimise activity eg bed rest3
-5.	 Follow up
-ΓÇó	 As per MO
-6.	 Referral/consultation
-ΓÇó	 As above
-404ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

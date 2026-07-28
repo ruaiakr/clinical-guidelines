@@ -1,91 +1,79 @@
 ﻿---
-sidebar_position: 48
+sidebar_position: 5
+title: Flash burn to eye - Adult/Child
+hide_title: true
 ---
 
-# Flash burn to eye - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Flash burn to eye - Adult/Child</h1>
 
-5.	 Follow up
-ΓÇó	 Advise to be reviewed daily until healed or sooner if symptoms worsen:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Damage to the cornea from excessive exposure to bright ultra violet (UV) light.<sup>1</sup> If left untreated infection can start, which can lead to loss of vision<sup>2</sup></li>
+</ul>
+</div>
 
-ΓÇô
-repeat VA, stain with fluorescein - consult MO if worsening symptoms/no
-improvement
-ΓÇó	 Advise to see MO at next clinic
-6.	 Referral/consultation
-ΓÇó	 As above
-396ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Intense pain/feeling that there is something in eye (usually both eyes)</li>
+<li>Exposure to UV light around 5–12 hours prior eg:<sup>1</sup>
+<ul>
+<li>welding, direct sunlight, reflection off snow/water, sunlamp, lightning, explosion, solar eclipse</li>
+</ul>
+</li>
+<li>Red, watery eye(s), closed eyelid(s)</li>
+</ul>
 
-Flash burn to eye - Adult/Child
-Background1,2
-ΓÇó	 Damage to the cornea from excessive exposure to bright ultra violet (UV) light.1
-If left untreated
-ΓÇó	 infection can start, which can lead to loss of vision2
-1.
-May present with2
-ΓÇó	 Intense pain/feeling that there is something in eye (usually both eyes)
-ΓÇó	 Exposure to UV light around 5ΓÇô12 hours prior eg:1
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Offer analgesia. See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>.</li>
+</ul>
 
-ΓÇô
-welding, direct sunlight, reflection off snow/water, sunlamp, lightning,
-explosion, solar eclipse
-ΓÇó	 Red, watery eye(s), closed eyelid(s)
-2.	 Immediate management
-ΓÇó	 Offer analgesia. See Acute pain.
-3.	 Clinical assessment
-ΓÇó	 Ask about:3
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Ask about:<sup>3</sup>
+<ul>
+<li>recent welding/other exposure to UV light</li>
+<li>onset/duration of pain/symptoms<sup>1</sup></li>
+<li>photophobia, blurred/changed vision</li>
+<li>one eye or both</li>
+<li>contact lenses - get patient to remove</li>
+<li>has this happened before - ↑ risk of infection after previous injury/burn<sup>3</sup></li>
+</ul>
+</li>
+<li>Do vital signs</li>
+<li>Examine both eyes as per <a href="/docs/Eye%20problems/Eye-assessment">Eye assessment</a>.
+<ul>
+<li>MO to advise on pain relief</li>
+<li>VA</li>
+<li>stain with fluorescein - may show widespread dots (superficial defects) across the cornea, particularly where not protected by eyelids in normal position, often both eyes<sup>5</sup></li>
+<li>if from welding check for FB in eye.</li>
+</ul>
+</li>
+<li>Check face/skin for burns<sup>4</sup></li>
+</ul>
 
-ΓÇô
-recent welding/other exposure to UV light
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>1,5</sup></h2>
+<ul class="pccm-content-list">
+<li>Consult MO if:
+<ul>
+<li>large or central (over pupil) corneal abrasion</li>
+<li>VA ↓</li>
+</ul>
+</li>
+<li>Treat as per <a href="/docs/Eye%20problems/Corneal-abrasion">Corneal abrasion</a>.</li>
+<li>Advise the pain and discomfort should start improving in a few hours</li>
+<li>Usually heals in 1–2 days</li>
+</ul>
 
-ΓÇô
-onset/duration of pain/symptoms1
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As per <a href="/docs/Eye%20problems/Corneal-abrasion">Corneal abrasion</a>.</li>
+</ul>
 
-ΓÇô
-photophobia, blurred/changed vision
-
-ΓÇô
-one eye or both
-
-ΓÇô
-contact lenses - get patient to remove
-
-ΓÇô
-has this happened before - Γåæ risk of infection after previous injury/burn3
-ΓÇó	 Do vital signs
-ΓÇó	 Examine both eyes as per Eye assessment.
-
-ΓÇô
-MO to advise on pain relief
-
-ΓÇô
-VA
-
-ΓÇô
-stain with fluorescein - may show widespread dots (superficial defects) across
-the cornea,
-
-ΓÇô
-particularly where not protected by eyelids in normal position, often both
-eyes5
-
-ΓÇô
-if from welding check for FB in eye.
-ΓÇó	 Check face/skin for burns4
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ397
-
-4.	 Management1,5
-ΓÇó	 Consult MO if:
-
-ΓÇô
-large or central (over pupil) corneal abrasion
-
-ΓÇô
-VA Γåô
-ΓÇó	 Treat as per Corneal abrasion.
-ΓÇó	 Advise the pain and discomfort should start improving in a few hours
-ΓÇó	 Usually heals in 1ΓÇô2 days
-5.	 Follow up
-ΓÇó	 As per Corneal abrasion.
-6.	 Referral/consultation
-ΓÇó	 As above
-398ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

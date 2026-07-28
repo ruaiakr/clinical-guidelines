@@ -1,186 +1,148 @@
 ﻿---
-sidebar_position: 65
+sidebar_position: 10
+title: Hepatitis A – Adult/Child
+hide_title: true
 ---
 
-# Hepatitis A ΓÇô Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Hepatitis A – Adult/Child</h1>
 
-Hepatitis A ΓÇô Adult/Child
-Recommend1
-ΓÇó	 Acute hepatitis A is a notifiable condition
-ΓÇó	 Vaccinate according to the National Immunisation Program schedule, and
-advise on avoidance of risk factors (e.g. untreated water, poor hand hygiene,
-unsafe food preparation)
-ΓÇó	 Perform contact tracing to identify and monitor exposed individuals
-Background1
-ΓÇó	 Hepatitis A virus (HAV) is common in Kiribati
-ΓÇó	 HAV is transmitted by the faecalΓÇôoral route, typically from contaminated food or
-water, and less commonly via sexual contact (oralΓÇôanal practices)
-ΓÇó	 Incubation period: 2ΓÇô7 weeks (average 28ΓÇô30 days)
-ΓÇó	 HAV infection is self-limiting, with illness usually resolving within 6 months. Does
-not cause chronic disease
-ΓÇó	 HAV is excreted in stools 2 weeks before symptoms appear, and up to 1 week
-after the onset of jaundice
-ΓÇó	 Two cases in a household or community setting constitute an outbreak
-ΓÇó	 Clinical severity varies:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Acute hepatitis A is a notifiable condition</li>
+<li>Vaccinate according to the National Immunisation Program schedule, and advise on avoidance of risk factors (e.g. untreated water, poor hand hygiene, unsafe food preparation)</li>
+<li>Perform contact tracing to identify and monitor exposed individuals</li>
+</ul>
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Hepatitis A virus (HAV) is common in Kiribati</li>
+<li>HAV is transmitted by the faecal–oral route, typically from contaminated food or water, and less commonly via sexual contact (oral–anal practices)</li>
+<li>Incubation period: 2–7 weeks (average 28–30 days)</li>
+<li>HAV infection is self-limiting, with illness usually resolving within 6 months. Does not cause chronic disease</li>
+<li>HAV is excreted in stools 2 weeks before symptoms appear, and up to 1 week after the onset of jaundice</li>
+<li>Two cases in a household or community setting constitute an outbreak</li>
+<li>Clinical severity varies:
+<ul>
+<li>Mild illness (1–2 weeks)</li>
+<li>Severe disabling illness (lasting several months)</li>
+</ul>
+</li>
+<li>Relapsing hepatitis A (up to one year) can occur; severity increases with age</li>
+<li>Mother-to-child transmission of HAV is not typical, but all pregnant women should be screened and managed for hepatitis B, HIV, and syphilis, regardless of suspected hepatitis A</li>
+</ul>
+</div>
 
-ΓÇô
-Mild illness (1ΓÇô2 weeks)
+<h2 class="pccm-section-heading-blue" id="may-present-with">May present with<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Often asymptomatic, especially in infants and young children</li>
+<li>If symptomatic:
+<ul>
+<li>Fever, malaise, nausea, abdominal discomfort</li>
+<li>Loss of appetite</li>
+<li>Jaundice (yellow skin/eyes)</li>
+<li>Dark urine, pale stools</li>
+<li>Itchy skin (pruritis)</li>
+</ul>
+</li>
+<li>Laboratory findings:
+<ul>
+<li>Detection of anti-hepatitis A IgM, in the absence of recent vaccination (if available)</li>
+<li>Detection of HAV by nucleic acid testing (if available)</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Severe disabling illness (lasting several months)
-ΓÇó	 Relapsing hepatitis A (up to one year) can occur; severity increases with age
-ΓÇó	 Mother-to-child transmission of HAV is not typical, but all pregnant women
-should be screened and managed for hepatitis B, HIV, and syphilis, regardless of
-suspected hepatitis A
-May present with1,2
-ΓÇó	 Often asymptomatic, especially in infants and young children
-ΓÇó	 If symptomatic:
+<h2 class="pccm-section-heading-blue" id="immediate-management">1. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Acute infection is self-limiting and can be managed on an outpatient-basis</li>
+<li>If in-patient care is required, it may involve supportive therapy</li>
+<li>Counselling of patient and immediate family must be provided to ensure awareness, support and prevention of transmission</li>
+</ul>
 
-ΓÇô
-Fever, malaise, nausea, abdominal discomfort
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">2. Clinical assessment<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Obtain comprehensive history, including:
+<ul>
+<li>Contact with known hepatitis A case</li>
+<li>Water and sanitation conditions at home or workplace</li>
+<li>Travel history</li>
+<li>Medications and occupation (especially food handling, healthcare, teaching)</li>
+<li>Immunisation history</li>
+</ul>
+</li>
+<li>Perform standard observations (Q-ADDS/CEWT or local early warning tools)</li>
+<li>Physical examination – look for jaundice, dehydration, abdominal tenderness</li>
+<li>Take bloods for:
+<ul>
+<li>Hepatitis A, B, and C serology</li>
+<li>Liver function tests (LFTs)</li>
+<li>INR</li>
+</ul>
+</li>
+<li>For antenatal patients:
+<ul>
+<li>Conduct point-of-care screening for hepatitis B, HIV, and syphilis using WHO-approved tests (e.g. Determine™ HBsAg2)</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Loss of appetite
+<h2 class="pccm-section-heading-blue" id="management">3. Management<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Consult Medical Officer (MO) on all occasions when hepatitis A is suspected or jaundice is present</li>
+<li>Consult urgently if INR ≥ 1.5, or if signs of liver failure (e.g. confusion, bleeding, prolonged prothrombin time)</li>
+<li>Treatment of hepatitis A is supportive and symptomatic:
+<ul>
+<li>Hospitalisation rarely required</li>
+<li>Bed rest advised if jaundiced</li>
+</ul>
+</li>
+<li>During the infectious period (7 days after jaundice or dark urine begins, or 2 weeks after initial symptoms), advise the patient not to:
+<ul>
+<li>Donate blood</li>
+<li>Drink alcohol or take paracetamol</li>
+<li>Prepare or handle food for others</li>
+<li>Have sex</li>
+<li>Attend school, childcare, work</li>
+<li>Provide personal care to others</li>
+<li>Share food, drinks, cigarettes, drug-injection equipment</li>
+</ul>
+</li>
+<li>Patient and household education:
+<ul>
+<li>Emphasise handwashing and hygiene</li>
+<li>Avoid shared food preparation</li>
+</ul>
+</li>
+<li>If pregnant and HBsAg positive:
+<ul>
+<li>Start antiviral prophylaxis at 28 weeks gestation, or earlier if clinically indicated (see <a href="/docs/Gastrointestinal/Hepatitis-B">Hepatitis B</a> section)</li>
+<li>Women from outer islands should begin treatment during antenatal contact and remain on treatment after delivery</li>
+<li>Continue treatment for at least 6 weeks postpartum, to reduce risk of flares – use is safe during breastfeeding</li>
+<li>Ensure timely hepatitis B birth dose vaccine is provided – give within 24 hours of delivery</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Jaundice (yellow skin/eyes)
+<h2 class="pccm-section-heading-blue" id="follow-up">4. Follow up<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Advise patient to return within 24 hours for clinical review</li>
+<li>Ensure Public Health notification has occurred</li>
+<li>For pregnant women, confirm linkage to antenatal follow-up and treatment continuation postpartum if on hepatitis B therapy</li>
+</ul>
 
-ΓÇô
-Dark urine, pale stools
+<h2 class="pccm-section-heading-blue" id="referral-consultation">5. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO for all confirmed or suspected cases</li>
+<li>Notify Public Health – hepatitis A is a notifiable disease</li>
+<li>Liaise with Public Health Unit for:
+<ul>
+<li>Contact tracing</li>
+<li>Immunisation of close household contacts</li>
+<li>Monitoring of antenatal screening coverage and treatment compliance in pregnant women</li>
+<li>Outbreak response in community settings</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Itchy skin (pruritis)
-ΓÇó	 Laboratory findings:
-
-ΓÇô
-Detection of anti-hepatitis A IgM, in the absence of recent vaccination (if
-available)
-
-ΓÇô
-Detection of HAV by nucleic acid testing (if available)
-444ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-1.
-Immediate management
-ΓÇó	 Acute infection is self-limiting and can be managed on an outpatient-basis
-ΓÇó	 If in-patient care is required, it may involve supportive therapy
-ΓÇó	 Counselling of patient and immediate family must be provided to ensure
-awareness, support and prevention of transmission
-2.	 Clinical assessment1
-ΓÇó	 Obtain comprehensive history, including:
-
-ΓÇô
-Contact with known hepatitis A case
-
-ΓÇô
-Water and sanitation conditions at home or workplace
-
-ΓÇô
-Travel history
-
-ΓÇô
-Medications and occupation (especially food handling, healthcare, teaching)
-
-ΓÇô
-Immunisation history
-ΓÇó	 Perform standard observations (Q-ADDS/CEWT or local early warning tools)
-ΓÇó	 Physical examination ΓÇô look for jaundice, dehydration, abdominal tenderness
-ΓÇó	 Take bloods for:
-
-ΓÇô
-Hepatitis A, B, and C serology
-
-ΓÇô
-Liver function tests (LFTs)
-
-ΓÇô
-INR
-ΓÇó	 For antenatal patients:
-
-ΓÇô
-Conduct point-of-care screening for hepatitis B, HIV, and syphilis using
-WHO-approved tests (e.g. DetermineΓäó HBsAg2)
-3.	 Management1,2
-ΓÇó	 Consult Medical Officer (MO) on all occasions when hepatitis A is suspected or
-jaundice is present
-ΓÇó	 Consult urgently if INR ΓëÑ 1.5, or if signs of liver failure (e.g. confusion, bleeding,
-prolonged prothrombin time)
-ΓÇó	 Treatment of hepatitis A is supportive and symptomatic:
-
-ΓÇô
-Hospitalisation rarely required
-
-ΓÇô
-Bed rest advised if jaundiced
-ΓÇó	 During the infectious period (7 days after jaundice or dark urine begins, or
-2 weeks after initial symptoms), advise the patient not to:
-
-ΓÇô
-Donate blood
-
-ΓÇô
-Drink alcohol or take paracetamol
-
-ΓÇô
-Prepare or handle food for others
-
-ΓÇô
-Have sex
-
-ΓÇô
-Attend school, childcare, work
-
-ΓÇô
-Provide personal care to others
-
-ΓÇô
-Share food, drinks, cigarettes, drug-injection equipment
-ΓÇó	 Patient and household education:
-
-ΓÇô
-Emphasise handwashing and hygiene
-
-ΓÇô
-Avoid shared food preparation
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ445
-
-ΓÇó	 If pregnant and HBsAg positive:
-
-ΓÇô
-Start antiviral prophylaxis at 28 weeks gestation, or earlier if clinically
-indicated (see Hepatitis B section)
-
-ΓÇô
-Women from outer islands should begin treatment during antenatal contact
-and remain on treatment after delivery
-
-ΓÇô
-Continue treatment for at least 6 weeks postpartum, to reduce risk of flares ΓÇô
-use is safe during breastfeeding
-
-ΓÇô
-Ensure timely hepatitis B birth dose vaccine is provided ΓÇô give within 24
-hours of delivery
-4.	 Follow up1
-ΓÇó	 Advise patient to return within 24 hours for clinical review
-ΓÇó	 Ensure Public Health notification has occurred
-ΓÇó	 For pregnant women, confirm linkage to antenatal follow-up and treatment
-continuation postpartum if on hepatitis B therapy
-5.	 Referral/consultation
-ΓÇó	 Consult MO for all confirmed or suspected cases
-ΓÇó	 Notify Public Health ΓÇô hepatitis A is a notifiable disease
-ΓÇó	 Liaise with Public Health Unit for:
-
-ΓÇô
-Contact tracing
-
-ΓÇô
-Immunisation of close household contacts
-
-ΓÇô
-Monitoring of antenatal screening coverage and treatment compliance in
-pregnant women
-
-ΓÇô
-Outbreak response in community settings
-446ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+</div>

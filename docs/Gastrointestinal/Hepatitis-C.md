@@ -1,131 +1,129 @@
 ﻿---
-sidebar_position: 67
+sidebar_position: 12
+title: Hepatitis C – Adult/Child
+hide_title: true
 ---
 
-# Hepatitis C ΓÇô Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Hepatitis C – Adult/Child</h1>
 
-Hepatitis C ΓÇô Adult/Child
-Recommend1
-ΓÇó	 Acute hepatitis C is a notifiable condition
-ΓÇó	 For all patients with anti-HCV antibodies: perform HCV PCR (viral load) to
-confirm active infection.
-ΓÇó	 Screen all at-risk patients (STI-positive, IV drug users, sex workers) for hepatitis
-B, C, HIV and syphilis
-ΓÇó	 Include universal antenatal screening for hepatitis B, HIV, and syphilis using
-WHO pre-qualified point-of-care tests in all health facilities
-Background2
-ΓÇó	 Hepatitis C virus (HCV) is uncommon in Kiribati
-ΓÇó	 Acute HCV = first 6 months after infection
-ΓÇó	 Most cases are asymptomatic; spontaneous clearance in 20ΓÇô25% of cases
-ΓÇó	 Causes chronic infection and should be treated with antivirals
-ΓÇó	 WHO-recommends treatment initiation for chronic HCV.
-ΓÇó	 Chronic HCV is curable
-ΓÇó	 ΓëÑ2 cases = outbreak3
-1.
-May present with3
-ΓÇó	 No symptoms (most cases)
-ΓÇó	 If present:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Acute hepatitis C is a notifiable condition</li>
+<li>For all patients with anti-HCV antibodies: perform HCV PCR (viral load) to confirm active infection.</li>
+<li>Screen all at-risk patients (STI-positive, IV drug users, sex workers) for hepatitis B, C, HIV and syphilis</li>
+<li>Include universal antenatal screening for hepatitis B, HIV, and syphilis using WHO pre-qualified point-of-care tests in all health facilities</li>
+</ul>
+<h2 class="pccm-section-heading">Background<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Hepatitis C virus (HCV) is uncommon in Kiribati</li>
+<li>Acute HCV = first 6 months after infection</li>
+<li>Most cases are asymptomatic; spontaneous clearance in 20–25% of cases</li>
+<li>Causes chronic infection and should be treated with antivirals</li>
+<li>WHO-recommends treatment initiation for chronic HCV.</li>
+<li>Chronic HCV is curable</li>
+<li>≥2 cases = outbreak<sup>3</sup></li>
+</ul>
+</div>
 
-ΓÇô
-Jaundice, fatigue, anorexia, nausea
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>3</sup></h2>
+<ul class="pccm-content-list">
+<li>No symptoms (most cases)</li>
+<li>If present:
+<ul>
+<li>Jaundice, fatigue, anorexia, nausea</li>
+<li>Vomiting, upper abdominal pain</li>
+</ul>
+</li>
+<li>Laboratory findings:
+<ul>
+<li>Positive anti-HCV</li>
+<li>Positive HCV RNA</li>
+<li>Elevated ALT</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Vomiting, upper abdominal pain
-ΓÇó	 Laboratory findings:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-ΓÇô
-Positive anti-HCV
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>4</sup></h2>
+<ul class="pccm-content-list">
+<li>History:
+<ul>
+<li>IV drug use, tattooing, blood exposure, shared razors</li>
+<li>Contact with HCV-positive individuals</li>
+<li>Alcohol intake</li>
+</ul>
+</li>
+<li>Observations:
+<ul>
+<li>Full vitals (Q-ADDS/CEWT)</li>
+<li>Urinalysis for bilirubin/urobilinogen</li>
+</ul>
+</li>
+<li>Examination:
+<ul>
+<li>Jaundice, hepatomegaly, RUQ tenderness</li>
+</ul>
+</li>
+<li>Blood tests:
+<ul>
+<li>LFTs, INR, UEC – calculate APRI-score</li>
+<li>HCV RNA (viral load)</li>
+<li>HIV, HBV serology</li>
+</ul>
+</li>
+<li>In pregnant women:
+<ul>
+<li>Perform routine hepatitis C screening</li>
+<li>Coordinate with Hepatitis Clinic/ANC for follow-up</li>
+<li>While PMTCT risk for HCV is lower than HBV, screening is essential for maternal counselling and postnatal infant follow-up</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Positive HCV RNA
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>2,3</sup></h2>
+<ul class="pccm-content-list">
+<li>Consult MO for all suspected cases</li>
+<li>Urgent referral if INR ≥ 1.5 or if systemically unwell</li>
+<li>Supportive treatment only for acute phase</li>
+<li>Bed rest advised if jaundiced</li>
+<li>Educate patient and contacts:
+<ul>
+<li>Avoid sharing injecting equipment, razors, toothbrushes</li>
+<li>Do not donate blood</li>
+<li>Avoid paracetamol and address alcohol intake</li>
+</ul>
+</li>
+<li>Vaccinate against hepatitis A and B – if unvaccinated</li>
+<li>Contact tracing (up to 180 days exposure) in consultation with MO or Public Health</li>
+<li>Chronic HCV infection: requires treatment with antivirals (Sofosbuvir &amp; Daclatasvir) – consult MO/Hepatitis Program</li>
+<li>Pregnant women:
+<ul>
+<li>Provide education and linkage to early infant screening</li>
+<li>Ensure no delay in treatment planning if chronic HCV confirmed postpartum</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Elevated ALT
-2.	 Immediate management
-ΓÇó	 Not applicable
-450ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up<sup>3</sup></h2>
+<ul class="pccm-content-list">
+<li>Review in 24 hours, reinforce education (i.e. alcohol use, adherence)</li>
+<li>Repeat HCV RNA after 6 months to confirm clearance or chronicity</li>
+<li>Monitor LFTs and INR</li>
+<li>Annual HCV RNA testing if risk factors persist</li>
+</ul>
 
-3.	 Clinical assessment4
-ΓÇó	 History:
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral / consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO as required</li>
+<li>Notify Public Health Unit / Hepatitis Program</li>
+<li>Refer to hepatitis specialist/clinic if chronic HCV or if treatment is indicated</li>
+<li>Coordinate care with Hepatitis services for pregnant patients and infant testing plans</li>
+</ul>
 
-ΓÇô
-IV drug use, tattooing, blood exposure, shared razors
-
-ΓÇô
-Contact with HCV-positive individuals
-
-ΓÇô
-Alcohol intake
-ΓÇó	 Observations:
-
-ΓÇô
-Full vitals (Q-ADDS/CEWT)
-
-ΓÇô
-Urinalysis for bilirubin/urobilinogen
-ΓÇó	 Examination:
-
-ΓÇô
-Jaundice, hepatomegaly, RUQ tenderness
-ΓÇó	 Blood tests:
-
-ΓÇô
-LFTs, INR, UEC ΓÇô calculate APRI-score
-
-ΓÇô
-HCV RNA (viral load)
-
-ΓÇô
-HIV, HBV serology
-ΓÇó	 In pregnant women:
-
-ΓÇô
-Perform routine hepatitis C screening
-
-ΓÇô
-Coordinate with Hepatitis Clinic/ANC for follow-up
-
-ΓÇô
-While PMTCT risk for HCV is lower than HBV, screening is essential for
-maternal counselling and postnatal infant follow-up
-4.	 Management2,3
-ΓÇó	 Consult MO for all suspected cases
-ΓÇó	 Urgent referral if INR ΓëÑ 1.5 or if systemically unwell
-ΓÇó	 Supportive treatment only for acute phase
-ΓÇó	 Bed rest advised if jaundiced
-ΓÇó	 Educate patient and contacts:
-
-ΓÇô
-Avoid sharing injecting equipment, razors, toothbrushes
-
-ΓÇô
-Do not donate blood
-
-ΓÇô
-Avoid paracetamol and address alcohol intake
-ΓÇó	 Vaccinate against hepatitis A and B ΓÇô if unvaccinated
-ΓÇó	 Contact tracing (up to 180 days exposure) in consultation with MO or Public
-Health
-ΓÇó	 Chronic HCV infection: requires treatment with antivirals (Sofosbuvir &
-Daclatasvir) ΓÇô consult MO/Hepatitis Program
-ΓÇó	 Pregnant women:
-
-ΓÇô
-Provide education and linkage to early infant screening
-
-ΓÇô
-Ensure no delay in treatment planning if chronic HCV confirmed postpartum
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ451
-
-5.	 Follow up3
-ΓÇó	 Review in 24 hours, reinforce education (i.e. alcohol use, adherence)
-ΓÇó	 Repeat HCV RNA after 6 months to confirm clearance or chronicity
-ΓÇó	 Monitor LFTs and INR
-ΓÇó	 Annual HCV RNA testing if risk factors persist
-6.	 Referral / consultation
-ΓÇó	 Consult MO as required
-ΓÇó	 Notify Public Health Unit / Hepatitis Program
-ΓÇó	 Refer to hepatitis specialist/clinic if chronic HCV or if treatment is indicated
-ΓÇó	 Coordinate care with Hepatitis services for pregnant patients and infant testing
-plans
-452ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+</div>

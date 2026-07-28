@@ -1,166 +1,92 @@
 ﻿---
-sidebar_position: 50
+sidebar_position: 7
+title: Eye injury - Adult/Child
+hide_title: true
 ---
 
-# Eye injury - Adult/Child Blunt, penetrating
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Eye injury - Adult/Child</h1>
+<p class="pccm-page-subtitle">Blunt, penetrating</p>
 
-3.	 Clinical assessment
-ΓÇó	 Get rapid history while irrigating:
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1-3</sup></h2>
+<ul class="pccm-content-list">
+<li>Trauma ±</li>
+<li>Blunt / Penetrating
+<ul>
+<li>Pain</li>
+<li>Possible bleeding</li>
+<li>loss of vision, double vision, photophobia</li>
+<li>excessive tearing - if globe perforated, aqueous will leak out + look like excessive tearing</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-when/how did it happen - if explosion may have other injuries1
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Assess + treat life-threatening injuries<sup>4</sup> eg <a href="/docs/Emergency/Head-injuries">Head injuries</a>. <a href="/docs/Emergency/Traumatic-injuries">Traumatic injuries</a>.</li>
+<li>If obvious penetrating injury or protruding FB do not remove - consult MO urgently<sup>2,5</sup></li>
+</ul>
 
-ΓÇô
-what was the chemical and active ingredients if possible. Note: alkalis burn
-deeper + require
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Get history + do examination as per <a href="/docs/Eye%20problems/Eye-assessment">Eye assessment</a>, including:
+<ul>
+<li>if blow to the eye/blunt injury eg fist, falls, sports - check for orbital fracture:<sup>3,4</sup></li>
+<li>feel the bony rim above and below the eye - any deformity, pain</li>
+<li>any numbness of the lower lid, cheek, side of nose, upper lip, teeth<sup>3</sup></li>
+<li>if the eye looks displaced lower than other eye or is turning out - may indicate a blow out fracture</li>
+<li>note: if using fluorescein, also look for the Seidel sign - where the aqueous leaking out of a perforating injury causes an expanding dark patch to form in the fluorescein pattern</li>
+<li>May have Iris prolapse</li>
+</ul>
+</li>
+<li>If suspected penetrating injury, check tetanus status<sup>2</sup></li>
+<li>Do vital signs</li>
+</ul>
 
-ΓÇô
-more irrigation eg lime, oven cleaner 1-3
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>If ruptured eyeball or penetrating injury cannot be ruled out:<sup>2,5</sup>
+<ul>
+<li>consult MO urgently</li>
+<li>Apply Eye shield:
+<ul>
+<li>protect by taping rigid eye shield over eye:<sup>2</sup></li>
+<li>if no eye shield use cut down Styrofoam® cup taped securely to the brow + cheek</li>
+<li>make sure the shield/cup is not pressing on the eye</li>
+<li>bed rest on back, with head elevated if preferred, in dim lighting</li>
+<li>Don’t remove anything attached or sticking out of the Eye.</li>
+<li>keep nil by mouth<sup>2,5</sup></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Consult MO in all cases, who may advise:
+<ul>
+<li>Antibiotics: Oral or IV antibiotics
+<ul>
+<li>Note: Do not put any creams/ointment or preservative-containing into the eye as they are toxic to internal structures.</li>
+</ul>
+</li>
+<li>Consider Tetanus toxoid as needed.</li>
+<li>urgent evacuation for ophthalmic review ± x-ray, CT scan/MRI if suspected intraocular FB:
+<ul>
+<li>if risk of trapped air from penetrating injury, sea level cabin pressure is required for flight</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Offer analgesia ± antiemetic. Nausea and vomiting can ↑injury.<sup>2,5</sup> See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>.</li>
+<li><a href="/docs/Pain,%20nausea%20and%20vomiting/Nausea-and-vomiting">Nausea and vomiting</a></li>
+<li>Prognosis: guarded</li>
+</ul>
 
-ΓÇô
-any first aid, how soon after 1,2
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>If not evacuated advise follow up as per MO/ophthalmologist</li>
+</ul>
 
-ΓÇô
-photophobia
-
-ΓÇô
-pain in or around the eye
-
-ΓÇô
-vision changes
-ΓÇó	 Do vital signs?
-ΓÇó	 After 30 minutes of irrigation:2
-
-ΓÇô
-use litmus paper to check pH, touch the paper on inside lower eyelid
-
-ΓÇô
-pH should be between 6.5ΓÇô7.4
-
-ΓÇô
-if not - keep irrigating + contact MO
-
-ΓÇô
-use Morgan Lens┬« if skilled
-ΓÇó	 If pH 6.5ΓÇô7.4 check:
-
-ΓÇô
-VA + stain with fluorescein
-
-ΓÇô
-outer aspects of eye + lids for abnormalities: 1,2
-
-ΓÇô
-cornea clear or cloudy, can you see iris details2 cloudy may indicate severe
-burn1
-
-ΓÇô
-evert lids again - any retained chemical 2,3
-ΓÇó	 check surrounding skin
-4.	 Management
-ΓÇó	 Consult MO urgently, who will advise:
-
-ΓÇô
-further management ┬▒ evacuation for ophthalmology review
-5.	 Follow up
-ΓÇó	 As per MO/ophthalmologist
-6.	 Referral/consultation
-ΓÇó	 As above
-400ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-Eye injury - Adult/Child
-Blunt, penetrating
-1.
-May present with1-3
-ΓÇó	 Trauma ┬▒
-ΓÇó	 Blunt Penetrating
-
-ΓÇô
-Pain
-
-ΓÇô
-Possible bleeding
-
-ΓÇô
-loss of vision, double vision, photophobia
-
-ΓÇô
-excessive tearing - if globe perforated, aqueous will leak out + look like
-excessive tearing
-2.	 Immediate management
-ΓÇó	 Assess + treat life-threatening injuries4 eg Head injuries. Traumatic injuries.
-ΓÇó	 If obvious penetrating injury or protruding FB do not remove - consult MO
-urgently 2,5
-3.	 Clinical assessment
-ΓÇó	 Get history + do examination as per Eye assessment, including:
-
-ΓÇô
-if blow to the eye/blunt injury eg fist, falls, sports - check for orbital fracture:3,4
-
-ΓÇô
-feel the bony rim above and below the eye - any deformity, pain
-
-ΓÇô
-any numbness of the lower lid, cheek, side of nose, upper lip, teeth3
-
-ΓÇô
-if the eye looks displaced lower than other eye or is turning out - may indicate
-a blow out fracture
-
-ΓÇô
-note: if using fluorescein, also look for the Seidel sign - where the aqueous
-leaking out of a perforating injury causes an expanding dark patch to form in
-the fluorescein pattern
-
-ΓÇô
-May have Iris prolapse
-ΓÇó	 If suspected penetrating injury, check tetanus status2
-ΓÇó	 Do vital signs
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ401
-
-4.	 Management
-ΓÇó	 If ruptured eyeball or penetrating injury cannot be ruled out:2,5
-
-ΓÇô
-consult MO urgently
-
-ΓÇô
-Apply Eye shield:
-	ΓÇ║
-protect by taping rigid eye shield over eye:2
-	ΓÇ║
-if no eye shield use cut down Styrofoam┬« cup taped securely to the brow +
-cheek
-	ΓÇ║
-make sure the shield/cup is not pressing on the eye
-	ΓÇ║
-bed rest on back, with head elevated if preferred, in dim lighting
-	ΓÇ║
-DonΓÇÖt remove anything attached or sticking out of the Eye.
-	ΓÇ║
-keep nil by mouth 2,5
-ΓÇó	 Consult MO in all cases, who may advise:
-
-ΓÇô
-Antibiotics: Oral or IV antibiotics
-	ΓÇ║
-Note: Do not put any creams/ointment or preservative-contain into the
-eye as they toxic to internal structures.
-
-ΓÇô
-Consider Tetanus toxoid as needed.
-
-ΓÇô
-urgent evacuation for ophthalmic review ┬▒ x-ray, CT scan/MRI if suspected
-intraocular FB:
-	ΓÇ║
-if risk of trapped air from penetrating injury, sea level cabin pressure is
-required for flight
-ΓÇó	 Offer analgesia ┬▒ antiemetic. Nausea and vomiting can Γåæinjury.2,5 See Acute pain.
-ΓÇó	 Nausea and vomiting
-ΓÇó	 Prognosis: guarded
-5.	 Follow up
-ΓÇó	 If not evacuated advise follow up as per MO/ophthalmologist
-6.	 Referral/consultation
-ΓÇó	 As above
-402ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

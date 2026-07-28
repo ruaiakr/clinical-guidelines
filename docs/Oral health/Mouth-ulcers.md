@@ -1,194 +1,132 @@
 ﻿---
-sidebar_position: 35
+sidebar_position: 4
+title: Mouth ulcers - Adult/Child
+hide_title: true
 ---
 
-# Mouth ulcers - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Mouth ulcers - Adult/Child</h1>
 
-AMOXILCILLIN
-L2B
-Form
-Strength
-Route
-Dose
-Duration
-Liquid
-0.4 g/0.4
-mL 5%
-(single
-dose)
-50 mg/1
-mL (10 mL
-tube 5%)
-Topical
-to teeth
-Child 18
-monthsΓÇô6 years
-up to 0.25 mL
-Child 6ΓÇô12 years
-up to 0.4 mL
-> 12 yearsΓÇôadult
-up to 0.75 mL
-Use Duraphat┬«
-dosing card if
-not using single
-dose preparation
-stat
-Then administer 6
-monthly or 3 monthly if
-indicated
-Do not supply for self or
-parent administration
-Offer CMI: Teeth may appear discoloured temporarily following application. Do
-not brush teeth on day of application - resume brushing the next morning. Eat
-soft foods for the rest of the day to minimise disruption of the varnish
-Note: Do not apply if ulcerative gingivitis or stomatitis to avoid discomfort for
-patient (contains alcohol). Do not leave fluoride varnish unattended when in use.
-Fluoride varnish is an S4 when used by clinicians other than dental practitioners
-Contraindication: Allergy to colophony (natural rosin) or sticking plaster; any
-episode of severe allergy or bronchial asthma that has required hospitalisation
-Management of associated emergency: Adverse reactions extremely rare. If
-occurs contact MO or dentist.
-5.	 Follow up
-ΓÇó	 Arrange re-call for review of oral health status and reapplication of fluoride
-varnish:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Ulcers persisting &gt; 2 weeks are potentially serious<sup>1</sup></li>
+<li>Ulcers are common in teenagers and young adults. The most common mouth ulcer is recurrent aphthous stomatitis (unknown cause), which affects 5–60% of the general population<sup>1,2</sup></li>
+</ul>
+</div>
 
-ΓÇô
-if low risk - every 6 months, if high risk - every 3 months
-6.	 Referral/consultation
-ΓÇó	 Refer high risk and patients with obvious dental caries to dentist
-358ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Ulcer(s) in mouth</li>
+</ul>
 
-Mouth ulcers - Adult/Child
-Background
-ΓÇó	 Ulcers persisting > 2 weeks are potentially serious1
-ΓÇó	 Ulcers are common in teenagers and young adults. The most common mouth
-ulcer is recurrent aphthous stomatitis (unknown cause), which aects 5ΓÇô60% of
-the general population1,2
-1.
-May present with2
-ΓÇó	 Ulcer(s) in mouth
-2.	 Immediate management Not applicable
-3.	 Clinical assessment1,2
-ΓÇó	 Ask about:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-ΓÇô
-when did ulcer(s) appear, duration
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Ask about:
+<ul>
+<li>when did ulcer(s) appear, duration</li>
+<li>is it recurring</li>
+<li>does patient suspect the cause eg trauma from:<sup>3</sup>
+<ul>
+<li>biting tongue/cheek</li>
+<li>thermal burn from eating or drinking food that is too hot/cold</li>
+<li>poor fitting dentures/sharp or broken teeth</li>
+<li>use of topical agents in mouth, oral rinses</li>
+</ul>
+</li>
+<li>pain or pins and needles/tingling sensation(s) in mouth or face</li>
+<li>dry mouth – is cause known eg medicine side effect</li>
+<li>fever</li>
+<li>ulcers anywhere else on body</li>
+</ul>
+</li>
+<li>Past history:
+<ul>
+<li>previous ulcer(s)</li>
+<li>immunocompromised eg chemotherapy, malnutrition, HIV</li>
+<li>STI history. See STI/BBV assessment. – consider syphilis and gonorrhoea:<sup>2</sup>
+<ul>
+<li>screen if appropriate</li>
+</ul>
+</li>
+<li>smoking, alcohol use</li>
+<li>anaemia</li>
+<li>diet, recent weight loss</li>
+</ul>
+</li>
+<li>Do:
+<ul>
+<li>vital signs</li>
+<li>inspect mouth, lips and tongue:
+<ul>
+<li>1 or more ulcers</li>
+<li>size, location, shape – oval/round or irregular</li>
+<li>any pigmented lesions on the ulcer</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-is it recurring
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Most ulcers are self-limiting and heal within a few days</li>
+<li>If patient unwell/has other symptoms, consult MO/Dentist</li>
+<li>If poor fitting dentures or broken/sharp teeth, advise to see dentist at next clinic</li>
+<li>If ulcer(s) recurring, or has persisted for &gt; 2 weeks:<sup>2,4</sup>
+<ul>
+<li>refer to next MO/Dentist clinic for investigations ± biopsy for less common causes eg: metabolic, dermatological, allergic, immunological, infectious or cancer</li>
+</ul>
+</li>
+<li>Symptom relief options:<sup>2</sup>
+<ul>
+<li>chlorhexidine gluconate 0.2% mouthwash. See <a href="/docs/Oral health/Gum-disease">Gum disease</a> for instructions</li>
+<li>topical anaesthetic<sup>5</sup> eg Seda lotion®</li>
+<li>salt water mouth rinses<sup>3</sup></li>
+<li>avoid acidic drinks (eg fruit juice or soft drink) and very spicy/sharp food</li>
+<li>clean teeth properly</li>
+<li>if needed, paracetamol or ibuprofen may help. See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>.</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-does patient suspect the cause eg trauma from:3
-	ΓÇ║
-biting tongue/cheek
-	ΓÇ║
-thermal burn from eating or drinking food that is too hot/cold
-	ΓÇ║
-poor fitting dentures/sharp or broken teeth
-	ΓÇ║
-use of topical agents in mouth, oral rinses
+<h2 class="pccm-section-heading-orange" id="lidocaine-lignocaine">LIDOCAINE (LIGNOCAINE) (SEDA LOTION®)</h2>
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">LIDOCAINE (LIGNOCAINE) (SEDA LOTION®)</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Lotion</td>
+<td>2.5%<br />15 mL</td>
+<td>Topical</td>
+<td>Dip cotton wool tip in lotion and apply to ulcer as needed. Max. every 2 hours</td>
+<td>If not improving after 2 weeks, advise to see MO/Dentist</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> Caution with hot drinks as numbness can result in burns</p>
+<p><strong>Contraindication:</strong> Not for use in infants</p>
+<p><strong>Management of associated emergency:</strong> Consult MO/Dentist. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>.</p>
+</div>
+</div>
 
-ΓÇô
-pain or pins and needles/tingling sensation(s) in mouth or face
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Advise to be reviewed in 2 weeks. If not healed, advise to see MO/Dentist at next clinic</li>
+</ul>
 
-ΓÇô
-dry mouth - is cause known eg medicine side effect
-
-ΓÇô
-fever
-
-ΓÇô
-ulcers anywhere else on body
-ΓÇó	 Past history:
-
-ΓÇô
-previous ulcer(s)
-
-ΓÇô
-immunocompromised eg chemotherapy, malnutrition, HIV
-
-ΓÇô
-STI history. See STI/BBV assessment. - consider syphilis and gonorrhoea:2
-
-ΓÇô
-screen if appropriate
-
-ΓÇô
-smoking, alcohol use
-
-ΓÇô
-anaemia
-
-ΓÇô
-diet, recent weight loss
-ΓÇó	 Do:
-
-ΓÇô
-vital signs
-
-ΓÇô
- inspect mouth, lips and tongue:
-	ΓÇ║
-1 or more ulcers
-	ΓÇ║
-size, location, shape - oval/round or irregular
-	ΓÇ║
-any pigmented lesions on the ulcer
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ359
-
-4.	 Management2
-ΓÇó	 Most ulcers are self-limiting and heal within a few days
-ΓÇó	 If patient unwell/has other symptoms, consult MO/Dentist
-ΓÇó	 If poor fitting dentures or broken/sharp teeth, advise to see dentist at next clinic
-ΓÇó	 If ulcer(s) recurring, or has persisted for > 2 weeks:2,4
-
-ΓÇô
- refer to next MO/Dentist clinic for investigations ┬▒ biopsy for less common
-causes eg:metabolic, dermatological, allergic, immunological, infectious or
-cancer
-ΓÇó	 Symptom relief options:2
-
-ΓÇô
-chlorhexidine gluconate 0.2% mouthwash. See Gum disease. for instructions
-
-ΓÇô
- topical anaesthetic5 eg Seda lotion┬«
-
-ΓÇô
- salt water mouth rinses3
-
-ΓÇô
-avoid acidic drinks (eg fruit juice or soft drink) and very spicy/sharp food
-
-ΓÇô
-clean teeth properly
-
-ΓÇô
-if needed, paracetamol or ibuprofen may help. See Acute pain.
-LIDOCAINE (LIGNOCAINE) (SEDA LOTION┬«)
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Lotion
-2.5%
-15 mL
-Topical
-Dip cotton wool tip
-in lotion and apply
-to ulcer as needed.
-Max. every 2 hours
-If not improving after
-2 weeks, advise to see
-MO/Dentist
-Offer CMI: Caution with hot drinks as numbness can result in burns
-Contraindication: Not for use in infants
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-5.	 Follow up
-ΓÇó	 Advise to be reviewed in 2 weeks. If not healed, advise to see MO/Dentist at next
-clinic
-6.	 Referral/consultation
-ΓÇó	 Consult MO/dentist as above. Consider telehealth consult with dentist
-360ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO/dentist as above. Consider telehealth consult with dentist</li>
+</ul>
+</div>

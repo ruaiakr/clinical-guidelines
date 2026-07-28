@@ -1,260 +1,236 @@
 ﻿---
-sidebar_position: 36
+sidebar_position: 5
+title: Tooth abscess - Adult/Child
+hide_title: true
 ---
 
-# Tooth abcess - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Tooth abscess - Adult/Child</h1>
 
-4.	 Management2
-ΓÇó	 Most ulcers are self-limiting and heal within a few days
-ΓÇó	 If patient unwell/has other symptoms, consult MO/Dentist
-ΓÇó	 If poor fitting dentures or broken/sharp teeth, advise to see dentist at next clinic
-ΓÇó	 If ulcer(s) recurring, or has persisted for > 2 weeks:2,4
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Antibiotics are not a substitute for dental treatment of a tooth abscess. The source of infection must be treated eg extraction of tooth, root canal treatment or surgical intervention</li>
+</ul>
+</div>
 
-ΓÇô
- refer to next MO/Dentist clinic for investigations ┬▒ biopsy for less common
-causes eg:metabolic, dermatological, allergic, immunological, infectious or
-cancer
-ΓÇó	 Symptom relief options:2
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Toothache</li>
+<li>Localised swelling (abscess) on gum (± pus) ± facial swelling/pain</li>
+<li>fever</li>
+<li>bad breath</li>
+<li>systemically unwell</li>
+</ul>
 
-ΓÇô
-chlorhexidine gluconate 0.2% mouthwash. See Gum disease. for instructions
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Maintain airway if compromised – do not lay flat</li>
+<li>Do vital signs:
+<ul>
+<li>note: oral T is unreliable for infections in the mouth</li>
+</ul>
+</li>
+<li>Screen for <a href="/docs/Emergency/Sepsisseptic-shock">Sepsis</a>.</li>
+</ul>
 
-ΓÇô
- topical anaesthetic5 eg Seda lotion┬«
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Ask about:
+<ul>
+<li>facial pain/toothache</li>
+<li>hot/cold sensitivity of teeth</li>
+<li>fever</li>
+<li>recurrent tooth abscess needing antibiotics</li>
+<li>tooth decay, dental trauma, loose tooth</li>
+<li>alcohol and drug use</li>
+</ul>
+</li>
+<li>Do BGL</li>
+<li>Inspect:
+<ul>
+<li>mouth/gums – any soft tissue swelling, redness, pus, trauma, tooth decay</li>
+<li>face – any redness, swelling, warm to touch</li>
+<li>can patient open mouth, swallow, breathe well</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
- salt water mouth rinses3
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>If child consult MO/dentist</li>
+<li>Offer analgesia – ibuprofen preferred.<sup>3</sup> See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>.
+<ul>
+<li>add paracetamol if needed</li>
+<li>advise to take regularly, rather than as required, to achieve continuous pain relief</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-avoid acidic drinks (eg fruit juice or soft drink) and very spicy/sharp food
+<h2 class="pccm-section-heading-orange" id="tooth-abscess-management">Tooth abscess management<sup>1</sup></h2>
 
-ΓÇô
-clean teeth properly
+<div class="pccm-flowchart" role="region" aria-label="Tooth abscess management decision flowchart">
+<div class="pccm-flow-stack">
 
-ΓÇô
-if needed, paracetamol or ibuprofen may help. See Acute pain.
-LIDOCAINE (LIGNOCAINE) (SEDA LOTION┬«)
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Lotion
-2.5%
-15 mL
-Topical
-Dip cotton wool tip
-in lotion and apply
-to ulcer as needed.
-Max. every 2 hours
-If not improving after
-2 weeks, advise to see
-MO/Dentist
-Offer CMI: Caution with hot drinks as numbness can result in burns
-Contraindication: Not for use in infants
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-5.	 Follow up
-ΓÇó	 Advise to be reviewed in 2 weeks. If not healed, advise to see MO/Dentist at next
-clinic
-6.	 Referral/consultation
-ΓÇó	 Consult MO/dentist as above. Consider telehealth consult with dentist
-360ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<div class="pccm-flow-box" style="background:#fff8ef; border:2px solid #c47a3a;">
+<p class="pccm-flow-heading" style="color:#222;">Are there severe or systemic features</p>
+<ul>
+<li>Significant facial swelling and pain</li>
+<li>Unable to open mouth, swelling of the neck, difficulty swallowing, difficulty breathing</li>
+<li>Systemic features eg pallor, sweating, tachycardia, axillary T &gt; 38</li>
+<li>Signs of Sepsis</li>
+</ul>
+</div>
 
-Tooth abcess - Adult/Child
-Recommend1
-ΓÇó	 Antibiotics are not a substitute for dental treatment of a tooth abscess. The
-source of infection must be treated eg extraction of tooth, root canal treatment
-or surgical intervention
-1.
-May present with1,2
-ΓÇó	 Toothache
-ΓÇó	 Localised swelling (abscess) on gum (┬¼┬▒ pus) ┬¼┬▒
-ΓÇó	 facial swelling/pain
-ΓÇó	 fever
-ΓÇó	 bad breath
-ΓÇó	 systemically unwell
-2.	 Immediate management1
-ΓÇó	 Maintain airway if compromised - do not lay flat
-ΓÇó	 Do vital signs:
-ΓÇó	 note: oral T is unreliable for infections in the mouth
-ΓÇó	 Screen for Sepsis.
-3.	 Clinical assessment1,2
-ΓÇó	 Ask about:
+<div class="pccm-flow-split">
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label" style="color:#c47a3a;">Yes <span>▼</span></div>
+<div class="pccm-flow-box" style="background:#f8e4c8; border:2px solid #c47a3a;">
+<p class="pccm-flow-heading" style="color:#222;">Consult MO/Dentist urgently</p>
+<ul>
+<li>Insert IVC</li>
+<li>Airway support as needed</li>
+<li>MO/Dentist will order IV antibiotics</li>
+<li>Urgent evacuation</li>
+<li>Monitor closely until evacuated</li>
+</ul>
+<p><strong>Can rapidly become life-threatening due to airway obstruction or sepsis</strong></p>
+</div>
+</div>
 
-ΓÇô
-facial pain/toothache
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label">No <span>▼</span></div>
+<div class="pccm-flow-box pccm-flow-box--blue">
+<p class="pccm-flow-heading" style="color:#222;">Is there an abscess – localised swelling on the gum or fluctuant (movable) tissue ± pus visible</p>
+</div>
+<div class="pccm-flow-split">
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label">No <span>▼</span></div>
+<div class="pccm-note-panel" style="border-color:#e8a060; margin:0;">
+<p><strong>Consider another cause</strong></p>
+<p>See <a href="/docs/Oral health/Toothache">Toothache</a>.</p>
+<p>Be aware dental pain can sometimes be the only sign of an abscess</p>
+</div>
+</div>
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label" style="color:#3b60c8;">Yes <span>▼</span></div>
+<div class="pccm-flow-box pccm-flow-box--blue">
+<p class="pccm-flow-heading" style="color:#222;">Is there facial swelling ± facial pain</p>
+</div>
+<div class="pccm-flow-split">
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label" style="color:#c47a3a;">Yes <span>▼</span></div>
+<div class="pccm-flow-box" style="background:#f8e4c8; border:2px solid #c47a3a;">
+<p class="pccm-flow-heading" style="color:#222;">Spreading infection</p>
+<ul>
+<li>Start oral antibiotics</li>
+<li>Consult dentist for urgent treatment</li>
+<li>If dentist not available, consult MO/Dentist</li>
+</ul>
+</div>
+</div>
+<div class="pccm-flow-branch">
+<div class="pccm-flow-label">No <span>▼</span></div>
+<div class="pccm-flow-box" style="background:#f8e4c8; border:2px solid #c47a3a;">
+<p class="pccm-flow-heading" style="color:#222;">Localised infection</p>
+<ul>
+<li>Refer to dentist for prompt treatment</li>
+<li>If dental care not likely within 24 hours, start oral antibiotics</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-ΓÇô
-hot/cold sensitivity of teeth
+</div>
+</div>
 
-ΓÇô
-fever
+<ul class="pccm-content-list">
+<li>If oral antibiotics indicated, give:<sup>1</sup>
+<ul>
+<li>amoxicillin + clavulanic acid OR</li>
+<li>if allergy to penicillin, give clindamycin</li>
+</ul>
+</li>
+<li>Consult MO/dentist if the abscess is recurring/antibiotics have been given previously, but no dental treatment yet<sup>1</sup></li>
+<li>Advise patient:<sup>1</sup>
+<ul>
+<li>to see dentist as soon as possible – the cause of the abscess/infection needs to be fixed</li>
+<li>rinse mouth with warm sodium chloride 0.9% or chlorhexidine gluconate 0.2% mouthwash – as per <a href="/docs/Oral health/Gum-disease">Gum disease</a>.</li>
+<li>about good oral hygiene. See the Chronic conditions manual<br /><a href="https://www.health.qld.gov.au/rrcsu/clinical-manuals/chronic-conditions-manual-ccm">www.health.qld.gov.au/rrcsu/clinical-manuals/chronic-conditions-manual-ccm</a></li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-recurrent tooth abscess needing antibiotics
+<h2 class="pccm-section-heading-orange" id="amoxicillin-clavulanic-acid">AMOXICILLIN + CLAVULANIC ACID</h2>
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">AMOXICILLIN + CLAVULANIC ACID</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Tablet</td>
+<td>875 mg + 125 mg</td>
+<td rowspan="2">Oral</td>
+<td rowspan="2"><strong>Adult</strong> 875 mg + 125 mg bd<br /><strong>Child</strong> 22.5 mg/kg (max. 875 mg) bd<br />Dose as per amoxicillin component</td>
+<td rowspan="2"><strong>5 Days</strong></td>
+</tr>
+<tr>
+<td>Oral Liquid</td>
+<td>400 mg + 57 mg/5 mL</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> Take with food. May cause rash, diarrhoea, nausea or thrush. Can cause severe diarrhoea (colitis) due to <em>C. difficile</em></p>
+<p><strong>Contraindication:</strong> Severe or immediate allergic reaction to a penicillin. Be aware of cross-reactivity between penicillins, cephalosporins and carbapenems</p>
+<p><strong>Management of associated emergency:</strong> Consult MO/Dentist. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>.</p>
+</div>
+</div>
 
-ΓÇô
-tooth decay, dental trauma, loose tooth
+<h2 class="pccm-section-heading-orange" id="clindamycin">CLINDAMYCIN</h2>
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">CLINDAMYCIN</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Capsule</td>
+<td>150 mg</td>
+<td>Oral</td>
+<td><strong>Adult</strong> 300 mg tds<br /><strong>Child</strong> 7.5 mg/kg (max. 300 mg) tds</td>
+<td><strong>5 Days</strong></td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> May cause rash, diarrhoea, nausea, vomiting or abdominal pain. Take with a full glass of water. Can cause severe diarrhoea (colitis) due to <em>C. difficile</em></p>
+<p><strong>Note:</strong> There is no oral liquid for children. For doses of a ‘whole capsule’ open the capsule and mix with a spoonful of food eg yoghurt or apple puree. For doses &lt; 150 mg, open capsule and disperse contents into 10 mL of water to make a concentration of 15 mg/mL. Measure the required dose and give immediately. If smaller volumes are required, the capsule will disperse into 3 mL. The dispersion is highly unpalatable and may be mixed with juice before giving</p>
+<p><strong>Management of associated emergency:</strong> Consult MO/Dentist. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>.</p>
+</div>
+</div>
 
-ΓÇô
-alcohol and drug use
-ΓÇó	 Do BGL
-ΓÇó	 Inspect:
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Advise to return daily for review until it resolves or sooner if symptoms worsen</li>
+<li>Consult MO/dentist if:<sup>1</sup>
+<ul>
+<li>unresponsive to oral antibiotics after 48–72 hours</li>
+<li>if deteriorating at any time – may need evacuation for surgical treatment and IV antibiotics</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-mouth/gums - any so# tissue swelling, redness, pus, trauma, tooth decay
-
-ΓÇô
-face - any redness, swelling, warm to touch
-
-ΓÇô
-can patient open mouth, swallow, breathe well
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ361
-
-4.	 Management1
-ΓÇó	 If child consult MO/dentist
-ΓÇó	 Offer analgesia - ibuprofen preferred.3 See Acute pain.
-
-ΓÇô
-add paracetamol if needed
-
-ΓÇô
-advise to take regularly, rather than as required, to achieve continuous pain
-relief
-Tooth abscess management1
-
-ΓÇó	 If oral antibiotics indicated, give:1
-Are there severe or systemic features
-ΓÇó	 Significant facial swelling and pain
-ΓÇó	 Unable to open mouth, swelling of the neck, difficulty swallowing, difficulty
-breathing
-ΓÇó	 Systemic features eg pallor, sweating, tachycardia, axillary T > 38
-ΓÇó	 Signs of Sepsis
-Consult MO/Dentist urgently
-ΓÇó	 Insert IVC
-ΓÇó	 Airway support as needed
-ΓÇó	 MO/Dentist will order IV
-antibiotics
-ΓÇó	 Urgent evacuation
-ΓÇó	 Monitory closely until evacuated
-Can rapidly become life-
-threatening due to airway
-obstruction or sepsis
-ΓÇó	 Is there an abscess - localised
-swelling on the gum or
-fluctuant (movable) tissue
-ΓÇó	 ┬▒ pus visible
-ΓÇó	 Is there facial swelling
-ΓÇó	 ┬▒ facial pain
-Localised infection
-ΓÇó	 Refer to dentist for prompt treatment
-ΓÇó	 If dental care not likely within 24 hours, start
-oral antibiotics
-Consider another cause
-See Toothache.
-Be aware dental pain can
-sometimes be the only sign
-of an abscess
-Spreading infection
-ΓÇó	 Start oral antibiotics
-ΓÇó	 Consult dentist for urgent
-treatment
-ΓÇó	 If dentist not available, consult
-MO/Dentist
-No
-No
-Yes
-No
-Yes
-Yes
-362ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-ΓÇô
-amoxicillin + clavulanic acid OR
-
-ΓÇô
-if allergy to penicillin, give clindamycin
-ΓÇó	 Consult MO/dentist if the abscess is recurring/antibiotics have been given
-previously, but no dental treatment yet1
-ΓÇó	 Advise patient:1
-
-ΓÇô
-to see dentist as soon as possible - the cause of the abscess/infection needs
-to be fixed
-
-ΓÇô
-rinse mouth with warm sodium chloride 0.9% or chlorhexidine gluconate 0.2%
-mouthwash - as
-
-ΓÇô
-per Gum disease.
-
-ΓÇô
-about good oral hygiene. See the Chronic conditions manual
-www.health.qld.gov.au/rrcsu/clinical-manuals/chronic-conditions-manual-ccm
-AMOXICILLIN + CLAVULANIC ACID
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Tablet
-875 mg +
-125 mg
-Oral
-Adult 875 mg + 125 mg bd
-Child 22.5 mg/kg (max.
-875 mg) bd
-Dose as per amoxicillin
-component
-5 Days
-Oral
-Liquid
-400 mg +
-57 mg/5
-mL
-Offer CMI: Take with food. May cause rash, diarrhoea, nausea or thrush. Can cause
-severe diarrhoea (colitis) due to C. diffcile
-Contraindication: Severe or immediate allergic reaction to a penicillin. Be aware
-of cross-reactivity between penicillins, cephalosporins and carbapenems
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-CLINDAMYCIN
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Capsule
-150mg
-Oral
-Adult 300 mg tds
-Child 7.5 mg/kg (max. 300
-mg) tds
-5 Days
-Offer CMI: May cause rash, diarrhoea, nausea, vomiting or abdominal pain. Take
-with a full glass of water. Can cause severe diarrhoea (colitis) due to C. dicile
-Note: There is no oral liquid for children. For doses of a ΓÇÿwhole capsuleΓÇÖ open the
-capsule and mix with a spoonful of food eg yoghurt or apple puree. For doses
-&lt; 150 mg, open capsule and disperse contents into 10 mL of water to make a
-concentration of 15 mg/mL. Measure the required dose and give immediately. If
-smaller volumes are required, the capsule will disperse into 3 mL. The dispersion
-is highly unpalatable and may be mixed with juice before giving
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ363
-
-5.	 Follow up
-ΓÇó	 Advise to return daily for review until it resolves or sooner if symptoms worsen
-ΓÇó	 Consult MO/dentist if:1
-
-ΓÇô
-unresponsive to oral antibiotics after 48ΓÇô72 hours
-
-ΓÇô
-if deteriorating at any time - may need evacuation for surgical treatment and
-IV antibiotics
-6.	 Referral/consultation
-ΓÇó	 Consult MO/dentist as above. Consider telehealth consult with dentist
-364ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO/dentist as above. Consider telehealth consult with dentist</li>
+</ul>
+</div>

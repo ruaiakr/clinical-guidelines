@@ -1,174 +1,245 @@
 ﻿---
-sidebar_position: 33
+sidebar_position: 2
+title: Toothache - Adult/Child
+hide_title: true
 ---
 
-# Toothache - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Toothache - Adult/Child</h1>
 
-5.	 Follow up
-ΓÇó	 As per dentistΓÇÖs advice. Refer for next dentist clinic visit
-6.	 Referral/consultation
-ΓÇó	 Consult MO/dentist as above. Consider telehealth consult with dentist
-352ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>There is insufficient evidence to support the use of Oil of Cloves for toothache. Ingestion can cause life-threatening adverse reactions in children, + safety has not been established in pregnant + lactating women</li>
+</ul>
+</div>
 
-Toothache - Adult/Child
-Background1
-ΓÇó	 There is insuffcient evidence to support the use of Oil of Cloves for toothache.
-Ingestion can cause life-threatening adverse reactions in children, + safety has
-not been established in pregnant + lactating women
-1.
-May present with2
-ΓÇó	 Toothache/dental pain
-ΓÇó	 Tooth/teeth sensitive to hot/cold
-ΓÇó	 With or without:
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Toothache/dental pain</li>
+<li>Tooth/teeth sensitive to hot/cold</li>
+<li>With or without:
+<ul>
+<li>bad breath (halitosis) ± bad taste in mouth</li>
+<li>tooth decay – hole in tooth, broken down tooth, darkened tooth</li>
+<li>facial swelling ± dental abscess (gum boil)</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-bad breath (halitosis) ┬▒ bad taste in mouth
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-ΓÇô
-tooth decay - hole in tooth, broken down tooth, darkened tooth
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Get history – use <a href="#common-causes-of-dental-pain">Common causes of dental pain</a> table for prompts:
+<ul>
+<li>pain</li>
+<li>associated symptoms eg bad breath, facial swelling, fever</li>
+<li>dental history as appropriate</li>
+</ul>
+</li>
+<li>Do vital signs</li>
+<li>Inspect oral cavity, teeth, soft tissues, lymph nodes, ears</li>
+</ul>
 
-ΓÇô
-facial swelling ┬▒ dental abscess (gum boil)
-2.	 Immediate management Not applicable
-3.	 Clinical assessment2
-ΓÇó	 Get history - use Common causes of dental pain. table for prompts:
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Use Common causes of dental pain table to guide treatment</li>
+<li><strong>Refer anyone with toothache to a dentist</strong> – dental treatment is the most effective means of reducing pain<sup>2</sup></li>
+<li>Offer analgesia.<sup>2</sup> See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>.
+<ul>
+<li>ibuprofen preferred</li>
+<li>add paracetamol if needed</li>
+<li>Dental extraction by Medical Assistants if carious and symptomatic</li>
+<li>advise to take regularly, rather than as required, to achieve continuous pain relief</li>
+<li>if not effective, consider (adult)</li>
+</ul>
+</li>
+<li>Give analgesia for shortest duration possible, no more than 5 days without review<sup>2</sup></li>
+<li>If severe pain consult MO/dentist</li>
+<li>Reinforce good oral hygiene. See the Chronic conditions manual<br /><a href="https://www.health.qld.gov.au/rrcsu/clinical-manuals/chronic-conditions-manual-ccm">www.health.qld.gov.au/rrcsu/clinical-manuals/chronic-conditions-manual-ccm</a></li>
+</ul>
 
-ΓÇô
-pain
+<h2 class="pccm-section-heading-orange" id="common-causes-of-dental-pain">COMMON CAUSES OF DENTAL PAIN<sup>2</sup></h2>
 
-ΓÇô
-associated symptoms eg bad breath, facial swelling, fever
+<div class="pccm-diff-table-wrap" role="region" aria-label="Common causes of dental pain">
+<table class="pccm-diff-table">
+<thead>
+<tr>
+<th colspan="3">COMMON CAUSES OF DENTAL PAIN<sup>2</sup></th>
+</tr>
+<tr>
+<th>PAIN/SYMPTOMS</th>
+<th>LIKELY CAUSE</th>
+<th>MANAGEMENT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul>
+<li><strong>Intermittent pain:</strong>
+<ul>
+<li>felt when tooth exposed to a stimulus eg hot, cold or sweet food/drink(s)</li>
+<li>resolves once stimulus removed</li>
+</ul>
+</li>
+</ul>
+</td>
+<td><strong>Reversible pulpitis</strong><br />(inflammation of the dental pulp tissue)</td>
+<td>
+<ul>
+<li>Avoid food or drink that provoke pain</li>
+<li>Cover any obvious cavity with an inert material eg Blu Tack® or orthodontic wax</li>
+<li><strong>Advise to see dentist as soon as possible</strong></li>
+<li>Analgesia and antibiotics not needed</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><strong>Severe pain:</strong>
+<ul>
+<li>can wake person up at night</li>
+<li>felt when tooth exposed to a stimulus eg hot, cold or sweet food/drink(s)</li>
+<li>persists as a dull throbbing ache after stimulus removed</li>
+<li>can be continuous</li>
+</ul>
+</li>
+</ul>
+</td>
+<td><strong>Irreversible pulpitis</strong><br />(inflammation of the dental pulp tissue)</td>
+<td>
+<ul>
+<li>Avoid food or drink that provoke pain</li>
+<li>Cover any obvious cavity with an inert material eg Blu Tack® or orthodontic wax</li>
+<li><strong>Advise to see dentist as soon as possible:</strong>
+<ul>
+<li>root canal treatment or extraction may be needed</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><strong>Dull throbbing ache:</strong>
+<ul>
+<li>NOT triggered by a stimulus eg hot, cold or sweet food/drink(s)</li>
+</ul>
+</li>
+<li>Tooth may be sore to bite on</li>
+</ul>
+</td>
+<td><strong>Infected root canal</strong></td>
+<td>
+<ul>
+<li><strong>Urgent dental review</strong></li>
+<li>If dental treatment unlikely in 24 hours, may need antibiotics:
+<ul>
+<li>see <a href="/docs/Oral health/Tooth-abcess">Tooth abscess</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><strong>Tenderness of the tooth on biting</strong></li>
+</ul>
+</td>
+<td><strong>Cracked tooth</strong><br />or<br /><strong>Infection near tooth</strong></td>
+<td>
+<ul>
+<li>Can be difficult to differentiate so <strong>refer to dentist urgently</strong></li>
+<li>If local infection confirmed and dental treatment not likely in 24 hours, may need antibiotics:
+<ul>
+<li>see <a href="/docs/Oral health/Tooth-abcess">Tooth abscess</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li><strong>Facial swelling</strong> and pain following a toothache</li>
+</ul>
+</td>
+<td><strong>Tooth abscess</strong></td>
+<td>
+<ul>
+<li>See <a href="/docs/Oral health/Tooth-abcess">Tooth abscess</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Pain worsens when head is tilted forwards</li>
+</ul>
+</td>
+<td><strong>Maxillary sinusitis</strong></td>
+<td>
+<ul>
+<li>Treat symptoms</li>
+<li>Antibiotics rarely needed</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Acute onset of severe pain throughout the mouth +
+<ul>
+<li>gum bleeding, necrosis or ulcers of the gum</li>
+<li>± bad breath</li>
+</ul>
+</li>
+<li>Smokers are at high risk</li>
+</ul>
+</td>
+<td><strong>Necrotising gingivitis</strong></td>
+<td>
+<ul>
+<li>See <a href="/docs/Oral health/Gum-disease">Gum disease</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Acute pain near front of ear on 1 or both sides</li>
+<li>Mouth opening may be restricted</li>
+<li>Patient may feel bite is not quite right</li>
+</ul>
+</td>
+<td><strong>Temporomandibular disorder</strong></td>
+<td>
+<ul>
+<li>Rest the jaw, avoid extreme jaw movements eg yawning</li>
+<li>Cold or warm compresses</li>
+<li><strong>Refer to dentist</strong></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-ΓÇô
-dental history as appropriate
-ΓÇó	 Do vital signs
-ΓÇó	 Inspect oral cavity, teeth, soft tissues, lymph nodes, ears
-4.	 Management2
-ΓÇó	 Use Common causes of dental pain table to guide treatment
-ΓÇó	 Refer anyone with toothache to a dentist - dental treatment is the most
-effective means of reducing pain2
-ΓÇó	 Offer analgesia.2 See Acute pain.
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Refer to next dentist clinic</li>
+</ul>
 
-ΓÇô
-ibuprofen preferred
-
-ΓÇô
-add paracetamol if needed
-
-ΓÇô
-Dental extraction by Medical Assistants if carious and symptomatic
-
-ΓÇô
-advise to take regularly, rather than as required, to achieve continuous pain
-relief
-
-ΓÇô
-if not effective, consider (adult)
-ΓÇó	 Give analgesia for shortest duration possible, no more than 5 days without
-review2
-ΓÇó	 If severe pain consult MO/dentist
-ΓÇó	 Reinforce good oral hygiene. See the Chronic conditions manual
-www.health.qld.gov.au/ rrcsu/clinical-manuals/chronic-conditions-manual-ccm
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ353
-
-COMMON CAUSES OF DENTAL PAIN2
-PAIN/SYMPTOMS
-LIKELY CAUSE
-MANAGEMENT
-ΓÇó	 Intermittent pain:
-
-ΓÇô
-felt when tooth
-exposed to a
-stimulus eg hot,
-cold or sweet
-food/drink(s)
-
-ΓÇô
-resolves once
-stimulus removed
-Reversible pulpitis
-(inflammation of the
-dental pulp tissue)
-ΓÇó	 Avoid food or drink that
-provoke pain
-ΓÇó	 Cover any obvious cavity with
-an inert material eg Blu Tack┬«
-or orthodontic wax
-ΓÇó	 Advise to see dentist as soon
-as possible
-ΓÇó	 Analgesia and antibiotics not
-needed
-ΓÇó	 Severe pain:
-
-ΓÇô
-can wake person
-up at night
-
-ΓÇô
-felt when tooth
-exposed to a
-stimulus eg hot,
-cold or sweet
-food/drink(s)
-
-ΓÇô
-persists as a dull
-throbbing ache
-after stimulus
-removed
-
-ΓÇô
-can be
-continuous
-Irreversible pulpitis
-(inflammation of the
-dental pulp tissue)
-ΓÇó	 Avoid food or drink that
-provoke pain
-ΓÇó	 Cover any obvious cavity with
-an inert material eg Blu Tack┬«
-or orthodontic wax
-ΓÇó	 Advise to see dentist as soon
-as possible:
-
-ΓÇô
-root canal treatment or
-extraction may be needed
-ΓÇó	 Dull throbbing
-ache:
-
-ΓÇô
-NOT triggered by
-a stimulus eg hot,
-cold or sweet
-food/ drink(s)
-ΓÇó	 Tooth may be sore
-to bite on
-Infected root canal
-ΓÇó	 Urgent dental review
-ΓÇó	 If dental treatment unlikely
-in 24 hours, may need
-antibiotics:
-ΓÇó	 see Tooth abscess
-ΓÇó	 Tenderness of the
-tooth on biting
-Cracked tooth
-or
-Infection near tooth
-ΓÇó	 Can be difficult to
-differentiate so refer to
-dentist urgently
-ΓÇó	 If local infection confirmed
-and dental treatment not
-likely in 24 hours, may need
-antibiotics:
-
-ΓÇô
-see Tooth abscess
-ΓÇó	 Facial swelling and
-pain following a
-toothache
-Tooth abscess
-ΓÇó	 See Tooth abscess
-354ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO/dentist as above. Consider telehealth consult with dentist</li>
+</ul>
+</div>

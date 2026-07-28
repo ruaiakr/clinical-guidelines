@@ -1,214 +1,156 @@
 ﻿---
-sidebar_position: 43
+sidebar_position: 12
+title: Jaw dislocation – Adult/Child
+hide_title: true
 ---
 
-# Jaw dislocation ΓÇô Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Jaw dislocation – Adult/Child</h1>
 
-ΓÇó	 If carbamazepine is not tolerated: MO may consider, or amitriptyline if available
-ΓÇó	 Non-medication care
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Jaw dislocation most commonly involves anterior displacement of the mandible at the temporomandibular joint (TMJ), typically caused by trauma or excessive mouth opening (e.g. yawning, dental procedures). It may be unilateral or bilateral. Prompt recognition and reduction are essential to relieve pain and restore function. Inappropriate handling can worsen the injury or delay recovery. Dislocations may recur in individuals with underlying joint laxity or structural abnormalities.</li>
+<li>Note: the Oral health section divider also refers to Fractured Jaw / Oral Facial Fractures protocols in the Emergency chapter. See also <a href="/docs/Emergency/Fractured-jaw">Fractured jaw</a> and <a href="/docs/Oral health/Oral-facial-fractures">Oral facial fractures</a>.</li>
+</ul>
+<h2 class="pccm-section-heading">Recommend<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Jaw dislocation is typically an anterior displacement of the mandible.</li>
+<li>Prompt reduction is important to relieve pain, restore function, and prevent complications.</li>
+<li>Avoid repeated manipulation – refer early if uncertain.</li>
+</ul>
+</div>
 
-ΓÇô
-Soft diet, avoid cold wind, cover face in wind
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>History of trauma, yawning, laughing, or wide mouth opening</li>
+<li>Pain in front of ear(s) or jaw</li>
+<li>Inability to close mouth</li>
+<li>Jaw appears displaced forward, difficulty speaking</li>
+<li>Drooling, anxiety, or distress</li>
+</ul>
 
-ΓÇô
-Offer counselling for chronic pain or mental health impact
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Reassure patient and support jaw with gentle pressure</li>
+<li>Avoid forcing jaw movement</li>
+<li>Place patient in sitting or semi-reclined position</li>
+<li>Provide analgesia and refer promptly if in distress or reduction not possible</li>
+</ul>
 
-ΓÇô
-Monitor for weight loss or sleep disruption
-5.	 Follow up
-ΓÇó	 Review within 1ΓÇô2 weeks to assess symptom control and side effects
-ΓÇó	 If pain is well controlled, continue same dose
-ΓÇó	 If no improvement or poor tolerance, discuss with MO
-ΓÇó	 Ongoing review if long-term therapy is needed
-ΓÇó	 Encourage return for reassessment if:
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1,2,3</sup></h2>
+<ul class="pccm-content-list">
+<li>Take history: mechanism of injury, previous dislocations, recent dental procedures</li>
+<li>Check for:
+<ul>
+<li>Symmetry of jaw</li>
+<li>Palpable depression in preauricular area</li>
+<li>Inability to occlude teeth</li>
+<li>Associated injuries (e.g. head, cervical spine)</li>
+</ul>
+</li>
+<li>Assess for signs of fracture or nerve injury (numbness, weakness)</li>
+<li>Examine ears and oral cavity</li>
+<li>Assess airway and ability to swallow/speak</li>
+</ul>
 
-ΓÇô
-Pain worsens
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
 
-ΓÇô
-New neurological symptoms develop
+<h2 class="pccm-section-heading-orange" id="analgesia-sedation">a. Analgesia &amp; Sedation (if available and trained)</h2>
 
-ΓÇô
-Unable to eat or sleep
+<div class="pccm-diff-table-wrap" role="region" aria-label="Analgesia and sedation for jaw dislocation">
+<table class="pccm-drug-table">
+<thead>
+<tr>
+<th>MEDICATION</th>
+<th>FORM &amp; STRENGTH</th>
+<th>ROUTE</th>
+<th>DOSE</th>
+<th>DURATION</th>
+<th>CONTRAINDICATIONS</th>
+<th>SAFETY NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Paracetamol</td>
+<td>500 mg tablet</td>
+<td>Oral</td>
+<td><strong>Adult:</strong> 1 g 6-hourly (max 4 g/day); <strong>Child:</strong> 15 mg/kg 6-hourly</td>
+<td>As needed</td>
+<td>Liver disease</td>
+<td>Avoid overdose</td>
+</tr>
+<tr>
+<td>Ibuprofen</td>
+<td>200 mg tablet</td>
+<td>Oral</td>
+<td><strong>Adult:</strong> 400 mg 8-hourly with food; <strong>Child:</strong> 10 mg/kg 8-hourly</td>
+<td>As needed</td>
+<td>Peptic ulcer, renal disease</td>
+<td>Take with food</td>
+</tr>
+<tr>
+<td>Diazepam (if trained and authorised)</td>
+<td>5 mg tablet</td>
+<td>Oral</td>
+<td><strong>Adult:</strong> 5–10 mg single dose before reduction</td>
+<td>One dose</td>
+<td>Respiratory compromise, elderly</td>
+<td>Use only if trained, monitor closely</td>
+</tr>
+</tbody>
+</table>
+</div>
 
-ΓÇô
-Facial numbness or weakness appears
-6.	 Referral/consultation
-ΓÇó	 Refer to MO or specialist if:
+<h2 class="pccm-section-heading-orange" id="reduction">b. Reduction (if trained)<sup>4,5</sup></h2>
+<p><strong>Only attempt if trained and confident; otherwise refer.</strong></p>
+<ul class="pccm-content-list">
+<li>Wear gloves, sit or stand facing patient.</li>
+<li>Patient seated upright, mouth slightly open.</li>
+<li>Wrap gauze around both thumbs and place on <strong>lower molars</strong> inside mouth.</li>
+<li>Rest fingers under chin.</li>
+<li>Apply <strong>downward and backward</strong> pressure until you feel the jaw ‘pop’ into place.</li>
+<li>Immediately support jaw with a bandage (e.g. Barton bandage) or instruct patient to keep mouth closed.</li>
+</ul>
 
-ΓÇô
-Diagnosis uncertain or persistent pain
+<figure class="pccm-flowchart-figure">
+<img src="/img/oral-health/jaw-reduction-technique.png" alt="Manual reduction of jaw dislocation — hand placement on lower molars (b) and side view of reduction manoeuvre (c)" />
+<p class="pccm-flowchart-caption">Manual reduction technique — hand placement (b) and side view (c)</p>
+</figure>
 
-ΓÇô
-Numbness or facial weakness present
+<figure class="pccm-flowchart-figure">
+<img src="/img/oral-health/jaw-dislocation-anatomy.png" alt="Jaw temporomandibular joint: dislocation, reduction manoeuvre with force arrows, and normal position" />
+<p class="pccm-flowchart-caption">Dislocation, reduction, and normal TMJ anatomy</p>
+</figure>
 
-ΓÇô
-Recurrent episodes not responding to treatment
-ΓÇó	 If available, refer to:
+<figure class="pccm-flowchart-figure">
+<img src="/img/oral-health/jaw-barrel-bandage.png" alt="Barrel bandage supporting a dislocated jaw after reduction" />
+<p class="pccm-flowchart-caption">Image C — Barrel bandage supporting dislocated jaw</p>
+</figure>
 
-ΓÇô
-Dental services if suspect dental origin
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Avoid wide mouth opening for 2 weeks (e.g. yawning, large bites)</li>
+<li>Soft diet for several days</li>
+<li>Educate patient on recurrence risk</li>
+<li>Monitor for signs of fracture, nerve damage, or joint dysfunction</li>
+<li>Refer for imaging or specialist if:
+<ul>
+<li>Recurrent dislocations</li>
+<li>Suspected fracture</li>
+<li>Reduction unsuccessful</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-ENT or neurology specialist (if visiting or via outreach)
-
-ΓÇô
-Consider telehealth if imaging or specialist opinion needed
-ΓÇó	 If suspected secondary cause (MS, tumour, shingles) ΓåÆ refer to hospital
-380ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-Jaw dislocation ΓÇô Adult/Child
-Background12
-Jaw dislocation most commonly involves anterior displacement of the mandible
-at the temporomandibular joint (TMJ), typically caused by trauma or excessive
-mouth opening (e.g. yawning, dental procedures). It may be unilateral or bilateral.
-Prompt recognition and reduction are essential to relieve pain and restore function.
-Inappropriate handling can worsen the injury or delay recovery. Dislocations may
-recur in individuals with underlying joint laxity or structural abnormalities.
-Recommend12
-ΓÇó	 Jaw dislocation is typically an anterior displacement of the mandible.
-ΓÇó	 Prompt reduction is important to relieve pain, restore function, and prevent
-complications.
-ΓÇó	 Avoid repeated manipulation ΓÇô refer early if uncertain.
-1.
-May present with12
-ΓÇó	 History of trauma, yawning, laughing, or wide mouth opening
-ΓÇó	 Pain in front of ear(s) or jaw
-ΓÇó	 Inability to close mouth
-ΓÇó	 Jaw appears displaced forward, difficulty speaking
-ΓÇó	 Drooling, anxiety, or distress
-2.	 Immediate management
-ΓÇó	 Reassure patient and support jaw with gentle pressure
-ΓÇó	 Avoid forcing jaw movement
-ΓÇó	 Place patient in sitting or semi-reclined position
-ΓÇó	 Provide analgesia and refer promptly if in distress or reduction not possible
-3.	 Clinical assessment123
-ΓÇó	 Take history: mechanism of injury, previous dislocations, recent dental procedures
-ΓÇó	 Check for:
-
-ΓÇô
-Symmetry of jaw
-
-ΓÇô
-Palpable depression in preauricular area
-
-ΓÇô
-Inability to occlude teeth
-
-ΓÇô
-Associated injuries (e.g. head, cervical spine)
-ΓÇó	 Assess for signs of fracture or nerve injury (numbness, weakness)
-ΓÇó	 Examine ears and oral cavity
-ΓÇó	 Assess airway and ability to swallow/speak
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ381
-
-4.	 Management
-a. Analgesia & Sedation (if available and trained)
-MEDICATION
-FORM &
-STRENGTH
-ROUTE
-DOSE
-DURATION
-CONTRAINDIC-
-ATIONS
-SAFETY
-NOTES
-Parac-
-etamol
-500 mg
-tablet
-Oral
-Adult:
-1 g
-6-hourly
-(max 4
-g/day);
-Child: 15
-mg/kg
-6-hourly
-As
-needed
-Liver disease
-Avoid
-over-
-dose
-Ibuprofen
-200 mg
-tablet
-Oral
-Adult:
-400 mg
-8-hour-
-ly with
-food;
-Child: 10
-mg/kg
-8-hourly
-As
-needed
-Peptic ulcer,
-renal disease
-Take
-with
-food
-Diazepam
-(if trained
-and autho-
-rised)
-5 mg
-tablet
-Oral
-Adult:
-5ΓÇô10 mg
-single
-dose
-before
-reduc-
-tion
-One
-dose
-Respiratory
-compromise,
-elderly
-Use
-only if
-trained,
-monitor
-closely
-b. Reduction (if trained)45
-Only attempt if trained and confident; otherwise refer.
-ΓÇó	 Wear gloves, sit or stand facing patient.
-ΓÇó	 Patient seated upright, mouth slightly open.
-ΓÇó	 Wrap gauze around both thumbs and place on lower molars inside mouth.
-ΓÇó	 Rest fingers under chin.
-ΓÇó	 Apply downward and backward pressure until you feel the jaw ΓÇÿpopΓÇÖ into place.
-ΓÇó	 Immediately support jaw with a bandage (e.g. Barton bandage) or instruct
-patient to keep mouth closed.
-382ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-5.	 Follow up
-ΓÇó	 Avoid wide mouth opening for 2 weeks (e.g. yawning, large bites)
-ΓÇó	 Soft diet for several days
-ΓÇó	 Educate patient on recurrence risk
-ΓÇó	 Monitor for signs of fracture, nerve damage, or joint dysfunction
-ΓÇó	 Refer for imaging or specialist if:
-
-ΓÇô
-Recurrent dislocations
-
-ΓÇô
-Suspected fracture
-
-ΓÇô
-Reduction unsuccessful
-6.	 Referral/consultation
-Refer urgently if:
-ΓÇó	 Unable to reduce or unsure of diagnosis
-ΓÇó	 Suspected mandibular fracture
-ΓÇó	 Associated head injury or airway compromise
-ΓÇó	 Dislocation complicated by seizure, trauma, or high-risk comorbidity
-MHMS to advise if ongoing instability or access to imaging/specialist is required.
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ383
-
-384ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<p>Refer urgently if:</p>
+<ul class="pccm-content-list">
+<li>Unable to reduce or unsure of diagnosis</li>
+<li>Suspected mandibular fracture</li>
+<li>Associated head injury or airway compromise</li>
+<li>Dislocation complicated by seizure, trauma, or high-risk comorbidity</li>
+</ul>
+<p>MHMS to advise if ongoing instability or access to imaging/specialist is required.</p>
+</div>

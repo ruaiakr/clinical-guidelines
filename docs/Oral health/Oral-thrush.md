@@ -1,189 +1,159 @@
 ﻿---
-sidebar_position: 39
+sidebar_position: 8
+title: Oral thrush - Adult/Child
+hide_title: true
 ---
 
-# Oral thrush - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Oral thrush - Adult/Child</h1>
 
-CHLORHEXIDINE GLUCONATE MOUTHWASH
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Liquid
-0.2%
-Topical
-to
-mouth
-Adult
-10 mL 8ΓÇô12 hourly
-Child 6ΓÇô12 years
-5 mL under adult
-supervision 8ΓÇô12
-hourly
-5ΓÇô10 days Rinse or
-gargle for 1 minute,
-then spit out
-Offer CMI: Can cause altered taste, burning sensation, brown discolouration
-of teeth, tartar build up. Rarely severe allergy. Limit use to up to 2 weeks to
-minimise side eects
-Contraindication: Allergy to chlorhexidine - any route
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
- METRONIDAZOLE
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Tablet
-200 mg
-400 mg
-Oral
-Adult
-400 mg bd
-3-5 Days
-Offer CMI: Avoid alcohol while taking and for 24 hours after finishing the course.
-Take with food to reduce stomach upset. May cause nausea, anorexia, abdominal
-pain, vomiting, diarrhoea, metallic taste, dizziness or headache
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-5.	 Follow up
-ΓÇó	 If necrotising gingivitis advise to be reviewed daily until improving
-6.	 Referral/consultation
-ΓÇó	 Consult MO/dentist as above. Consider telehealth consult with dentist
-ΓÇó	 If diabetic, consider referral to diabetic educator
-368ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Oral thrush (candidiasis) occurs relatively commonly in neonates and infants. It is otherwise uncommon in healthy individuals</li>
+</ul>
+</div>
 
-Oral thrush - Adult/Child
-Background1
-ΓÇó	 Oral thrush (candidiasis) occurs relatively commonly in neonates and infants. It is
-otherwise uncommon in healthy individuals
-1.
-May present with1
-ΓÇó	 Oral discomfort
-ΓÇó	 Whitish plaques on the tongue or oral mucosa
-ΓÇó	 Severe cases may show ulceration ┬▒ inflammation at 1 or both corners of mouth
-ΓÇó	 In infants:2
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Oral discomfort</li>
+<li>Whitish plaques on the tongue or oral mucosa</li>
+<li>Severe cases may show ulceration ± inflammation at 1 or both corners of mouth</li>
+<li>In infants:<sup>2</sup>
+<ul>
+<li>irritability</li>
+<li>poor feeding ± feeding refusal</li>
+<li>white, lacy curd-like plaque in mouth</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-irritability
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-ΓÇô
-poor feeding ┬▒ feeding refusal
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Get history, including:
+<ul>
+<li>adult – ask about risk factors eg:<sup>1</sup>
+<ul>
+<li>smoking, dentures (cleaning routine), corticosteroid inhalers, poor oral hygiene</li>
+<li>immunocompromised</li>
+<li>medicines eg antibiotics, corticosteroids</li>
+</ul>
+</li>
+<li>infant – ask about:<sup>2</sup>
+<ul>
+<li>nappy rash</li>
+<li>if breastfeeding – any nipple pain, burning/itching or cracked/red areolae</li>
+<li>method of cleaning feeding equipment/other items that go in mouth eg dummies (can be a source of reinfection)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Do vital signs</li>
+<li>Check:
+<ul>
+<li>mouth – any white or whitish-yellow plaques that may be difficult to remove, with the underlying area being raw or bleeding</li>
+<li>infant’s nappy area – any shiny red patches with satellite lesions<sup>3</sup></li>
+<li>mother’s nipple area (if indicated from history) – any redness/cracked nipples</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-white, lacy curd-like plaque in mouth
-2.	 Immediate management Not applicable
-3.	 Clinical assessment
-ΓÇó	 Get history, including:
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Consult MO/Dentist if:
+<ul>
+<li>child &gt; 2 years</li>
+<li>immunocompromised – needs specialist advice<sup>1</sup></li>
+<li>severe, persistent or frequent episodes of thrush – needs further evaluation</li>
+</ul>
+</li>
+<li>Adult:<sup>1</sup>
+<ul>
+<li>if not related to denture use consult MO/dentist who may advise:
+<ul>
+<li>miconazole, nystatin or amphotericin B lozenges</li>
+</ul>
+</li>
+<li>if related to denture use:<sup>1</sup>
+<ul>
+<li>give miconazole or nystatin</li>
+<li>advise to apply to the cleaned fitting surface of the dentures at least twice a day</li>
+<li>at night, remove dentures, clean well with a liquid soap and soft toothbrush and place in a dry environment</li>
+<li>encourage good denture hygiene eg<br /><a href="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/dentures">www.betterhealth.vic.gov.au/health/conditionsandtreatments/dentures</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Infant and child &lt; 2 years:<sup>1</sup>
+<ul>
+<li>give oral miconazole gel or nystatin</li>
+<li>concurrently treat nipples of mother if breastfeeding (use oral miconazole gel)<sup>4</sup></li>
+<li>advise on correct cleaning of feeding equipment/dummies</li>
+<li>provide support with breastfeeding + refer to child health nurse as needed</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-adult - ask about risk factors eg:1
-	ΓÇ║
-smoking, dentures (cleaning routine), corticosteroid inhalers, poor oral
-hygiene
-	ΓÇ║
-immunocompromised
-	ΓÇ║
-medicines eg antibiotics, corticosteroids
+<h2 class="pccm-section-heading-orange" id="miconazole">MICONAZOLE</h2>
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">MICONAZOLE</span>
+<span class="pccm-drug-level">L2</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Oral gel</td>
+<td>2%</td>
+<td>Oral</td>
+<td><strong>Adult and child &gt; 2 years</strong><br />2.5 mL qid (½ of measure supplied)<br /><strong>Birth (at term)–2 years</strong><br />1.25 mL qid (¼ of measure supplied)<br />In babies use a clean finger (not spoon) to smear in front of mouth to avoid choking</td>
+<td><strong>7–14 days</strong><br />Continue for 7 days after symptoms resolve</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Contraindication:</strong> Use with warfarin, simvastatin, ergometrine</p>
+<p><strong>Management of associated emergency:</strong> Consult MO/Dentist. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>.</p>
+</div>
+</div>
 
-ΓÇô
-infant - ask about:2
-	ΓÇ║
-nappy rash
-	ΓÇ║
- if breastfeeding - any nipple pain, burning/itching or cracked/red areolae
-	ΓÇ║
-method of cleaning feeding equipment/other items that go in mouth eg
-dummies (can be a source of reinfection)
-ΓÇó	 Do vital signs
-ΓÇó	 Check:
+<h2 class="pccm-section-heading-orange" id="nystatin">NYSTATIN</h2>
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">NYSTATIN</span>
+<span class="pccm-drug-level">L2</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Oral liquid</td>
+<td>100,000 units/mL</td>
+<td>Oral</td>
+<td><strong>Adult and child</strong><br />1 mL qid</td>
+<td><strong>7–14 days</strong><br />Continue for several days after symptoms resolve</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> Swish around the mouth for as long as comfortable before swallowing. Use after feeding/drinking or eating. May cause nausea, vomiting or diarrhoea</p>
+<p><strong>Management of associated emergency:</strong> Consult MO/Dentist. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>.</p>
+</div>
+</div>
 
-ΓÇô
-mouth - any white or whitish-yellow plaques that may be difficult to remove,
-with the underlying
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Advise to be reviewed if symptoms do not resolve within a few days</li>
+</ul>
 
-ΓÇô
-area being raw or bleeding
-
-ΓÇô
-infant's nappy area - any shiny red patches with satellite lesions3
-
-ΓÇô
-mother's nipple area (if indicated from history) - any redness/cracked nipples
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ369
-
-4.	 Management
-ΓÇó	 Consult MO/Dentist if:
-
-ΓÇô
-child > 2 years
-
-ΓÇô
-immunocompromised - needs specialist advice1
-
-ΓÇô
-severe, persistent or frequent episodes of thrush - needs further evaluation
-ΓÇó	 Adult:1
-
-ΓÇô
-if not related to denture use consult MO/dentist who may advise:
-	ΓÇ║
-miconazole, nystatin or amphotericin B lozenges
-
-ΓÇô
-if related to denture use:1
-	ΓÇ║
-give miconazole or nystatin
-	ΓÇ║
-advise to apply to the cleaned !tting surface of the dentures at least twice
-a day
-	ΓÇ║
-at night, remove dentures, clean well with a liquid soap and so# toothbrush
-and place in a dry environment
-	ΓÇ║
-encourage good denture hygiene eg
-www.betterhealth.vic.gov.au/health/conditionsandtreatmets/dentures
-ΓÇó	 Infant and child &lt; 2 years:1
-
-ΓÇô
-give oral miconazole gel or nystatin
-
-ΓÇô
- concurrently treat nipples of mother if breastfeeding (use oral miconazole
-gel)4
-
-ΓÇô
-advise on correct cleaning of feeding equipment/dummies
-
-ΓÇô
-provide support with breastfeeding + refer to child health nurse as needed
-MICONAZOLE
-L2
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Oral gel
-2%
-Oral
-Adult and child > 2 years
-2.5 mL qid ( of measure
-supplied)
-Birth (at term)ΓÇô2 years
-1.25 mL qid ( of measure
-supplied)
-In babies use a clean finger
-(not spoon) to smear in
-front of mouth to avoid
-choking
-7ΓÇô14 days
-Continue for
-7 days after
-symptoms
-resolve
-Contraindication: Use with warfarin, simvastatin, ergometrine
-Management of associated emergency: Consult MO/Dentist. See Anaphylaxis.
-370ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO/dentist/child health nurse/midwife as above</li>
+</ul>
+</div>

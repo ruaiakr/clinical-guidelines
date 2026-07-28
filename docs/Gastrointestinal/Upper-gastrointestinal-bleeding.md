@@ -1,103 +1,84 @@
 ﻿---
-sidebar_position: 59
+sidebar_position: 4
+title: Upper gastrointestinal bleeding - Adult/Child
+hide_title: true
 ---
 
-# Upper gastrointestinal bleeding - Adult/Child Vomiting blood
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Upper gastrointestinal bleeding - Adult/Child</h1>
+<p class="pccm-page-subtitle">Vomiting blood</p>
 
-4.	 Management1,2
-ΓÇó	 Contact MO urgently if intense boring pain that radiates to the back
-ΓÇó	 Consult MO, who may advise:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Usually caused secondary to peptic ulcer disease, erosions, oesophagitis or oesophageal varices</li>
+</ul>
+</div>
 
-ΓÇô
-IV pantoprazole ┬▒ thiamine if alcohol related
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Vomiting blood or dark vomit with ‘coffee grounds’ ± melaena, pain</li>
+</ul>
 
-ΓÇô
-bloods eg lipase, LFTs
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Do vital signs</li>
+<li>Insert IVC x 2</li>
+<li>If shock - pale, sweaty, ↑HR, capillary refill &gt; 2 seconds ± ↓LOC, or large active bleed:
+<ul>
+<li>contact MO urgently + see <a href="/docs/Emergency/Shock">Shock</a></li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-retrieval/hospitalisation ┬▒ referral for endoscopy
-5.	 Follow up
-ΓÇó	 Advise to return if symptoms ∩âí or new symptoms eg blood in vomit - contact
-MO urgently. Otherwise advise to see MO at next clinic
-6.	 Referral/consultation
-ΓÇó	 As above
-428ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<div class="pccm-alert-panel">
+<p><strong>ALERT</strong> suspect <a href="/docs/Emergency/Button-battery-ingestioninsertion">Button battery</a>, in all children with upper GI bleed. A button battery lodged in the oesophagus can burn a hole through to the aorta<sup>2</sup></p>
+</div>
 
-Upper gastrointestinal bleeding - Adult/Child
-Vomiting blood
-Background1
-ΓÇó	 Usually caused secondary to peptic ulcer disease, erosions, oesophagitis or
-oesophageal varices
-1.
-May present with1
-ΓÇó	 Vomiting blood or dark vomit with ΓÇÿcoffee groundsΓÇÖ ┬▒ melaena, pain
-2.	 Immediate management
-ΓÇó	 Do vital signs
-ΓÇó	 Insert IVC x 2
-ΓÇó	 If shock - pale, sweaty, ∩âíHR, capillary refill > 2 seconds ┬▒ ∩âóLOC, or large active
-bleed:
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>3,4</sup></h2>
+<ul class="pccm-content-list">
+<li>Get rapid history, including:
+<ul>
+<li>is blood dark, bright or coffee grounds, amount + duration</li>
+<li>melaena or any fresh blood in stools</li>
+<li>pain</li>
+<li>repeated retching/vomiting prior to bleeding - may indicate oesophageal tear<sup>1</sup></li>
+<li>previous episodes</li>
+<li>history of liver failure, ischaemic heart disease, renal failure, peptic ulcer disease, oesophageal varices</li>
+<li>alcohol misuse</li>
+<li>are they taking aspirin, NSAID, anticoagulants, corticosteriods, iron supplements</li>
+</ul>
+</li>
+<li>Do physical examination, including Abdominal examination +
+<ul>
+<li>ECG</li>
+<li>i-STAT - lactate, baseline Hb (HemoCue if available)</li>
+<li>bloods - FBC, UE, INR, LFT, cross match</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-contact MO urgently + see Shock
-ALERT suspect Button battery, in all children with upper GI bleed. A button battery
-lodged in the oesophagus can burn a hole through to the aorta2
-3.	 Clinical assessment3,4
-ΓÇó	 Get rapid history, including:
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>3,4</sup></h2>
+<ul class="pccm-content-list">
+<li>Consult MO urgently, who may advise:
+<ul>
+<li>IV fluids</li>
+<li>IV antibiotics ± octreotide if oesophageal varices</li>
+<li>IV pantoprazole ± thiamine if alcohol misuse</li>
+<li>retrieval/hospitalisation for urgent endoscopy/surgery</li>
+</ul>
+</li>
+<li>Monitor vital signs closely until retrieval, keep nil by mouth</li>
+</ul>
 
-ΓÇô
-is blood dark, bright or coffee grounds, amount + duration
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As advised by MO</li>
+</ul>
 
-ΓÇô
-melaena or any fresh blood in stools
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
 
-ΓÇô
-pain
-
-ΓÇô
-repeated retching/vomiting prior to bleeding - may indicate oesophageal tear1
-
-ΓÇô
-previous episodes
-
-ΓÇô
-history of liver failure, ischaemic heart disease, renal failure, peptic ulcer
-disease, oesophageal varices
-
-ΓÇô
-alcohol misuse
-
-ΓÇô
-are they taking aspirin, NSAID, anticoagulants, corticosteriods, iron
-supplements
-ΓÇó	 Do physical examination, including Abdominal examination +
-
-ΓÇô
-ECG
-
-ΓÇô
-i-STAT - lactate, baseline Hb (HemoCue if available)
-
-ΓÇô
-bloods - FBC, UE, INR, LFT, cross match
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ429
-
-4.	 Management3,4
-ΓÇó	 Consult MO urgently, who may advise:
-
-ΓÇô
-IV fluids
-
-ΓÇô
-IV antibiotics ┬▒ octreotide if oesophageal varices
-
-ΓÇô
-IV pantoprazole ┬▒ thiamine if alcohol misuse
-
-ΓÇô
-retrieval/hospitalisation for urgent endoscopy/surgery
-ΓÇó	 Monitor vital signs closely until retrieval, keep nil by mouth
-5.	 Follow up
-ΓÇó	 As advised by MO
-6.	 Referral/consultation
-ΓÇó	 As above
-430ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+</div>

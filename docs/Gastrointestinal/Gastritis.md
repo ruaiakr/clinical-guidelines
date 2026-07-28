@@ -1,107 +1,82 @@
 ﻿---
-sidebar_position: 58
+sidebar_position: 3
+title: Gastritis - Adult
+hide_title: true
 ---
 
-# Gastritis - Adult
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Gastritis - Adult</h1>
 
-ΓÇó	 Control the spread advice:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Inflammation of the gastric mucosa commonly caused from Helicobacter pylori infection, use of NSAID, or alcohol</li>
+</ul>
+</div>
 
-ΓÇô
-if prepares/serves food - avoid handling food until no diarrhoea or vomiting
-for 48 hours2
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Epigastric pain or discomfort ± nausea, vomiting, heartburn, reflux</li>
+</ul>
 
-ΓÇô
-if healthcare worker - do not return to work until no symptoms for 48 hours3
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Do vital signs</li>
+<li>Insert IVC x 2</li>
+<li>If shock - pale, sweaty, ↑HR, capillary refill &gt; 2 seconds ± ↓LOC:
+<ul>
+<li>contact MO urgently + see <a href="/docs/Emergency/Shock">Shock</a></li>
+</ul>
+</li>
+<li>Assess as per <a href="/docs/Emergency/Chest-pain-assessment">Chest pain assessment</a>, + see <a href="/docs/Emergency/Acute-coronary-syndrome">ACS</a></li>
+<li>Offer analgesia ± antiemetic. See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a>, <a href="/docs/Pain,%20nausea%20and%20vomiting/Nausea-and-vomiting">Nausea and vomiting</a></li>
+</ul>
 
-ΓÇô
-otherwise, if single case - avoid others until no symptoms, feeling well + no
-loose bowel motions for at least 24 hours2
-5.	 Follow up1
-ΓÇó	 Advise patient to return + contact MO if:
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Do not jump to conclusions as to the cause of the epigastric pain in a person who drinks alcohol</li>
+<li>Do NOT use medication cocktails eg pink lady, to assist in ruling out a cardiac cause<sup>3</sup></li>
+<li>Ask about:
+<ul>
+<li>pain - onset + duration</li>
+<li>is it accompanied by nausea, vomiting or heartburn</li>
+<li>any blood in vomit - fresh or coffee grounds, ± melaena, go to <a href="/docs/Gastrointestinal/Upper-gastrointestinal-bleeding">Upper GI bleeding</a></li>
+<li>recent heavy alcohol intake</li>
+<li>are they taking NSAID, aspirin, antacid</li>
+<li>previous episodes - when, any treatment</li>
+<li>recent weight loss, difficulty or painful swallowing</li>
+<li>other symptoms eg SOB, dizziness, syncope/collapse</li>
+<li>recent food intake</li>
+</ul>
+</li>
+<li>Get past history - heart disease, GORD, peptic ulcer disease, abdominal surgery</li>
+<li>Do physical examination, including Abdominal examination +
+<ul>
+<li>ECG, BGL + bloods/i-STAT - lactate</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-symptoms persist > 48 hours, or worsen
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Contact MO urgently if intense boring pain that radiates to the back</li>
+<li>Consult MO, who may advise:
+<ul>
+<li>IV pantoprazole ± thiamine if alcohol related</li>
+<li>bloods eg lipase, LFTs</li>
+<li>retrieval/hospitalisation ± referral for endoscopy</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-develops severe vomiting, abdominal cramps, or blood in stools
-ΓÇó	 Review stool pathology results
-6.	 Referral/consultation2
-ΓÇó	 Notify Public Health Unit if ΓëÑ 2 cases of diarrhoea ┬▒ vomiting in the same location
-or single case in a food handler ∩Ç⌐
-426ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Advise to return if symptoms ↑ or new symptoms eg blood in vomit - contact MO urgently. Otherwise advise to see MO at next clinic</li>
+</ul>
 
-Gastritis - Adult
-Background1
-ΓÇó	 Inflammation of the gastric mucosa commonly caused from Helicobacter pylori
-infection, use of NSAID, or alcohol
-1.
-May present with1,2
-ΓÇó	 Epigastric pain or discomfort ┬▒ nausea, vomiting, heartburn, reflux
-2.	 Immediate management
-ΓÇó	 Do vital signs
-ΓÇó	 Insert IVC x 2
-ΓÇó	 If shock - pale, sweaty, ∩âíHR, capillary refill > 2 seconds ┬▒ ∩âóLOC:
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
 
-ΓÇô
-contact MO urgently + see Shock
-ΓÇó	 Assess as per Chest pain assessment, + see ACS
-ΓÇó	 Offer analgesia ┬▒ antiemetic. See Acute pain, Nausea and vomiting
-3.	 Clinical assessment1,2
-ΓÇó	 Do not jump to conclusions as to the cause of the epigastric pain in a person
-who drinks alcohol
-ΓÇó	 Do NOT use medication cocktails eg pink lady, to assist in ruling out a cardiac
-cause3
-ΓÇó	 Ask about:
-
-ΓÇô
-pain - onset + duration
-
-ΓÇô
-is it accompanied by nausea, vomiting or heartburn
-
-ΓÇô
-any blood in vomit - fresh or coffee grounds, ┬▒ melaena, go to Upper GI
-bleeding
-
-ΓÇô
-recent heavy alcohol intake
-
-ΓÇô
-are they taking NSAID, aspirin, antacid
-
-ΓÇô
-previous episodes - when, any treatment
-
-ΓÇô
-recent weight loss, difficulty or painful swallowing
-
-ΓÇô
-other symptoms eg SOB, dizziness, syncope/collapse
-
-ΓÇô
-recent food intake
-ΓÇó	 Get past history - heart disease, GORD, peptic ulcer disease, abdominal surgery
-ΓÇó	 Do physical examination, including Abdominal examination +
-
-ΓÇô
-ECG, BGL + bloods/i-STAT - lactate
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ427
-
-4.	 Management1,2
-ΓÇó	 Contact MO urgently if intense boring pain that radiates to the back
-ΓÇó	 Consult MO, who may advise:
-
-ΓÇô
-IV pantoprazole ┬▒ thiamine if alcohol related
-
-ΓÇô
-bloods eg lipase, LFTs
-
-ΓÇô
-retrieval/hospitalisation ┬▒ referral for endoscopy
-5.	 Follow up
-ΓÇó	 Advise to return if symptoms ∩âí or new symptoms eg blood in vomit - contact
-MO urgently. Otherwise advise to see MO at next clinic
-6.	 Referral/consultation
-ΓÇó	 As above
-428ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+</div>

@@ -1,144 +1,126 @@
 ﻿---
-sidebar_position: 68
+sidebar_position: 13
+title: Hepatitis D – Adult/Child (Kiribati Original Protocol)
+hide_title: true
 ---
 
-# Hepatitis D ΓÇô Adult/Child (Kiribati Original Protocol)
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Hepatitis D – Adult/Child (Kiribati Original Protocol)</h1>
 
-5.	 Follow up3
-ΓÇó	 Review in 24 hours, reinforce education (i.e. alcohol use, adherence)
-ΓÇó	 Repeat HCV RNA after 6 months to confirm clearance or chronicity
-ΓÇó	 Monitor LFTs and INR
-ΓÇó	 Annual HCV RNA testing if risk factors persist
-6.	 Referral / consultation
-ΓÇó	 Consult MO as required
-ΓÇó	 Notify Public Health Unit / Hepatitis Program
-ΓÇó	 Refer to hepatitis specialist/clinic if chronic HCV or if treatment is indicated
-ΓÇó	 Coordinate care with Hepatitis services for pregnant patients and infant testing
-plans
-452ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul class="pccm-content-list">
+<li>All patients with advanced liver disease should be assessed for HDV</li>
+<li>All patients who are HBV-positive should be screened for HDV (Anti-HDV test) and linked to care</li>
+<li>Patients with an acute flare of hepatitis should be considered for screening for anti-HDV</li>
+</ul>
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Hepatitis D (delta) virus (HDV) is endemic in Kiribati</li>
+<li>HDV is an enveloped RNA virus</li>
+<li>It is an incomplete (satellite) virus that depends on Hepatitis B virus (HBV) for its survival – causing HBV/HDV co-infection</li>
+<li>Elimination of HDV is closely associated tied with HBV elimination – via birth dose vaccination and preventative practices</li>
+<li>Treatment for HDV exists but is currently unavailable in Kiribati</li>
+<li>All HBV/HDV co-infected patients should be offered antiviral therapy for HBV</li>
+</ul>
+</div>
 
-Hepatitis D ΓÇô Adult/Child (Kiribati Original Protocol)
-Recommend
-ΓÇó	 All patients with advanced liver disease should be assessed for HDV
-ΓÇó	 All patients who are HBV-positive should be screened for HDV (Anti-HDV test)
-and linked to care
-ΓÇó	 Patients with an acute flare of hepatitis should be considered for screening for
-anti-HDV
-Background
-ΓÇó	 Hepatitis D (delta) virus (HDV) is endemic in Kiribati
-ΓÇó	 HDV is an enveloped RNA virus
-ΓÇó	 It is an incomplete (satellite) virus that depends on Hepatitis B virus (HBV) for its
-survival ΓÇô causing HBV/HDV co-infection
-ΓÇó	 Elimination of HDV is closely associated tied with HBV elimination ΓÇô via birth
-dose vaccination and preventative practices
-ΓÇó	 Treatment for HDV exists but is currently unavailable in Kiribati
-ΓÇó	 All HBV/HDV co-infected patients should be offered antiviral therapy for HBV
-1.
-May present with
-ΓÇó	 Acute HDV infection of an HBV-positive patient can be asymptomatic
-ΓÇó	 If present:
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Acute HDV infection of an HBV-positive patient can be asymptomatic</li>
+<li>If present:
+<ul>
+<li>Jaundice, fatigue, anorexia, nausea</li>
+<li>Vomiting, upper abdominal pain</li>
+</ul>
+</li>
+<li>Laboratory findings:
+<ul>
+<li>Positive HBsAg</li>
+<li>Positive anti-HDV</li>
+<li>Positive HDV RNA</li>
+<li>Elevated ALT</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Jaundice, fatigue, anorexia, nausea
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-ΓÇô
-Vomiting, upper abdominal pain
-ΓÇó	 Laboratory findings:
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>History:
+<ul>
+<li>HbsAg-positive, tattooing, blood exposure, shared razors</li>
+<li>Contact with HBV-positive individuals / mother</li>
+</ul>
+</li>
+<li>Observations:
+<ul>
+<li>Full vitals (Q-ADDS/CEWT)</li>
+<li>Urinalysis for bilirubin/urobilinogen</li>
+</ul>
+</li>
+<li>Examination:
+<ul>
+<li>Jaundice, hepatomegaly, RUQ tenderness</li>
+</ul>
+</li>
+<li>Blood tests:
+<ul>
+<li>LFTs, INR, UEC – calculate APRI-score</li>
+<li>HDV RNA (viral load)</li>
+<li>HIV, HBV serology</li>
+</ul>
+</li>
+<li>In pregnant women:
+<ul>
+<li>Perform routine hepatitis B screening</li>
+<li>Coordinate with Hepatitis Clinic / ANC for follow-up</li>
+<li>Due to MTCT risk for HDV is believed to be lower in children, screening is essential for maternal counselling and postnatal infant follow-up</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Positive HBsAg
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Consult MO for all suspected cases</li>
+<li>Urgent referral if INR ≥ 1.5 or if systemically unwell</li>
+<li>Supportive treatment only for acute phase</li>
+<li>Bed rest advised if jaundiced</li>
+<li>Educate patient and contacts:
+<ul>
+<li>Avoid sharing injecting equipment, razors, toothbrushes</li>
+<li>Do not donate blood</li>
+<li>Avoid paracetamol</li>
+</ul>
+</li>
+<li>Vaccinate against hepatitis A – if unvaccinated</li>
+<li>Contact tracing with HbsAg-screening and linkage to care</li>
+<li>HDV infection requires treatment with immunoglobulins (pegylated interferon) and antivirals (Bulevirtide) – consult MO/Hepatitis Program</li>
+<li>Pregnant women:
+<ul>
+<li>Ensure HBV-positive pregnant mothers are treated with prophylaxis antivirals (Tenofovir) from 24 weeks gestation onwards – see <a href="/docs/Gastrointestinal/Hepatitis-B">Hepatitis B</a></li>
+<li>Provide education and linkage to early infant screening</li>
+<li>Ensure all HBV-positive mothers are linked to care with Hepatitis Program</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-Positive anti-HDV
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Review in 24 hours, reinforce education, adherence</li>
+<li>Monitor LFTs and INR</li>
+</ul>
 
-ΓÇô
-Positive HDV RNA
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral / consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO as required</li>
+<li>Notify Public Health Unit / Hepatitis Program</li>
+<li>Refer to Hepatitis specialist/clinic if chronic HCV or if treatment is indicated</li>
+<li>Coordinate care with Hepatitis services for pregnant patients and infant testing plans</li>
+</ul>
 
-ΓÇô
-Elevated ALT
-2.	 Immediate management
-ΓÇó	 Not applicable
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ453
-
-3.	 Clinical assessment
-ΓÇó	 History:
-
-ΓÇô
-HbsAg-positive, tattooing, blood exposure, shared razors
-
-ΓÇô
-Contact with HBV-positive individuals / mother
-ΓÇó	 Observations:
-
-ΓÇô
-Full vitals (Q-ADDS/CEWT)
-
-ΓÇô
-Urinalysis for bilirubin/urobilinogen
-ΓÇó	 Examination:
-
-ΓÇô
-Jaundice, hepatomegaly, RUQ tenderness
-ΓÇó	 Blood tests:
-
-ΓÇô
-LFTs, INR, UEC ΓÇô calculate APRI-score
-
-ΓÇô
-HDV RNA (viral load)
-
-ΓÇô
-HIV, HBV serology
-ΓÇó	 In pregnant women:
-
-ΓÇô
-Perform routine hepatitis B screening
-
-ΓÇô
-Coordinate with Hepatitis Clinic / ANC for follow-up
-
-ΓÇô
-Due to MTCT risk for HDV is believed to be lower in children, screening is
-essential for maternal counselling and postnatal infant follow-up
-4.	 Management
-ΓÇó	 Consult MO for all suspected cases
-ΓÇó	 Urgent referral if INR ΓëÑ 1.5 or if systemically unwell
-ΓÇó	 Supportive treatment only for acute phase
-ΓÇó	 Bed rest advised if jaundiced
-ΓÇó	 Educate patient and contacts:
-
-ΓÇô
-Avoid sharing injecting equipment, razors, toothbrushes
-
-ΓÇô
-Do not donate blood
-
-ΓÇô
-Avoid paracetamol
-ΓÇó	 Vaccinate against hepatitis A ΓÇô if unvaccinated
-ΓÇó	 Contact tracing with HbsAg-screening and linkage to care
-ΓÇó	 HDV infection requires treatment with immunoglobulins (pegylated interferon)
-and antivirals (Bulevirtide) ΓÇô consult MO/Hepatitis Program
-ΓÇó	 Pregnant women:
-
-ΓÇô
-Ensure HBV-positive pregnant mothers are treated with prophylaxis antivirals
-(Tenofovir) from 24 weeks gestation onwards ΓÇô see Hepatitis B
-
-ΓÇô
-Provide education and linkage to early infant screening
-
-ΓÇô
-Ensure all HBV-positive mothers are linked to care with Hepatitis Program
-454ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-5.	 Follow up
-ΓÇó	 Review in 24 hours, reinforce education, adherence
-ΓÇó	 Monitor LFTs and INR
-6.	 Referral / consultation
-ΓÇó	 Consult MO as required
-ΓÇó	 Notify Public Health Unit / Hepatitis Program
-ΓÇó	 Refer to Hepatitis specialist/clinic if chronic HCV or if treatment is indicated
-ΓÇó	 Coordinate care with Hepatitis services for pregnant patients and infant testing
-plans
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ455
+</div>

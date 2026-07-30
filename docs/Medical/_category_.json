@@ -1,8 +1,0 @@
-{
-  "label": "Medical Conditions",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Common medical presentations and general conditions."
-  }
-}

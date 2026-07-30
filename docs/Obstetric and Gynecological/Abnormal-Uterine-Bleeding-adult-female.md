@@ -1,148 +1,130 @@
 ---
 sidebar_position: 4
+title: Abnormal Uterine Bleeding (AUB) adult female (Kiribati Original Protocol)
+hide_title: true
 ---
 
-# Abnormal Uterine Bleeding (AUB) adult female (Kiribati Original Protocol)
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Abnormal Uterine Bleeding (AUB) adult female (Kiribati Original Protocol)</h1>
 
-4.	 Management
-If VIA negative:
-•	 Reassure patient
-•	 Advise next VIA in 3–5 years (or sooner if HIV-positive)
-•	 Provide HPV vaccination advice if eligible
-If VIA positive (precancerous lesion suspected):
-•	 Offer cryotherapy (if available and eligible)
-•	 Refer to gynaecology if not eligible for cryotherapy or no cryotherapy available
-•	 Counsel on follow-up and possible further treatment
-If invasive cancer suspected:
-•	 Refer urgently to gynaecology or surgical/oncology care
-•	 Provide emotional support and ensure follow-up
-5.	 Follow up
-•	 VIA-negative: repeat screening in 3–5 years (or every 3 years if HIV-positive)
-•	 VIA-positive and treated: follow-up in 1 year
-•	 VIA-positive and referred: ensure referral completed and tracked
-•	 Monitor program performance and coverage rates
-6.	 Referral/consultation
-•	 Refer to:
-•	 Gynaecology or surgical specialist for:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend<sup>1–5</sup></h2>
+<ul class="pccm-content-list">
+<li>AUB is bleeding from the uterus that is irregular in volume, duration, or timing and not related to pregnancy</li>
+<li>Identify and manage life-threatening bleeding promptly</li>
+<li>Consider pregnancy, infection, fibroids, malignancy, and hormonal causes</li>
+<li>Take a thorough history and conduct a pelvic exam</li>
+<li>Refer persistent, heavy, or unexplained bleeding</li>
+</ul>
+<h2 class="pccm-section-heading">Background<sup>1–5</sup></h2>
+<ul class="pccm-content-list">
+<li>AUB may be caused by pregnancy-related conditions, hormonal imbalances, uterine fibroids, infections, or malignancy</li>
+<li>Women may present with heavy, prolonged, frequent, or irregular periods, or postmenopausal bleeding</li>
+<li>In low-resource settings, early identification and referral are key to preventing complications such as anaemia or undiagnosed cancer</li>
+<li>PALM-COEIN is a helpful classification for causes of AUB:
+<ul>
+<li>PALM (structural): Polyp, Adenomyosis, Leiomyoma (fibroid), Malignancy</li>
+<li>COEIN (non-structural): Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, Not yet classified</li>
+</ul>
+</li>
+</ul>
+</div>
 
-–
-Suspected invasive cancer
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Heavy menstrual bleeding (soaking &gt;1 pad/hour)</li>
+<li>Bleeding between periods or after sex</li>
+<li>Bleeding after menopause</li>
+<li>Irregular or prolonged periods</li>
+<li>Dizziness, fatigue, signs of anaemia</li>
+<li>History of miscarriage, pregnancy, or contraceptive use</li>
+<li>Vaginal discharge, fever, or pain (if infection)</li>
+</ul>
 
-–
-VIA-positive and not suitable for cryotherapy
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Assess and manage heavy bleeding and haemodynamic stability</li>
+<li>Insert IV line, check vital signs, consider fluid resuscitation if signs of <a href="/docs/Emergency/Shock">shock</a></li>
+<li>Rule out pregnancy with urine pregnancy test</li>
+<li>Refer urgently if:
+<ul>
+<li>Heavy bleeding and unstable vital signs</li>
+<li>Suspected miscarriage or ectopic pregnancy</li>
+<li>Postmenopausal bleeding</li>
+<li>Bleeding with uterine mass or suspected malignancy</li>
+</ul>
+</li>
+</ul>
 
-–
-Recurrence or treatment failure
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Ask about:
+<ul>
+<li>Menstrual history (cycle, duration, flow, pain)</li>
+<li>Last menstrual period (LMP), pregnancy risk</li>
+<li>Contraceptive use or recent childbirth/miscarriage</li>
+<li>Sexual history and STI symptoms</li>
+<li>Past gynaecological conditions or procedures</li>
+</ul>
+</li>
+<li>Perform physical and pelvic exam if trained:
+<ul>
+<li>Check for uterine enlargement, cervical lesions, discharge</li>
+</ul>
+</li>
+<li>Do basic tests if available:
+<ul>
+<li>Urine pregnancy test</li>
+<li>Haemoglobin (if possible)</li>
+<li>STI screening if indicated</li>
+</ul>
+</li>
+</ul>
 
-–
-HIV clinic if not already in care
-•	 MHMS to advise on referral pathways and eligibility for public sector HPV
-vaccination programs
-462 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
 
-Abnormal Uterine Bleeding (AUB) adult
-female (Kiribati Original Protocol)
-Recommend  1–5
-•	 AUB is bleeding from the uterus that is irregular in volume, duration, or timing
-and not related to pregnancy
-•	 Identify and manage life-threatening bleeding promptly
-•	 Consider pregnancy, infection, fibroids, malignancy, and hormonal causes
-•	 Take a thorough history and conduct a pelvic exam
-•	 Refer persistent, heavy, or unexplained bleeding
-Background  1–5
-•	 AUB may be caused by pregnancy-related conditions, hormonal imbalances,
-uterine fibroids, infections, or malignancy
-•	 Women may present with heavy, prolonged, frequent, or irregular periods, or
-postmenopausal bleeding
-•	 In low-resource settings, early identification and referral are key to preventing
-complications such as anaemia or undiagnosed cancer
-•	 PALM-COEIN is a helpful classification for causes of AUB:
+<h2 class="pccm-section-heading-orange" id="stable-not-pregnant">If haemodynamically stable and not pregnant</h2>
+<ul class="pccm-content-list">
+<li>Start oral iron if anaemic</li>
+<li>If due to hormonal imbalance:
+<ul>
+<li>Consider Norethisterone 5 mg orally twice daily for 10–14 days (if available)</li>
+</ul>
+</li>
+<li>If infection suspected:
+<ul>
+<li>Treat for <a href="/docs/Obstetric%20and%20Gynecological/Pelvic-Inflammatory-Disease">PID</a> or cervicitis per STI protocol</li>
+</ul>
+</li>
+<li>Advise keeping a menstrual diary</li>
+<li>Reassess in 2–4 weeks</li>
+</ul>
 
-–
-PALM (structural): Polyp, Adenomyosis, Leiomyoma (fibroid), Malignancy
+<h2 class="pccm-section-heading-orange" id="persists-or-unclear">If bleeding persists, is heavy, or cause is unclear</h2>
+<ul class="pccm-content-list">
+<li>Refer for gynaecological assessment and ultrasound if available</li>
+<li>Avoid NSAIDs in heavy bleeding unless known to be helpful and anaemia is excluded</li>
+</ul>
 
-–
-COEIN (non-structural): Coagulopathy, Ovulatory dysfunction, Endometrial,
-Iatrogenic, Not yet classified
-1.
-May present with
-•	 Heavy menstrual bleeding (soaking >1 pad/hour)
-•	 Bleeding between periods or after sex
-•	 Bleeding after menopause
-•	 Irregular or prolonged periods
-•	 Dizziness, fatigue, signs of anaemia
-•	 History of miscarriage, pregnancy, or contraceptive use
-•	 Vaginal discharge, fever, or pain (if infection)
-2.	 Immediate management
-•	 Assess and manage heavy bleeding and haemodynamic stability
-•	 Insert IV line, check vital signs, consider fluid resuscitation if signs of shock
-•	 Rule out pregnancy with urine pregnancy test
-•	 Refer urgently if:
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Review in 2–4 weeks</li>
+<li>Monitor bleeding pattern and haemoglobin if available</li>
+<li>If improved, plan ongoing management (e.g. contraception, iron, repeat review)</li>
+<li>If no improvement or bleeding worsens, refer</li>
+</ul>
 
-–
-Heavy bleeding and unstable vital signs
-
-–
-Suspected miscarriage or ectopic pregnancy
-
-–
-Postmenopausal bleeding
-
-–
-Bleeding with uterine mass or suspected malignancy
-Kiribati Primary Clinical Care Manual | 463
-
-3.	 Clinical assessment
-•	 Ask about:
-
-–
-Menstrual history (cycle, duration, flow, pain)
-
-–
-Last menstrual period (LMP), pregnancy risk
-
-–
-Contraceptive use or recent childbirth/miscarriage
-
-–
-Sexual history and STI symptoms
-
-–
-Past gynaecological conditions or procedures
-•	 Perform physical and pelvic exam if trained:
-
-–
-Check for uterine enlargement, cervical lesions, discharge
-•	 Do basic tests if available:
-
-–
-Urine pregnancy test
-
-–
-Haemoglobin (if possible)
-
-–
-STI screening if indicated
-4.	 Management
-If haemodynamically stable and not pregnant:
-•	 Start oral iron if anaemic
-•	 If due to hormonal imbalance:
-
-–
-Consider Norethisterone 5 mg orally twice daily for 10–14 days (if available)
-•	 If infection suspected:
-
-–
-Treat for PID or cervicitis per STI protocol
-•	 Advise keeping a menstrual diary
-•	 Reassess in 2–4 weeks
-If bleeding persists, is heavy, or cause is unclear:
-•	 Refer for gynaecological assessment and ultrasound if available
-•	 Avoid NSAIDs in heavy bleeding unless known to be helpful and anaemia is
-excluded
-5.	 Follow up
-•	 Review in 2–4 weeks
-•	 Monitor bleeding pattern and haemoglobin if available
-•	 If improved, plan ongoing management (e.g. contraception, iron, repeat review)
-•	 If no improvement or bleeding worsens, refer
-464 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<p>Refer to:</p>
+<ul class="pccm-content-list">
+<li>Gynaecology or hospital for:
+<ul>
+<li>Postmenopausal bleeding</li>
+<li>No improvement with initial management</li>
+<li>Heavy bleeding with anaemia</li>
+<li>Suspicion of cancer (e.g. cervical mass, persistent intermenstrual bleeding)</li>
+</ul>
+</li>
+<li>MHMS to advise on referral locations and follow-up pathway</li>
+</ul>
+</div>

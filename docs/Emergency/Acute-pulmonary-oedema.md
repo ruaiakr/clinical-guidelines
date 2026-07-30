@@ -1,301 +1,80 @@
 ---
-sidebar_position: 21
+sidebar_position: 23
+title: Acute pulmonary oedema
+hide_title: true
 ---
 
-# Acute pulmonary oedema (Cardiac causes) - Adult
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Acute pulmonary oedema</h1>
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend1</h2>
+<ul class="pccm-content-list">
+<li>Acute pulmonary oedema (APO) is a medical emergency. It is the rapid accumulation of fluid in the alveoli from the pulmonary circulation. Fluid impairs gas exchange and decreases lung compliance leading to difficulty breathing and hypoxia</li>
+</ul>
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Causes can be ACS, valve dysfunction. Note: can be non-cardiac causes eg sepsis, drowning</li>
+</ul>
+</div>
 
-Post thrombolysis
-•	 Prepare for urgent evacuation to PCI capable hospital:
-
-–
-send copies of ECGs with other documentation
-
-–
-keep under direct observation of RN until evacuated
-•	 Continuous cardiac monitoring:
-
-–
-alert to arrhythmias including VF
-•	 Monitor frequently:
-
-–
-vital signs
-
-–
-circulation and neurological observations - to detect bleeding1
-•	 Repeat ECG at 30 minutes, 60 minutes and 90 minutes - to be reviewed by MO
-•	 Continuously liaise with MO
-•	 If failed reperfusion:
-
-–
-ie unresolved pain and ST elevation has not reduced > 50% at 60 minutes
-
-–
-MO will urgently consult on call interventional cardiologist for further advice
-OPTION 3: Reperfusion NOT indicated5
-•	 Possible NSTEACS or STEMI + does not meet criteria for reperfusion
-Use Suspected acute coronary syndrome clinical pathway AND Acute coronary
-syndrome pathway https://clinicalexcellence.qld.gov.au/resources/clinical-
-pathways/cardiac-clinical-pathways or local pathway(s)
-•	 MO will:
-
-–
-risk stratify as per the Suspected acute coronary syndrome clinical pathway
-
-–
-if patient is high risk commence Acute coronary syndrome pathway
-•	 Be guided by MO for further management, which may include:5
-
-–
-urgent evacuation to cardiac interventional facility
-
-–
-continuous cardiac monitoring
-
-–
-repeat ECGs
-
-–
-repeat troponin in 3 hours (laboratory) or 6–8 hours (i-STAT) after
-presentation +
-	›
-CHEM20, FBC, coagulation studies, HbA1C, lipid profile
-•	 BGL
-•	 frequent monitoring of:
-
-–
-vital signs
-
-–
-circulation and neurological observations
-
-–
-SpO2
-•	 If assessed as low risk, MO may advise patient can be discharged home if:
-
-–
-repeat ECG normal
-
-–
-repeat troponin negative at 3 hours (laboratory) or 6–8 hours (i-STAT)
-
-–
-no further chest pain
-5.	 Follow up
-•	 As directed by MO
-6.	 Referral/consultation
-•	 Consult MO on all occasions of chest pain
-•	 May require further investigations eg angiography, echo, stress test
-148 | Kiribati Primary Clinical Care Manual
-
-Acute pulmonary oedema
-(Cardiac causes) - Adult
-Recommend 1
-•	 Acute pulmonary oedema (APO) is a medical emergency. It is the rapid
-accumulation of fluid in the alveoli from the pulmonary circulation. Fluid impairs
-gas exchange and decreases lung compliance leading to difficulty breathing and
-hypoxia
-Background
-•	 Causes can be ACS, valve dysfunction. Note: can be non-cardiac causes
-eg sepsis, drowning
-1.
-May present with 1,2
-•	 Sudden onset of extreme breathlessness. May wake patient up at night
-•	 Anxiety/agitation
-•	 Pale/ashen, sweaty
-•	 Lung crackles
-•	 Cough (pink frothy sputum in severe cases)
-•	 Chest pain
-•	 Cyanosis (late sign), exhaustion, altered LOC
-•	 Tripod position (sit/standing leaning forward, supporting upper body with hands
-on knees/other
-•	 surface, indicating respiratory distress)
-•	 Oedema of legs/sacrum and an enlarged liver may co-exist as a sign of right
-heart failure
-2.	 Immediate management 1,2
-•	 DRSABCD. Be prepared for rapid deterioration ± cardiorespiratory arrest
-•	 Call for help
-•	 Sit patient as upright as possible - do not lay them down
-•	 Consult MO urgently + urgent evacuation
-
-–
-Do vital signs +
-
-–
-capillary refill time
-
-–
-LOC. See GCS/AVPU
-
-–
-continuous cardiac monitoring
-•	 Give O2 if SpO2 &lt; 94%. Titrate O2 to SpO2
-	›
-use with caution if COPD. Aim for SpO2 88–92%
-•	 Insert IVC x 2 eg 16 G
-•	 Take bloods : FBC (Full Blood Count), UECr (Urea, Electrolytes [Na+, K+, Cl-],
-Creatinine) & Coagulation Profile
-Kiribati Primary Clinical Care Manual | 149
-
-•	 Give:2
-
-–
-subling glyceryl trinitrate (GTN) providing sBP > 110. Give 2–5 minutely being
-guided by clinical response AND
-
-–
-V furosemide (frusemide)
-•	 Do ECG - review by MO within 10 minutes
-3.	 Clinical assessment 1,2
-•	 Get rapid history, including:
-•	 Allergies
-•	 Medicines - are they taken correctly
-•	 Past history:
-
-–
-heart problems eg angina, MI, heart failure, palpitations, RHD, arrhythmias
-
-–
-hypertension, renal failure, COPD, diabetes
-
-–
-alcohol/drug use
-
-–
-recent infection
-
-–
-currently pregnant2
-•	 Last ate
-•	 Events related:
-
-–
-onset, any chest pain
-
-–
-other signs/symptoms
-
-–
-recent  weight
-•	 Do physical examination, including:
-
-–
-general appearance eg ashen/cyanosed, sweaty, WOB
-
-–
-skin temperature - compare trunk with limbs; are peripheries cool
-
-–
-auscultate chest - crackles, wheeze, air entry
-
-–
-weight (if able)
-
-–
- oedema - check legs/ankles + if able sacrum (with patient sitting up and
-forward)
-•	 Chest x-ray if MO requests
-4.	 Management 1,2
-•	 MO may order:
-
-–
-GTN infusion - titrate to BP and clinical effect:
-	›
-see Hypertensive emergency, for drug box
-
-–
-if infusion not practical in the rural/remote area, GTN transdermal patch(es)3
-
-–
-+ other treatment specific to cause (if known)2
-•	 Monitor closely until evacuation:2
-
-–
-airway, LOC, vital signs, SpO2
-
-–
-cardiac monitoring
-
-–
-symptoms
-
-–
-urine output. IDC not routinely recommended. Do not lie patient down in APO
-•	 If no improvement/deteriorating, MO may consider:
-•	 Non invasive ventilation – Via  Airvo2
-150 | Kiribati Primary Clinical Care Manual
-
-•	 monitor for nausea/vomiting as   risk of aspiration while mask in place due to
-altered LOC
-•	 although morphine not routinely recommended for APO, if patient anxious/
-distressed or not
-•	 tolerating CPAP, MO may consider:2
-•	 IV morphine 1–2.5 mg - single dose. Use cautiously as may  need for
-ventilation2
-•	 if given, monitor nausea, RR/depth and LOC. See Sedation score
-•	 Intubation if still continues to deteriorate + skilled staff eg:
-•	 exhaustion,  LOC,  confusion/agitation
-•	 CPR if needed. See ALS
-GLYCERYL TRINITRATE (GTN)
-L2
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Spray
-400 microg /
-spray
-Subling
-400 – 800
-micorg
-If no
-improvement
-consult MO -
-may need
-higher doses
-Offer CMI: May cause headache, flushing, palpitations, hypotension, dizziness or fainting.
-Advise to get up gradually from sitting or lying
-Note: Sit or lie before giving. Do not use tablets from bottles that have been opened >
-3 months. If unopened spray, prime by pressing nozzle 5 times into the air, or if > 7 days since
-used, press once
-Contraindication: Hypotension (sBP &lt; 90), patient has taken phosphodiesterase-5-inhibitors
-eg sildenafil (eg Viagra®), vardenafil (Levitra®) ≤ 24 hours or tadalafil (eg Cialis®) ≤ 48 hours
-Management of associated emergency: Consult MO. See Anaphylaxis
-Kiribati Primary Clinical Care Manual | 151
-
-FUROSEMIDE (FRUSEMIDE)
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Injection
-20 mg / 2 ml
-IV
-20–40 mg
-OR if patient
-already taking
-oral
-furosemide,
-give at least
-equivalent
-dose IV*
-stat
-Give undiluted
-over 2–5
-minutes
-Repeat in 20
-minutes if
-needed on
-MO order
-Offer CMI: May cause dizziness, fainting or dehydration
-Note: Check BP first - check with MO if hypotensive. *If > 80 mg required, give via slow IV
-infusion to reduce risk of ototoxicity
-Management of associated emergency: Contact MO. See Anaphylaxis
-5.	 Follow up
-As per MO
-6.	 Referral/consultation
-Consult MO as above
-152 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue">1. May present with 1,2</h2>
+<ul class="pccm-content-list">
+<li>Sudden onset of extreme breathlessness. May wake patient up at night</li>
+<li>Anxiety/agitation</li>
+<li>Pale/ashen, sweaty</li>
+<li>Lung crackles</li>
+<li>Cough (pink frothy sputum in severe cases)</li>
+<li>Chest pain</li>
+<li>Cyanosis (late sign), exhaustion, altered LOC</li>
+<li>Tripod position (sit/standing leaning forward, supporting upper body with hands on knees/other</li>
+<li>surface, indicating respiratory distress)</li>
+<li>Oedema of legs/sacrum and an enlarged liver may co-exist as a sign of right heart failure</li>
+</ul>
+<h2 class="pccm-section-heading-blue">2.	 Immediate management 1,2</h2>
+<ul class="pccm-content-list">
+<li>DRSABCD. Be prepared for rapid deterioration ± cardiorespiratory arrest</li>
+<li>Call for help</li>
+<li>Sit patient as upright as possible - do not lay them down</li>
+<li>Consult MO urgently + urgent evacuation<ul><li>Do vital signs +</li><li>capillary refill time</li><li>LOC. See GCS/AVPU</li><li>continuous cardiac monitoring</li></ul></li>
+<li>Give O<sup>2</sup> if SpO<sup>2</sup> &lt; 94%. Titrate O<sup>2</sup> to SpO<sup>2</sup><ul><li>use with caution if COPD. Aim for SpO<sup>2</sup> 88–92%</li></ul></li>
+<li>Insert IVC x 2 eg 16 G</li>
+<li>Take bloods : FBC (Full Blood Count), UECr (Urea, Electrolytes [Na+, K+, Cl-], Creatinine) &amp; Coagulation Profile</li>
+<li>Give:2<ul><li>subling glyceryl trinitrate (GTN) providing sBP &gt; 110. Give 2–5 minutely being guided by clinical response AND</li><li>V furosemide (frusemide)</li></ul></li>
+<li>Do ECG - review by MO within 10 minutes</li>
+</ul>
+<h2 class="pccm-section-heading-blue">3.	 Clinical assessment 1,2</h2>
+<ul class="pccm-content-list">
+<li>Get rapid history, including:</li>
+<li>Allergies</li>
+<li>Medicines - are they taken correctly</li>
+<li>Past history:<ul><li>heart problems eg angina, MI, heart failure, palpitations, RHD, arrhythmias</li><li>hypertension, renal failure, COPD, diabetes</li><li>alcohol/drug use</li><li>recent infection</li><li>currently pregnant<sup>2</sup></li></ul></li>
+<li>Last ate</li>
+<li>Events related:<ul><li>onset, any chest pain</li><li>other signs/symptoms</li><li>recent ↑ weight</li></ul></li>
+<li>Do physical examination, including:<ul><li>general appearance eg ashen/cyanosed, sweaty, WOB</li><li>skin temperature - compare trunk with limbs; are peripheries cool</li><li>auscultate chest - crackles, wheeze, air entry</li><li>weight (if able)</li><li>oedema - check legs/ankles + if able sacrum (with patient sitting up and forward)</li></ul></li>
+<li>Chest x-ray if MO requests</li>
+</ul>
+<h2 class="pccm-section-heading-blue">4.	 Management 1,2</h2>
+<ul class="pccm-content-list">
+<li>MO may order:<ul><li>GTN infusion - titrate to BP and clinical effect:<ul><li>see Hypertensive emergency, for drug box</li></ul></li><li>if infusion not practical in the rural/remote area, GTN transdermal patch(es)<sup>3</sup></li><li>+ other treatment specific to cause (if known)<sup>2</sup></li></ul></li>
+<li>Monitor closely until evacuation:2<ul><li>airway, LOC, vital signs, SpO<sup>2</sup></li><li>cardiac monitoring</li><li>symptoms</li><li>urine output. IDC not routinely recommended. Do not lie patient down in APO</li></ul></li>
+<li>If no improvement/deteriorating, MO may consider:</li>
+<li>Non invasive ventilation – Via  Airvo<sup>2</sup></li>
+<li>monitor for nausea/vomiting as  ↑ risk of aspiration while mask in place due to altered LOC</li>
+<li>although morphine not routinely recommended for APO, if patient anxious/ distressed or not</li>
+<li>tolerating CPAP, MO may consider:2</li>
+<li>IV morphine 1–2.5 mg - single dose. Use cautiously as may ↑ need for ventilation<sup>2</sup></li>
+<li>if given, monitor nausea, RR/depth and LOC. See Sedation score</li>
+<li>Intubation if still continues to deteriorate + skilled staff eg:</li>
+<li>exhaustion, ↓ LOC, ↑ confusion/agitation</li>
+<li>CPR if needed. See ALS</li>
+</ul>
+<figure class="pccm-flowchart-figure">
+<img src="/img/emergency/drug-furosemide.png" alt="Furosemide drug box" />
+<p class="pccm-flowchart-caption">FUROSEMIDE (FRUSEMIDE)</p>
+</figure>
+<p><strong>Management of associated emergency:</strong> Contact MO. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a></p>
+<h2 class="pccm-section-heading-blue">5.	 Follow up</h2>
+<p><strong>As per MO</strong></p>
+<h2 class="pccm-section-heading-blue">6.	 Referral/consultation</h2>
+<p><strong>Consult MO as above</strong></p>
+</div>

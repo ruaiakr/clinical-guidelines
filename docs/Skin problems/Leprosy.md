@@ -1,183 +1,170 @@
 ---
 sidebar_position: 6
+title: Leprosy (Hansen’s Disease) – Adult/Child
+hide_title: true
 ---
 
-# Leprosy (Hansen’s Disease) – Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Leprosy (Hansen’s Disease) – Adult/Child</h1>
 
-Leprosy (Hansen’s Disease) – Adult/Child
-Recommend
-Consider leprosy in any patient with persistent undiagnosed skin conditions,
-especially if there is loss of sensation or nerve thickening.
-Background
-Leprosy (Hansen’s Disease) is a chronic infectious disease caused by
-Mycobacterium leprae. It primarily affects the skin and peripheral nerves and can
-result in permanent damage if not diagnosed and treated early. It progresses slowly,
-with symptoms developing over months or years.
-1.
-May present with
-•	 Hypopigmented or reddish skin patches or ulcers with loss of sensation
-•	 Thickened or enlarged peripheral nerves with sensory loss ± muscle weakness in
-areas supplied by the nerve
-•	 Lesions typically progress slowly and are not itchy
-2.	 Immediate management
-•	 Not applicable
-3.	 Clinical assessment
-•	 Hansen’s disease is a clinical diagnosis; Take a history, including:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul class="pccm-content-list">
+<li>Consider leprosy in any patient with persistent undiagnosed skin conditions, especially if there is loss of sensation or nerve thickening.</li>
+</ul>
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Leprosy (Hansen’s Disease) is a chronic infectious disease caused by Mycobacterium leprae. It primarily affects the skin and peripheral nerves and can result in permanent damage if not diagnosed and treated early. It progresses slowly, with symptoms developing over months or years.</li>
+</ul>
+</div>
 
-–
-Any known contact with a person who has leprosy (household, school, work,
-or community)
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Hypopigmented or reddish skin patches or ulcers with loss of sensation</li>
+<li>Thickened or enlarged peripheral nerves with sensory loss ± muscle weakness in areas supplied by the nerve</li>
+<li>Lesions typically progress slowly and are not itchy</li>
+</ul>
 
-–
-Duration of the skin patch and when the loss of sensation started
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Not applicable</li>
+</ul>
 
-–
-Note that true leprosy lesions develop slowly, are not itchy, and increase in
-number or size gradually
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Hansen’s disease is a clinical diagnosis; Take a history, including:
+<ul>
+<li>Any known contact with a person who has leprosy (household, school, work, or community)</li>
+<li>Duration of the skin patch and when the loss of sensation started</li>
+<li>Note that true leprosy lesions develop slowly, are not itchy, and increase in number or size gradually</li>
+<li>Differentials such as pityriasis versicolor and tinea corporis usually present with fast-spreading, itchy lesions</li>
+</ul>
+</li>
+<li>Examine the skin – see Skin assessment – adult, or Skin assessment – child,
+<ul>
+<li>Test for sensation on the lesion using:
+<ul>
+<li>Rolled cotton wool or tip (pointed edge) of a small paper (touch gently until it bends – do not stroke)</li>
+<li>Fine ballpoint pen with light pressure</li>
+</ul>
+</li>
+<li>Palpate for thickened or enlarged nerves:
+<ul>
+<li>Ulnar nerve (wrist, elbow)</li>
+<li>Peroneal nerve (behind the knee)</li>
+<li>Cervical nerves (side of the neck)</li>
+</ul>
+</li>
+<li>Check for signs of leprosy reaction:
+<ul>
+<li>Fever, runny nose, raised red patches, or nodules on arms and legs</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-–
-Differentials such as pityriasis versicolor and tinea corporis usually present
-with fast-spreading, itchy lesions
-•	 Examine the skin – see Skin assessment – adult, or Skin assessment – child,
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Diagnose based on number of skin lesions with complete sensory loss:
+<ul>
+<li>PB (Paucibacillary): ≤ 5 skin lesions → Treat for 6 months (must complete within 9 months)</li>
+<li>MB (Multibacillary): &gt; 5 skin lesions → Treat for 12 months (must complete within 18 months)</li>
+</ul>
+</li>
+<li>Ensure patients are advised about MDT (Multi-Drug Therapy) side effects, especially:
+<ul>
+<li>Rifampicin may cause dark orange or reddish urine (harmless but should be explained)</li>
+</ul>
+</li>
+<li>Support adherence to daily doses to ensure treatment is completed within required timeframes</li>
+</ul>
 
-–
-Test for sensation on the lesion using:
-•	 Rolled cotton wool or tip (pointed edge) of a small paper (touch gently until it
-bends – do not stroke)
-•	 Fine ballpoint pen with light pressure
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Monitor medication adherence and provide support to complete the full course</li>
+<li>Regularly assess for complications, reactions, or worsening symptoms</li>
+</ul>
 
-–
-Palpate for thickened or enlarged nerves:
-•	 Ulnar nerve (wrist, elbow)
-•	 Peroneal nerve (behind the knee)
-•	 Cervical nerves (side of the neck)
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral / consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult with the Skin Clinic Doctor and Clinical Nurses</li>
+<li>Refer to Tungaru Central Hospital (TCH) Nawerewere if diagnosis is uncertain or if the patient requires investigations such as:
+<ul>
+<li>Liver function tests (LFT)</li>
+<li>Skin slit smear</li>
+<li>Biopsy</li>
+</ul>
+</li>
+</ul>
 
-–
-Check for signs of leprosy reaction:
-•	 Fever, runny nose, raised red patches, or nodules on arms and legs
-668 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-orange" id="leprosy-reaction">Leprosy Reaction</h2>
+<ul class="pccm-content-list">
+<li>Acute inflammatory episodes (type 1 &amp; 2) that complicate Hansen’s disease, causing pain, skin inflammation, nerve damage and disability, predominantly occur before, during and after Leprosy treatment. Inform Skin/Leprosy Unit for further details.</li>
+<li>Types of Leprosy:</li>
+</ul>
 
-4.	 Management
-•	 Diagnose based on number of skin lesions with complete sensory loss:
+<h2 class="pccm-section-heading-blue" id="reversal-reaction">1. Reversal Reaction (RR) or Type 1</h2>
+<ul class="pccm-content-list">
+<li>Localize swelling and redness of Leprosy lesion on the body associated with tenderness/pain over the nerve and sometimes fever.</li>
+<li>First line of treatment:
+<ul>
+<li>Mild- give Paracetamol or ibuprofen,</li>
+<li>Moderate- Severe- give Prednisolone (refer to the table below)</li>
+</ul>
+</li>
+</ul>
 
-–
-PB (Paucibacillary): ≤ 5 skin lesions  Treat for 6 months (must complete
-within 9 months)
+<table class="pccm-simple-table">
+<tr>
+<th>PREDNISOLONE DOSAGE (MG)</th>
+<th>NUMBER OF WEEKS</th>
+</tr>
+<tr><td>40</td><td>2</td></tr>
+<tr><td>30</td><td>2</td></tr>
+<tr><td>25</td><td>2</td></tr>
+<tr><td>20</td><td>2-4</td></tr>
+<tr><td>15</td><td>2</td></tr>
+<tr><td>10</td><td>2</td></tr>
+<tr><td>5</td><td>2</td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>14-16</strong></td></tr>
+</table>
 
-–
-MB (Multibacillary): > 5 skin lesions  Treat for 12 months (must complete
-within 18 months)
-•	 Ensure patients are advised about MDT (Multi-Drug Therapy) side effects,
-especially:
+<h2 class="pccm-section-heading-blue" id="enl">2. Erythema Nodusum Leprosum (ENL) or Type 2</h2>
+<ul class="pccm-content-list">
+<li>Painful tender erythematous nodules on skin usually accompanied with fever and malaise. Ulcerations are also common in ENL.</li>
+<li>First line of treatment:
+<ul>
+<li>Mild- Panadol or ibuprofen,</li>
+<li>Moderate to Severe give Prednisolone and Clofazimine (refer to the table below)</li>
+</ul>
+</li>
+</ul>
 
-–
-Rifampicin may cause dark orange or reddish urine (harmless but should be
-explained)
-•	 Support adherence to daily doses to ensure treatment is completed within
-required timeframes
-5.	 Follow up
-•	 Monitor medication adherence and provide support to complete the full course
-•	 Regularly assess for complications, reactions, or worsening symptoms
-6.	 Referral / consultation
-•	 Consult with the Skin Clinic Doctor and Clinical Nurses
-•	 Refer to Tungaru Central Hospital (TCH) Nawerewere if diagnosis is uncertain or
-if the patient requires investigations such as:
+<table class="pccm-simple-table">
+<tr>
+<th>PREDNISOLONE DOSAGE (MG)</th>
+<th>NUMBER OF WEEKS</th>
+</tr>
+<tr><td>40</td><td>2</td></tr>
+<tr><td>35</td><td>2</td></tr>
+<tr><td>30</td><td>2</td></tr>
+<tr><td>25</td><td>2</td></tr>
+<tr><td>20</td><td>2-4</td></tr>
+<tr><td>15</td><td>2</td></tr>
+<tr><td>10</td><td>2</td></tr>
+<tr><td>5</td><td>2</td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>18-20</strong></td></tr>
+</table>
 
-–
-Liver function tests (LFT)
-
-–
-Skin slit smear
-
-–
-Biopsy
-Kiribati Primary Clinical Care Manual | 669
-
-Leprosy Reaction
-•	 Acute inflammatory episodes (type 1 & 2) that complicate Hansen’s disease,
-causing pain, skin inflammation, nerve damage and disability, predominantly
-occur before, during and after Leprosy treatment. Inform Skin/Leprosy Unit for
-further details.
-•	 Types of Leprosy:
-1.
-Reversal Reaction (RR) or Type 1
-
-–
-Localize swelling and redness of Leprosy lesion on the body associated with
-tenderness/pain over the nerve and sometimes fever.
-
-–
-First line of treatment:
-	›
-Mild- give Paracetamol or ibuprofen,
-	›
-Moderate- Severe- give Prednisolone (refer to the table below)
-PREDNISOLONE
-DOSAGE (MG)
-NUMBER
-OF WEEKS
-40
-2
-30
-2
-25
-2
-20
-2-4
-15
-2
-10
-2
-5
-2
-TOTAL
-14-16
-2.
-Erythema Nodusum Leprosum (ENL) or Type 2
-
-–
-Painful tender erythematous nodules on skin usually accompanied with fever
-and malaise. Ulcerations are also common in ENL.
-
-–
-First line of treatment:
-	›
-Mild- Panadol or ibuprofen,
-	›
-Moderate to Severe give Prednisolone and Clofazimine (refer to the table
-below)
-PREDNISOLONE
-DOSAGE (MG)
-NUMBER
-OF WEEKS
-40
-2
-35
-2
-30
-2
-25
-2
-20
-2-4
-15
-2
-10
-2
-5
-2
-TOTAL
-18-20
-CLOFAZEMINE
-DOSAGE (MG)
-NUMBER
-OF WEEKS
-100mg tds
-4
-100mg bd
-4
-100mg od
-4-8
-TOTAL
-16-20
-670 | Kiribati Primary Clinical Care Manual
+<table class="pccm-simple-table">
+<tr>
+<th>CLOFAZEMINE DOSAGE (MG)</th>
+<th>NUMBER OF WEEKS</th>
+</tr>
+<tr><td>100mg tds</td><td>4</td></tr>
+<tr><td>100mg bd</td><td>4</td></tr>
+<tr><td>100mg od</td><td>4-8</td></tr>
+<tr><td><strong>TOTAL</strong></td><td><strong>16-20</strong></td></tr>
+</table>
+</div>

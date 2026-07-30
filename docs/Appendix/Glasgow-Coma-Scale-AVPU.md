@@ -1,84 +1,143 @@
 ---
 sidebar_position: 1
+title: Glasgow Coma Scale / AVPU
+hide_title: true
 ---
 
-# Glasgow Coma Scale / AVPU
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Glasgow Coma Scale / AVPU</h1>
 
-Glasgow Coma Scale / AVPU
-A
-Alert
-V
-Responds to voice
-P
-Responds to painful stimuli
-U
-Unresponsive
-GLASGOW COMA SCALE (GCS)¹,²
-Eyes open
-Spontaneous
-4
-If eyes closed by swelling, write C
-To speech
-3
-To pain
-2
-No response
-1
-CHILD/INFANT
-NONVERBAL
-PERSON (CHILD/
-INFANT/ADULT)
-Best verbal
-response
-Orientated
-5
-Alert, babbles, coos,
-words to usual ability
-Spontaneous normal
-facial/oromotor
-activity
-Confused
-4
-Less than usual
-words, spontaneous
-irritable cry
-Less than usual
-ability/response to
-touch only
-Inappropriate
-words
-3
-Cries only to pain
-Vigorous grimace
-to pain
-Incomprehensible
-sounds
-2
-Moans to pain
-Mild grimace to pain
-No response
-1
-No response to pain
-No response to pain
-CHILD/INFANT/NONVERBAL PERSON
-Best motor
-response
-Obeys commands
-6
-Spontaneous or obeys verbal commands
-Localises to pain
-5
-Withdraws from
-pain
-4
-Flexion to pain
-(decorticate
-3
-Extension to pain
-(decerebrate)
-2
-No response
-1
-GCS TOTAL 15
-15
-704 | Kiribati Primary Clinical Care Manual
+<div class="pccm-diff-table-wrap" role="region" aria-label="AVPU scale">
+<table class="pccm-avpu-table">
+<tbody>
+<tr>
+<td class="pccm-avpu-letter">A</td>
+<td>Alert</td>
+</tr>
+<tr>
+<td class="pccm-avpu-letter">V</td>
+<td>Responds to voice</td>
+</tr>
+<tr>
+<td class="pccm-avpu-letter">P</td>
+<td>Responds to painful stimuli</td>
+</tr>
+<tr>
+<td class="pccm-avpu-letter">U</td>
+<td>Unresponsive</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="pccm-assessment-table-wrap" role="region" aria-label="Glasgow Coma Scale">
+<table class="pccm-gcs-table">
+<thead>
+<tr class="pccm-gcs-banner">
+<th colspan="5">GLASGOW COMA SCALE (GCS)<sup>1,2</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pccm-gcs-section" rowspan="4">Eyes open</td>
+<td>Spontaneous</td>
+<td class="pccm-gcs-score">4</td>
+<td colspan="2" rowspan="4"><p class="pccm-gcs-note">If eyes closed by swelling, write C</p></td>
+</tr>
+<tr>
+<td>To speech</td>
+<td class="pccm-gcs-score">3</td>
+</tr>
+<tr>
+<td>To pain</td>
+<td class="pccm-gcs-score">2</td>
+</tr>
+<tr>
+<td>No response</td>
+<td class="pccm-gcs-score">1</td>
+</tr>
+<tr class="pccm-gcs-subheader">
+<th></th>
+<th></th>
+<th></th>
+<th>CHILD/INFANT</th>
+<th>NONVERBAL PERSON (CHILD/INFANT/ADULT)</th>
+</tr>
+<tr>
+<td class="pccm-gcs-section" rowspan="5">Best verbal response</td>
+<td>Orientated</td>
+<td class="pccm-gcs-score">5</td>
+<td>Alert, babbles, coos, words to usual ability</td>
+<td>Spontaneous normal facial/oromotor activity</td>
+</tr>
+<tr>
+<td>Confused</td>
+<td class="pccm-gcs-score">4</td>
+<td>Less than usual words, spontaneous irritable cry</td>
+<td>Less than usual ability/response to touch only</td>
+</tr>
+<tr>
+<td>Inappropriate words</td>
+<td class="pccm-gcs-score">3</td>
+<td>Cries only to pain</td>
+<td>Vigorous grimace to pain</td>
+</tr>
+<tr>
+<td>Incomprehensible sounds</td>
+<td class="pccm-gcs-score">2</td>
+<td>Moans to pain</td>
+<td>Mild grimace to pain</td>
+</tr>
+<tr>
+<td>No response</td>
+<td class="pccm-gcs-score">1</td>
+<td>No response to pain</td>
+<td>No response to pain</td>
+</tr>
+<tr class="pccm-gcs-subheader">
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">CHILD/INFANT/NONVERBAL PERSON</th>
+</tr>
+<tr>
+<td class="pccm-gcs-section" rowspan="6">Best motor response</td>
+<td>Obeys commands</td>
+<td class="pccm-gcs-score">6</td>
+<td colspan="2">Spontaneous or obeys verbal commands</td>
+</tr>
+<tr>
+<td>Localises to pain</td>
+<td class="pccm-gcs-score">5</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Withdraws from pain</td>
+<td class="pccm-gcs-score">4</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Flexion to pain (decorticate)</td>
+<td class="pccm-gcs-score">3</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Extension to pain (decerebrate)</td>
+<td class="pccm-gcs-score">2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>No response</td>
+<td class="pccm-gcs-score">1</td>
+<td colspan="2"></td>
+</tr>
+<tr class="pccm-gcs-total">
+<td colspan="2">GCS TOTAL 15</td>
+<td class="pccm-gcs-score">15</td>
+<td colspan="2"></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>

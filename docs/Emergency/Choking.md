@@ -1,137 +1,126 @@
 ---
-sidebar_position: 8
+sidebar_position: 10
+title: Choking (foreign body airway obstruction) - Adult/Child
+hide_title: true
 ---
 
-# Choking (foreign body airway obstruction) - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Choking (foreign body airway obstruction) - Adult/Child</h1>
 
-Choking (foreign body airway obstruction) -
-Adult/Child
-Background
-•	 Abdominal thrusts (Heimlich maneuver) are not recommeded1
-•	 Consider foreign body aspiration in any toddler / infant with acute onset
-respiratory distress2
-1.
-May present with 1,2
-•	 Coughing
-•	 Clutching the neck
-•	 Extreme anxiety, agitation, gasping sounds
-•	 Loss of voice, hoarseness, stridor
-•	 Cyanosis, collapse
-2.	 Immediate management 1-3
-•	 Assess for effective cough
-Effective cough (mild airway obstruction)
-•	 Give reassurance
-•	 Encourage coughing until foreign body is expelled
-•	 Allow to position themselves
-•	 Do not do back blows or chest thrusts while there is an effective cough
-•	 Continue to check until recovery or deterioration
-Ineffective cough and conscious (severe airway obstruction)
-•	 Call for help
-•	 Do up to 5 sharp back blows:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background</h2>
+<ul>
+<li>Abdominal thrusts (Heimlich maneuver) are not recommended<sup>1</sup></li>
+<li>Consider foreign body aspiration in any toddler / infant with acute onset respiratory distress<sup>2</sup></li>
+</ul>
+</div>
 
-–
-use the heel of your hand in the middle of the back between the shoulder
-blades
+<h2 class="pccm-section-heading-blue">1. May present with<sup>1,2</sup></h2>
+<ul class="pccm-content-list">
+<li>Coughing</li>
+<li>Clutching the neck</li>
+<li>Extreme anxiety, agitation, gasping sounds</li>
+<li>Loss of voice, hoarseness, stridor</li>
+<li>Cyanosis, collapse</li>
+</ul>
 
-–
-if infant - place in a head downwards position ie across your lap
-•	 If back blows unsuccessful, do up to 5 chest thrusts - like chest compressions for
-CPR but sharper and delivered at a slower rate:
+<h2 class="pccm-section-heading-blue">2. Immediate management<sup>1-3</sup></h2>
+<ul class="pccm-content-list">
+<li>Assess for effective cough</li>
+</ul>
 
-–
-infant - place face up, back across your thigh
+<div class="pccm-step-panel">
+<div class="pccm-step-heading">Effective cough (mild airway obstruction)</div>
+<ul>
+<li>Give reassurance</li>
+<li>Encourage coughing until foreign body is expelled</li>
+<li>Allow to position themselves</li>
+<li>Do not do back blows or chest thrusts while there is an effective cough</li>
+<li>Continue to check until recovery or deterioration</li>
+</ul>
+</div>
 
-–
-child/adult - sitting or standing position. Support the patient’s back when
-doing thrusts:4
-	›
-put your other hand on the patient’s back OR on the back of the chair (if
-patient sitting) OR
-	›
-get someone to stand behind patient to support the back OR
-	›
-stand patient against a firm surface/wall OR
-	›
-lie patient down
-84 | Kiribati Primary Clinical Care Manual
+<div class="pccm-step-panel">
+<div class="pccm-step-heading">Ineffective cough and conscious (severe airway obstruction)</div>
+<ul>
+<li>Call for help</li>
+<li>Do up to 5 sharp back blows:
+<ul>
+<li>use the heel of your hand in the middle of the back between the shoulder blades</li>
+<li>if infant - place in a head downwards position ie across your lap</li>
+</ul>
+</li>
+<li>If back blows unsuccessful, do up to 5 chest thrusts - like chest compressions for CPR but sharper and delivered at a slower rate:
+<ul>
+<li>infant - place face up, back across your thigh</li>
+<li>child/adult - sitting or standing position. Support the patient’s back when doing thrusts:<sup>4</sup>
+<ul>
+<li>put your other hand on the patient’s back OR on the back of the chair (if patient sitting) OR</li>
+<li>get someone to stand behind patient to support the back OR</li>
+<li>stand patient against a firm surface/wall OR</li>
+<li>lie patient down</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>After each back blow or chest thrust, check to see if obstruction relieved. Aim is to relieve the obstruction rather than give all 5 blows/thrusts</li>
+<li>If obstruction still not relieved and patient remains responsive:
+<ul>
+<li>continue alternating 5 back blows with 5 chest thrusts</li>
+</ul>
+</li>
+</ul>
+</div>
 
-After each back blow or chest thrust, check to see if obstruction relieved
-Aim is to relieve the obstruction rather than give all 5 blows/thrusts
-•	 If obstruction still not relieved and patient remains responsive:
+<div class="pccm-alert-panel">
+<strong>Unconscious or becomes unresponsive<sup>1</sup></strong>
+<ul class="pccm-content-list" style="margin-bottom:0;">
+<li>Call for help</li>
+<li>If solid material is visible in the mouth - remove</li>
+<li>Start CPR. See <a href="/docs/Emergency/Basic-life-support">BLS</a></li>
+<li>Urgently contact MO</li>
+</ul>
+</div>
 
-–
-continue alternating 5 back blows with 5 chest thrusts
-Unconscious or becomes unresponsive1
-•	 Call for help
-•	 If solid material is visible in the mouth - remove
-•	 Start CPR. See BLS
-•	 Urgently contact MO
-3.	 Clinical assessment1
-•	 Get rapid history as able:
+<figure class="pccm-flowchart-figure">
+<img src="/img/emergency/choking-first-aid.png" alt="Choking first aid" />
+<p class="pccm-flowchart-caption">Choking first aid</p>
+</figure>
 
-–
-circumstances leading to choking eg eating, drinking, other
-•	 Do vital signs
-•	 Inspect chest for expansion, drawing in of spaces between ribs and clavicles
-•	 Listen to the chest for air entry and added sounds (crackles or wheeze)
-4.	 Management
-•	 In cases of near (severe) choking or unseen positional foreign object:
+<figure class="pccm-flowchart-figure">
+<img src="/img/emergency/choking-flowchart.png" alt="Choking flowchart" />
+<p class="pccm-flowchart-caption">Choking flowchart</p>
+</figure>
 
-–
-consult MO urgently
+<h2 class="pccm-section-heading-blue">3. Clinical assessment<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Get rapid history as able:
+<ul>
+<li>circumstances leading to choking eg eating, drinking, other</li>
+</ul>
+</li>
+<li>Do physical assessment as able:
+<ul>
+<li>effectiveness of cough</li>
+<li>ability to speak</li>
+<li>colour, LOC, work of breathing</li>
+</ul>
+</li>
+</ul>
 
-–
-give O2 to maintain SpO2 ≥ 94%
+<h2 class="pccm-section-heading-blue">4. Management</h2>
+<ul class="pccm-content-list">
+<li>As per Immediate management</li>
+<li>If recovered - observe closely. Seek MO advice if residual symptoms or concerns</li>
+</ul>
 
-–
-prepare for evacuation
+<h2 class="pccm-section-heading-blue">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As advised by MO</li>
+</ul>
 
-–
-monitor vital signs
-
-–
-If the choking episode is minor and the foreign body has been dislodged and
-removed:
-
-–
-if asymptomatic and chest findings normal, the patient can go home after a
-period of observation
-
-–
-if any concerns, contact MO
-
-–
-If choking as a result of a button battery, see Button battery
-5.	 Follow up
-•	 If discharged, advise to be reviewed the next day:
-
-–
-consult MO if the patient has any symptoms eg  HR,  T or any chest finding
-6.	 Referral/consultation
-•	 Consult MO on all occasions of severe choking
-Kiribati Primary Clinical Care Manual | 85
-
-Choking first aid
-If the baby can cough or make sounds, let him or her cough to try to get the object
-out. If you are worried about the baby's breathing.
-Put the baby facedown on
-your forearm so the baby's
-head is lower than his or her
-chest.
-We turn the child on to his back
-and see if the item has been
-spit out
-Use the heel of one hand
-to give up to 5 back slaps
-between the baby's shoulder
-blades.
-If the object does not pop out,
-place 2 or 3 fingers just below
-the nipple line on the baby's
-breastbone and give 5 quick chest
-thrusts
-1
-3
-2
-4
-86 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Urgently contact MO if obstruction not relieved, patient unresponsive, or residual concerns after relief of obstruction</li>
+</ul>
+</div>

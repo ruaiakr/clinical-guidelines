@@ -1,74 +1,76 @@
 ---
 sidebar_position: 4
+title: Filariasis
+hide_title: true
 ---
 
-# Filariasis
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Filariasis</h1>
 
-4.	 Management
-•	 Provide supportive care: Rest, fluids, and paracetamol for fever.
-•	 Monitor for signs of severe dengue.
-•	 If signs of severe dengue develop, initiate appropriate treatment for shock,
-bleeding, or organ failure.
-5.	 Follow-up
-•	 Follow-up within 24-48 hours to assess clinical improvement or worsening
-symptoms.
-•	 Immediate follow-up if warning signs of severe dengue appear.
-6.	 Referral/Consultation
-•	 Refer to a medical officer immediately if signs of severe dengue such as shock,
-bleeding, or organ dysfunction are observed.
-684 | Kiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul class="pccm-content-list">
+<li>Filariasis is often preventable through vector control and mass drug administration programs.</li>
+<li>Early detection and treatment with anti-filarial medications can prevent complications such as lymphatic damage.</li>
+<li>Educate patients about vector control measures and hygiene practices.</li>
+</ul>
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Filariasis is a parasitic infection caused by thread-like nematodes, which are transmitted by mosquitoes. The disease primarily affects the lymphatic system and can lead to elephantiasis, hydrocele, and lymphedema if untreated. It is common in tropical and subtropical regions.</li>
+</ul>
+</div>
 
-Filariasis
-Background
-Filariasis is a parasitic infection caused by thread-like nematodes, which are
-transmitted by mosquitoes. The disease primarily affects the lymphatic system and
-can lead to elephantiasis, hydrocele, and lymphedema if untreated. It is common in
-tropical and subtropical regions.
-Recommendations
-•	 Filariasis is often preventable through vector control and mass drug
-administration programs.
-•	 Early detection and treatment with anti-filarial medications can prevent
-complications such as lymphatic damage.
-•	 Educate patients about vector control measures and hygiene practices.
-1.
-May present with
-•	 Swelling of the lymph nodes
-•	 Fever
-•	 Pain in the affected limbs
-•	 Elephantiasis (in chronic cases)
-2.	 Immediate management
-•	 Antifilarial medication such as diethylcarbamazine (DEC) for acute symptoms.
-•	 Supportive care for swelling, including elevation of affected limbs and
-compression stockings.
-•	 Antipyretics for fever relief.
-Medications
-MEDICATION
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Diethylcarbamazine
-(DEC)
-L3
-Tablet
-100 mg
-Oral
-6 mg/kg/
-day
-12 days
-Kiribati Primary Clinical Care Manual | 685
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Swelling of the lymph nodes</li>
+<li>Fever</li>
+<li>Pain in the affected limbs</li>
+<li>Elephantiasis (in chronic cases)</li>
+</ul>
 
-3.	 Clinical assessment
-•	 Assess the degree of lymphatic involvement.
-•	 Examine for signs of acute filarial episodes, such as fever and swelling.
-•	 Measure vital signs and monitor for signs of complications (e.g., elephantiasis or
-hydrocele).
-4.	 Management
-•	 Administer DEC for acute cases.
-•	 Provide supportive care for swelling and lymphedema.
-•	 Recommend hygiene measures and preventive treatments for family members.
-5.	 Follow-up
-•	 Follow up after 1-2 weeks to monitor for treatment response.
-•	 Additional follow-up for chronic cases with lymphedema or elephantiasis.
-686 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Antifilarial medication such as diethylcarbamazine (DEC) for acute symptoms.</li>
+<li>Supportive care for swelling, including elevation of affected limbs and compression stockings.</li>
+<li>Antipyretics for fever relief.</li>
+</ul>
+
+<div class="pccm-drug-box" id="diethylcarbamazine">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">DIETHYLCARBAMAZINE (DEC)</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Tablet</td>
+<td>100 mg</td>
+<td>Oral</td>
+<td>6 mg/kg/day</td>
+<td>12 days</td>
+</tr>
+</table>
+</div>
+</div>
+
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment</h2>
+<ul class="pccm-content-list">
+<li>Assess the degree of lymphatic involvement.</li>
+<li>Examine for signs of acute filarial episodes, such as fever and swelling.</li>
+<li>Measure vital signs and monitor for signs of complications (e.g., elephantiasis or hydrocele).</li>
+</ul>
+
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>Administer DEC for acute cases.</li>
+<li>Provide supportive care for swelling and lymphedema.</li>
+<li>Recommend hygiene measures and preventive treatments for family members.</li>
+</ul>
+
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow-up</h2>
+<ul class="pccm-content-list">
+<li>Follow up after 1-2 weeks to monitor for treatment response.</li>
+<li>Additional follow-up for chronic cases with lymphedema or elephantiasis.</li>
+</ul>
+</div>

@@ -1,185 +1,175 @@
 ---
 sidebar_position: 5
+title: Nausea and vomiting - Adult/Child
+hide_title: true
 ---
 
-# Nausea and vomiting - Adult/Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Nausea and vomiting - Adult/Child</h1>
 
-Nausea and vomiting - Adult/Child
-Recommend
-•	 Always consider life-threatening causes eg bowel obstruction, mesenteric
-ischaemia, acute pancreatitis, myocardial infarction + head injury/raised
-intracranial pressure1
-•	 Offer antiemetic for aeromedical retrieval prophylaxis
-•	 Beware-hypovolemia and hehydration may cause Nausea therefore adequate
-hydration is important
-1.
-May present with
-•	 Nausea ± vomiting
-2.	 Immediate management
-•	 If related to chest pain, go to Chest pain assessment
-•	 Do vital signs + BGL
-•	 Screen for Sepsis
-ALERT suspect Button battery, in all children if vomiting blood. A button battery
-lodged in the oesophagus can burn a hole through to the aorta causing catastrophic
-haemorrhage
-3.	 Clinical assessment
-Check for red flags - if any contact MO urgently 2,3
-•	 BGL may indicate DKA, BGL
-•	 consider Hypoglycaemia, as cause
-•	 Prolonged vomiting
-•	 Looks very unwell/very drowsy
-•	 Significant weight loss
-•	 Abdominal distension or tenderness
-•	 Rectal bleeding
-•	 Green, bile or blood/coffee grounds
-vomit
-•	 Fever, neck stiffness, confusion
-•	 Severe headache, altered LOC
-•	 Isolated vomiting, lack of nausea
-•	 History of head trauma/injury
-•	 Bulging fontanelle - infant/young
-child
-•	 Child - T > 39 or 38 if &lt; 3 months
-•	 Projectile vomiting if 3–6 weeks of
-age. See Pyloric stenosis
-44 | Kiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul>
+<li>Always consider life-threatening causes eg bowel obstruction, mesenteric ischaemia, acute pancreatitis, myocardial infarction + head injury/raised intracranial pressure<sup>1</sup></li>
+<li>Offer antiemetic for aeromedical retrieval prophylaxis</li>
+<li>Beware - hypovolaemia and dehydration may cause nausea; therefore adequate hydration is important</li>
+</ul>
+</div>
 
-•	 Always try to identify the cause of the nausea/vomiting1
-•	 Get history, including:3
+<h2 class="pccm-section-heading-orange">1. May present with</h2>
+<ul class="pccm-content-list">
+<li>Nausea ± vomiting</li>
+</ul>
 
-–
-duration of illness + frequency of vomiting
+<h2 class="pccm-section-heading-orange">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>If related to chest pain, go to <a href="/docs/Emergency/Chest-pain-assessment">Chest pain assessment</a></li>
+<li>Do vital signs + BGL</li>
+<li>Screen for <a href="/docs/Emergency/Sepsisseptic-shock">Sepsis</a></li>
+</ul>
 
-–
-timing in relation to eating
+<div class="pccm-alert-panel">
+<strong>ALERT</strong> suspect Button battery, in all children if vomiting blood. A button battery lodged in the oesophagus can burn a hole through to the aorta causing catastrophic haemorrhage
+</div>
 
-–
-food eaten in last 24 hours - could it be food poisoning
+<h2 class="pccm-section-heading-orange">3. Clinical assessment</h2>
 
-–
-similar symptoms in family members/close contacts
+<div class="pccm-red-flags">
+<div class="pccm-red-flags-banner">Check for red flags - if any contact MO urgently<sup>2,3</sup></div>
+<div class="pccm-red-flags-body">
+<ul>
+<li>↑BGL may indicate DKA, ↓BGL</li>
+<li>consider Hypoglycaemia, as cause</li>
+<li>Prolonged vomiting</li>
+<li>Looks very unwell/very drowsy</li>
+<li>Significant weight loss</li>
+<li>Abdominal distension or tenderness</li>
+<li>Rectal bleeding</li>
+<li>Green, bile or blood/coffee grounds vomit</li>
+<li>Fever, neck stiffness, confusion</li>
+</ul>
+<ul>
+<li>Severe headache, altered LOC</li>
+<li>Isolated vomiting, lack of nausea</li>
+<li>History of head trauma/injury</li>
+<li>Bulging fontanelle - infant/young child</li>
+<li>Child - T &gt; 39 or 38 if &lt; 3 months</li>
+<li>Projectile vomiting if 3–6 weeks of age. See <a href="/docs/Paediatrics/Pyloric-stenosis">Pyloric stenosis</a></li>
+</ul>
+</div>
+</div>
 
-–
-pregnancy
+<ul class="pccm-content-list">
+<li>Always try to identify the cause of the nausea/vomiting<sup>1</sup></li>
+<li>Get history, including:<sup>3</sup>
+<ul>
+<li>duration of illness + frequency of vomiting</li>
+<li>timing in relation to eating</li>
+<li>food eaten in last 24 hours - could it be food poisoning</li>
+<li>similar symptoms in family members/close contacts</li>
+<li>pregnancy</li>
+<li>exposure to toxins/poisons/bites/stings</li>
+<li>recent illicit drug use, alcohol/hangover related</li>
+<li>recent travel</li>
+</ul>
+</li>
+<li>Ask about other symptoms eg:<sup>1,2</sup>
+<ul>
+<li>chest pain, heartburn</li>
+<li>headache, vertigo or dizziness</li>
+<li>last bowel motion, any diarrhoea</li>
+<li>related to motion/travel</li>
+<li>dysuria or frequency of urine</li>
+<li>fever</li>
+</ul>
+</li>
+<li>Get past history, including:<sup>1</sup>
+<ul>
+<li>current medicines, over-the-counter medicines, previous antiemetics</li>
+<li>recent initiation of a new medicine(s)</li>
+<li>diabetes</li>
+<li>abdominal surgery</li>
+</ul>
+</li>
+<li>Do physical examination, including:
+<ul>
+<li>Hydration assessment - adult, or child</li>
+<li>+ as determined from history eg:
+<ul>
+<li>GCS</li>
+<li>Abdominal examination</li>
+<li>urinalysis. <strong>Note:</strong> urinalysis cannot reliably exclude UTI in infants + young children<sup>3</sup></li>
+<li>pregnancy test if reproductive age</li>
+</ul>
+</li>
+<li>if child, take weight</li>
+</ul>
+</li>
+</ul>
 
-–
-exposure to toxins/poisons/bites/stings
+<h2 class="pccm-section-heading-orange">4. Management<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Urgently contact MO if any Red flags</li>
+<li>Contact MO if:
+<ul>
+<li>child/infant, also see Child with vomiting</li>
+<li>no obvious cause/unsure</li>
+<li>suspected poisoning</li>
+<li>re-presentation/parental concerns</li>
+</ul>
+</li>
+<li>If pregnant - seek advice from MO - avoid antiemetic if possible:<sup>4</sup>
+<ul>
+<li>severe vomiting that starts in late pregnancy may indicate Preeclampsia</li>
+<li>if hyperemesis gravidarum (extreme morning sickness) Seek MO Advice</li>
+</ul>
+</li>
+<li>Otherwise, treat cause if known - be guided by relevant topic</li>
+<li>If probable gastroenteritis ± dehydrated, see <a href="/docs/Gastrointestinal/Gastroenteritisdehydration">Gastroenteritis - adult</a>, or <a href="/docs/Paediatrics/Gastroenteritisdehydration">Gastroenteritis child</a></li>
+<li>Offer antiemetic as needed + monitor effect - contact MO if not effective</li>
+</ul>
 
-–
-recent illicit drug use, alcohol/hangover related
+<div class="pccm-drug-box">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">METOCLOPRAMIDE</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr>
+<th>FORM</th>
+<th>STRENGTH</th>
+<th>ROUTE</th>
+<th>DOSE</th>
+<th>DURATION</th>
+</tr>
+<tr>
+<td>Tablet</td>
+<td>10 mg</td>
+<td rowspan="2">Oral<br />IM<br />IV</td>
+<td rowspan="2"><strong>Adult ≥ 20 years</strong><br />10 mg</td>
+<td rowspan="2">stat<br />Inject IV dose slowly over at least 3 minutes<br />Further doses on MO order</td>
+</tr>
+<tr>
+<td>Injection</td>
+<td>10 mg/2 mL</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer advice:</strong> May cause drowsiness, dizziness or headache. Avoid driving or operating heavy machinery if affected. Report uncontrolled or repeated body movements eg face, mouth or tongue</p>
+<p><strong>Contraindication:</strong> Parkinson’s disease (avoid if possible), phaeochromocytoma + conditions where ↑GI motility may be harmful eg GI obstruction or perforation</p>
+<p><strong>Management of associated emergency:</strong> Consult MO. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a>. If extrapyramidal adverse effects + acute dystonic reaction (within minutes to days)</p>
+</div>
+</div>
 
-–
-recent travel
-•	 Ask about other symptoms eg:1,2
+<h2 class="pccm-section-heading-blue">Follow up</h2>
+<ul class="pccm-content-list">
+<li>As per MO + cause of nausea/vomiting</li>
+</ul>
 
-–
-chest pain, heartburn
-
-–
-headache, vertigo or dizziness
-
-–
-last bowel motion, any diarrhoea
-
-–
-related to motion/travel
-
-–
-dysuria or frequency of urine
-
-–
-fever
-•	 Get past history, including:1
-
-–
-current medicines, over-the-counter medicines, previous antiemetics
-
-–
-recent initiation of a new medicine(s)
-
-–
-diabetes
-
-–
-abdominal surgery
-•	 Do physical examination, including:
-
-–
-Hydration assessment - adult, or child
-
-–
-+ as determined from history eg:
-	›
-GCS
-	›
-Abdominal examination
-	›
-urinalysis. Note: urinalysis cannot reliably exclude UTI in infants + young
-children3
-	›
-pregnancy test if reproductive age
-
-–
-if child, take weight
-4.	 Management1
-•	 Urgently contact MO if any Red flags
-•	 Contact MO if:
-
-–
-child/infant, also see Child with vomiting
-
-–
-no obvious cause/unsure
-
-–
-suspected poisoning
-
-–
-re-presentation/parental concerns
-•	 If pregnant - seek advice from MO - avoid antiemetic if possible:4
-
-–
-severe vomiting that starts in late pregnancy may indicate Preeclampsia
-
-–
-if hyperemesis gravidarum (extreme morning sickness) Seek MO Advice
-•	 Otherwise, treat cause if known - be guided by relevant topic
-•	 If probable gastroenteritis ± dehydrated, see Gastroenteritis - adult, or
-Gastroenteritis child
-•	 Offer antiemetic as needed + monitor effect - contact MO if not effective
-Kiribati Primary Clinical Care Manual | 45
-
-METOCLOPRAMIDE
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Tablet
-10 mg
-Oral IM
-IV
-Adult ≥ 20 years
-10 mg
-stat
-Inject IV dose
-slowly over at least
-3 minutes Further
-doses on MO order
-Injection
-10 mg/2
-mL
-Offer advice: May cause drowsiness, dizziness or headache. Avoid driving or
-operating heavy machinery if affected. Report uncontrolled or repeated body
-movements eg face, mouth or tongue
-Contraindication: Parkinson’s disease (avoid if possible), phaeochromocytoma +
-conditions where GI motility may be harmful eg GI obstruction or perforation
-Management of associated emergency: Consult MO. See Anaphylaxis, If
-extrapyramidal adverse effects + acute dystonic reaction (within minutes to days)
-
-Follow up
-•	 As per MO + cause of nausea/vomiting
-5.	 Referral/consultation
-•	 As above
-46 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-orange">5. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

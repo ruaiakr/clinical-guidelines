@@ -1,226 +1,196 @@
 ﻿---
-sidebar_position: 72
+sidebar_position: 4
+title: Urinary Tract Infection (UTI) - Adult
+hide_title: true
 ---
 
-# Urinary Tract Infection (UTI) - Adult Cystitis, pyelonephritis
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Urinary Tract Infection (UTI) - Adult</h1>
+<p class="pccm-page-subtitle">Cystitis, pyelonephritis</p>
 
-Testicular torsion
-Epididymo-orchitis (EDO)
-Examination
-ΓÇó	 Absent cremasteric reflex*
-ΓÇó	 Testis - abnormal position,
-horizontal lie on standing and
-high riding
-ΓÇó	 Scrotal skin changes - red or
-darkening
-ΓÇó	 Tender to palpate globally
-ΓÇó	 Thickened spermatic cord
-ΓÇó	 Intact cremasteric reflex*
-ΓÇó	 Red, hot, swollen testis in
-normal position
-ΓÇó	 Tender epididymis (tubular
-structure found at back of
-testes, running in a sagittal
-plane)
-Also check
-ΓÇó	 Urinalysis - leucocytes does
-not exclude testicular torsion
-ΓÇó	 Lump in groin of child with
-acute abdominal or inguinal
-pain can be torsion of
-undescended testis but may
-be mistaken for swollen lymph
-node or abscess
-ΓÇó	 Urinalysis - NAD does not
-exclude EDO
-ΓÇó	 Risk factors eg recent
-urethral surgery, history of
-viral infection eg mumps;
-sexually active4
-*Cremasteric reflex - pinch or stroke the skin of the upper thigh. The testis on the
-same side should elevate via contraction of the muscle
-3.	 Clinical assessment
-ΓÇó	 See Immediate management
-4.	 Management5
-ΓÇó	 Contact MO urgently in all cases who will arrange urgent retrieval + referral to
-surgical team:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>The safety and efficacy of urinary alkalisers eg Ural®, Citravescent® is unknown<sup>1</sup></li>
+</ul>
+</div>
 
-ΓÇô
-even if the pain has been present > 6 hours
-ΓÇó	 Monitor closely:
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with</h2>
 
-ΓÇô
-vital signs + pain
+<h2 class="pccm-section-heading-orange" id="cystitis">Cystitis<sup>2-4</sup></h2>
+<ul class="pccm-content-list">
+<li>Urinary symptoms - frequency, urgency, dysuria, haematuria</li>
+<li>Low abdominal pain</li>
+<li>Nitrites ± leucocytes on urinalysis</li>
+</ul>
 
-ΓÇô
-re-examine scrotum if patient deteriorates, check for any changes3
-ΓÇó	 Keep nil by mouth
-ΓÇó	 Need urgent doppler scan of the scrotum ΓÇô cannot be done at the outer island
-service setting
-ΓÇó	 Consider Child protection, if scrotal trauma/bruising, especially in infants or
-where the cause is unclear2
-ΓÇó	 Need urgent referral so discuss with surgent for urgent advice and opinion.
-5.	 Follow up
-ΓÇó	 As per MO/surgical team
-6.	 Referral/consultation
-486ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-orange" id="pyelonephritis">Pyelonephritis<sup>4</sup></h2>
+<ul class="pccm-content-list">
+<li>T ≥ 38, flank pain, nausea, vomiting</li>
+<li>± urinary symptoms</li>
+</ul>
 
-Urinary Tract Infection (UTI) - Adult
-Cystitis, pyelonephritis
-Background
-ΓÇó	 The safety and efficacy of urinary alkalisers eg Ural┬«, Citravescent┬« is unknown1
-1.
-May present with
-Cystitis2-4
-ΓÇó	 Urinary symptoms - frequency, urgency, dysuria, haematuria
-ΓÇó	 Low abdominal pain
-ΓÇó	 Nitrites ┬▒ leucocytes on urinalysis
-Pyelonephritis4
-ΓÇó	 T ΓëÑ 38, flank pain, nausea, vomiting
-ΓÇó	 ┬▒ urinary symptoms
-2.	 Immediate management
-ΓÇó	 Consider Ectopic pregnancy, in sexually active females with low abdominal pain
-ΓÇó	 Do vital signs
-ΓÇó	 Screen for Sepsis
-3.	 Clinical assessment3,4
-ΓÇó	 Ask about:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management</h2>
+<ul class="pccm-content-list">
+<li>Consider Ectopic pregnancy, in sexually active females with low abdominal pain</li>
+<li>Do vital signs</li>
+<li>Screen for <a href="/docs/Emergency/Sepsisseptic-shock">Sepsis</a></li>
+</ul>
 
-ΓÇô
-past episode(s) of UTI and STI:
-	ΓÇ║
-when, treatment, effectiveness
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>3,4</sup></h2>
+<ul class="pccm-content-list">
+<li>Ask about:
+<ul>
+<li>past episode(s) of UTI and STI:
+<ul>
+<li>when, treatment, effectiveness</li>
+</ul>
+</li>
+<li>kidney stones, prostate problems, urinary tract abnormalities</li>
+<li>vaginal discharge</li>
+</ul>
+</li>
+<li>Do:
+<ul>
+<li>urinalysis</li>
+<li>MSU for MCS if:</li>
+<li>pregnancy test if female of reproductive age</li>
+<li>check for any suprapubic, loin tenderness</li>
+<li>if sexually active offer STI/BBV tests</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-kidney stones, prostate problems, urinary tract abnormalities
+<h2 class="pccm-section-heading-blue" id="management">4. Management</h2>
+<ul class="pccm-content-list">
+<li>If pregnant see UTI in pregnancy</li>
+</ul>
 
-ΓÇô
-vaginal discharge
-ΓÇó	 Do:
+<h2 class="pccm-section-heading-orange" id="pyelonephritis-management">Pyelonephritis<sup>4</sup></h2>
+<ul class="pccm-content-list">
+<li>Contact MO promptly who may advise:
+<ul>
+<li>IV gentamicin 4-5mg/kg od + ampicillin 2g IV q6h
+<ul>
+<li>check previous urine pathology results to ensure no resistance to antibiotics recommended</li>
+<li>may change to oral cotrimoxazole once clinically improving, to complete total antibiotic course of 14 days.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-urinalysis
+<h2 class="pccm-section-heading-orange" id="cystitis-management">Cystitis</h2>
+<ul class="pccm-content-list">
+<li>Diagnosis requires the presence of symptoms (+ve urine culture alone does not require antibiotics)</li>
+<li>Offer paracetamol or ibuprofen. See <a href="/docs/Pain,%20nausea%20and%20vomiting/Acute-pain">Acute pain</a></li>
+<li>Advise to drink enough fluids so not thirsty, aim for 6–8 glasses of water/day<sup>3</sup></li>
+<li><strong>Male:</strong><sup>2</sup>
+<ul>
+<li>contact MO</li>
+<li>UTIs are uncommon - dysuria in younger males is usually caused by an STI</li>
+</ul>
+</li>
+<li><strong>Female:</strong>
+<ul>
+<li>if low abdominal pain without urine symptoms consider <a href="/docs/Obstetric%20and%20Gynecological/Pelvic-Inflammatory-Disease">PID</a></li>
+<li>if nitrites or leucocytes on urinalysis AND has urinary symptoms give empirical antibiotics.</li>
+</ul>
+</li>
+<li><strong>Antibiotics</strong> if indicated</li>
+<li>cotrimoxazole OR nitrofurantoin. If contraindicated, give cefalexin:
+<ul>
+<li><strong>note:</strong> give nitrofurantoin if treated ≤ 3 months ago with cotrimoxazole<sup>2</sup></li>
+<li>check previous urine samples to ensure no resistance to antibiotics recommended. If resistance, contact MO</li>
+</ul>
+</li>
+</ul>
 
-ΓÇô
-MSU for MCS if:
+<div class="pccm-drug-box" id="cotrimoxazole">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">COTRIMOXAZOLE</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Tablet</td>
+<td>480 mg</td>
+<td>Oral</td>
+<td>960mg BD</td>
+<td><strong>Female</strong> 3 days<br /><strong>Male</strong> 7 days</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> Take at night to maximise urinary concentration. May cause fever, itch, rash or nausea</p>
+<p><strong>Note:</strong> If renal impairment or on an ACEI, seek MO advice. Elderly may be more susceptible to adverse effects eg hyperkalaemia</p>
+<p><strong>Pregnancy:</strong> Avoid in 1st trimester</p>
+<p><strong>Contraindication:</strong> Megaloblastic anaemia</p>
+<p><strong>Management of associated emergency:</strong> Consult MO. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a><sup>2,6</sup></p>
+</div>
+</div>
 
-ΓÇô
-pregnancy test if female of reproductive age
+<div class="pccm-drug-box" id="nitrofurantoin">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">NITROFURANTOIN</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Capsule</td>
+<td>50 mg</td>
+<td>Oral</td>
+<td>100 mg qid</td>
+<td><strong>Female</strong> 5 days</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> Take with food or milk to reduce nausea + improve absorption. May cause nausea, vomiting, headache, drowsiness or dizziness. Report if develop difficulty breathing, cough or numbness or tingling. May turn urine a brownish colour. Do not use with urinary alkalisers (eg Ural®, Citravescent®) as they reduce the antimicrobial effect</p>
+<p><strong>Management of associated emergency:</strong> Consult MO. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a><sup>2,7</sup></p>
+</div>
+</div>
 
-ΓÇô
-check for any suprapubic, loin tenderness
+<div class="pccm-drug-box" id="cefalexin">
+<div class="pccm-drug-header">
+<span class="pccm-drug-name">CEFALEXIN</span>
+<span class="pccm-drug-level">L3</span>
+</div>
+<div class="pccm-assessment-table-wrap" style="margin:0; overflow-x:auto;">
+<table class="pccm-drug-table">
+<tr><th>FORM</th><th>STRENGTH</th><th>ROUTE</th><th>DOSE</th><th>DURATION</th></tr>
+<tr>
+<td>Capsule</td>
+<td>250 mg</td>
+<td>Oral</td>
+<td>500 mg bd</td>
+<td><strong>Female</strong> 5 days</td>
+</tr>
+</table>
+</div>
+<div class="pccm-drug-notes">
+<p><strong>Offer CMI:</strong> May cause rash, diarrhoea, nausea, vomiting, dizziness, headache or thrush</p>
+<p><strong>Note:</strong> If renal impairment seek MO advice</p>
+<p><strong>Contraindication:</strong> Severe or immediate allergic reaction to a cephalosporin or a penicillin. Be aware of cross-reactivity between penicillins, cephalosporins and carbapenems</p>
+<p><strong>Management of associated emergency:</strong> Consult MO. See <a href="/docs/Emergency/Anaphylaxis">Anaphylaxis</a><sup>2,8</sup></p>
+</div>
+</div>
 
-ΓÇô
-if sexually active offer STI/BBV tests
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ487
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up<sup>2</sup></h2>
+<ul class="pccm-content-list">
+<li>Advise to be reviewed in 2–3 days if still has symptoms, or sooner if concerned:
+<ul>
+<li>consult MO if symptoms persist or worsen</li>
+</ul>
+</li>
+</ul>
 
-4.	 Management
-ΓÇó  If pregnant see UTI in pregnancy
-Pyelonephritis4
-ΓÇó	 Contact MO promptly who may advise:
-
-ΓÇô
-IV gentamicin 4-5mg/kg od + ampicillin 2g IV q6h
-	ΓÇ║
-check previous urine pathology results to ensure no resistance to
-antibiotics recommended
-	ΓÇ║
-may change to oral cotrimoxazole once clinically improving, to complete
-total antibiotic course of 14 days.
-Cystitis
-ΓÇó	 Diagnosis requires the presence of symptoms (+ve urine culture alone does not
-require antibiotics)
-ΓÇó	 Offer paracetamol or ibuprofen. See Acute pain
-ΓÇó	 Advise to drink enough fluids so not thirsty, aim for 6ΓÇô8 glasses  of water/day3
-ΓÇó	 Male:2
-
-ΓÇô
-contact MO
-
-ΓÇô
-UTIs are uncommon - dysuria in younger males is usually caused by an STI
-ΓÇó	 Female:
-
-ΓÇô
-if low abdominal pain without urine symptoms consider PID
-
-ΓÇô
-if nitrites or leucocytes on urinalysis AND has urinary symptoms give empirical
-antibiotics.
-ΓÇó	 Antibiotics if indicated
-ΓÇó	 cotrimoxazole OR nitrofurantoin. If contraindicated, give cefalexin:
-
-ΓÇô
-note: give nitrofurantoin if treated Γëñ 3 months ago with cotrimoxazole2
-
-ΓÇô
-check previous urine samples to ensure no resistance to antibiotics
-recommended. If resistance, contact MO
-COTRIMOXAZOLE
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Tablet
-480 mg
-Oral
-960mg BD
-Female 3 days
-Male 7 days
-Offer CMI: Take at night to maximise urinary concentration. May cause fever, itch,
-rash or nausea
-Note: If renal impairment or on an ACEI, seek MO advice. Elderly may be more
-susceptible to adverse effects eg hyperkalaemia
-Pregnancy: Avoid in 1st trimester
-Contraindication: Megaloblastic anaemia
-Management of associated emergency: Consult MO. See Anaphylaxis2,6
-488ΓÇâ|ΓÇâKiribati Primary Clinical Care Manual
-
-NITROFURANTOIN
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Capsule
-50 mg
-Oral
-100 mg
-qid
-Female 5 days
-Offer CMI: Take with food or milk to reduce nausea + improve absorption. May
-cause nausea, vomiting, headache, drowsiness or dizziness. Report if develop
-difficulty breathing, cough or numbness or tingling. May turn urine a brownish
-colour. Do not use with urinary alkalisers (eg Ural┬«, Citravescent┬«) as they reduce
-the antimicrobial effect
-Management of associated emergency: Consult MO. See Anaphylaxis2,7
-CEFALEXIN
-L3
-FORM
-STRENGTH
-ROUTE
-DOSE
-DURATION
-Capsule
-250 mg
-Oral
-500 mg
-bd
-Female 5 days
-Offer CMI: May  cause rash, diarrhoea, nausea, vomiting, dizziness, headache or
-thrush
-Note: If renal impairment seek MO advice
-Contraindication: Severe or immediate allergic reaction to a cephalosporin or a
-penicillin. Be aware of cross-reactivity between penicillins,  cephalosporins and
-carbapenems
-Management of associated emergency: Consult MO. See Anaphylaxis2,8
-5.	 Follow up2
-ΓÇó	 Advise to be reviewed in 2ΓÇô3 days if still has symptoms, or sooner if concerned:
-
-ΓÇô
-consult MO if symptoms persist or worsen
-6.	 Referral/consultation
-ΓÇó	 As above
-Kiribati Primary Clinical Care ManualΓÇâ|ΓÇâ489
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>As above</li>
+</ul>
+</div>

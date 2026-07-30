@@ -3,7 +3,7 @@
  * Inspired by Kiribati flag: red, gold, blue
  */
 :root {
-  --site-brand-bar-height: 5.25rem;
+  --site-brand-bar-height: 6.5rem;
   --ifm-color-primary: #c8102e;
   --ifm-color-primary-dark: #b40e29;
   --ifm-color-primary-darker: #aa0d27;
@@ -50,6 +50,26 @@
   );
 }
 
+/* Keep hamburger visible below the flag bar on wide / maximised viewports */
+@media (min-width: 997px) {
+  :root {
+    --ifm-navbar-sidebar-width: 20rem;
+  }
+
+  .navbar__toggle {
+    display: flex !important;
+  }
+
+  .navbar__items:not(.navbar__items--right) > .navbar__item {
+    display: none !important;
+  }
+}
+
+.navbar__toggle {
+  position: relative;
+  z-index: calc(var(--ifm-z-index-fixed) + 2);
+}
+
 .navbar__logo img {
   object-fit: contain;
   height: 2.25rem;
@@ -63,7 +83,7 @@
 
 @media screen and (max-width: 996px) {
   :root {
-    --site-brand-bar-height: 4.35rem;
+    --site-brand-bar-height: 5.6rem;
   }
 
   .navbar__title {
@@ -77,7 +97,7 @@
 
 @media screen and (max-width: 480px) {
   :root {
-    --site-brand-bar-height: 3.85rem;
+    --site-brand-bar-height: 4.75rem;
   }
 
   .navbar__logo img {
@@ -256,32 +276,12 @@
   }
 }
 
-[data-theme='dark'] .theme-doc-markdown .manual-triage-chart {
-  color: #eef2f8;
-}
-
-[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-cell,
-[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-nested-wrap {
-  background-color: #1a2233;
-}
-
-[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-cell-alt,
-[data-theme='dark'] .theme-doc-markdown .manual-triage-chart .triage-nested-wrap-alt {
-  background-color: #243047;
-}
-
 @media screen and (max-width: 996px) {
   .theme-doc-markdown .manual-full-page {
     margin-left: 0;
     margin-right: 0;
     border-radius: 8px;
   }
-}
-
-[data-theme='dark'] .theme-doc-markdown .manual-full-page {
-  background: #1a2233;
-  border-color: rgba(255, 255, 255, 0.12);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
 }
 
 @media print {
@@ -433,7 +433,23 @@
 .pccm-flow-label {
   text-align: center;
   font-weight: 700;
+  color: #7a8dff;
   margin-bottom: 0.45rem;
+}
+
+.pccm-flow-label span {
+  display: block;
+  font-size: 1.35rem;
+  line-height: 1;
+  margin-top: 0.15rem;
+}
+
+.pccm-flow-box--outline.pccm-flow-box--center .pccm-flow-heading {
+  text-align: center;
+}
+
+.pccm-flow-box--outline.pccm-flow-box--center p {
+  text-align: center;
 }
 
 .pccm-flow-stack {
@@ -511,7 +527,7 @@
   width: 100%;
   box-sizing: border-box;
   background: #fff7f0;
-  border: 2px solid #f5c4a5;
+  border: 2px solid #ef6a4c;
   padding: 1rem 1.25rem;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
@@ -552,6 +568,1163 @@
 .pccm-guideline-panel li ul li::before {
   content: '– ';
   color: #222222;
+}
+
+/* PCCM assessment tables (Adult presentation, consultation, retrieval) */
+
+.pccm-assessment-page {
+  width: 100%;
+  max-width: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #222222;
+}
+
+.pccm-step-panel {
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff7f0;
+  border: 2px solid #f5c4a5;
+  padding: 1rem 1.25rem;
+  margin: 0 0 1.25rem;
+}
+
+.pccm-step-panel .pccm-step-heading {
+  color: #ef6a4c;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 0.65rem;
+}
+
+.pccm-step-panel ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.pccm-step-panel li {
+  margin: 0.35rem 0;
+}
+
+.pccm-step-panel li ul {
+  list-style-type: none;
+  padding-left: 0.5rem;
+  margin: 0.35rem 0 0.5rem;
+}
+
+.pccm-step-panel li ul li::before {
+  content: '– ';
+}
+
+.pccm-note-panel {
+  background: #eef4fc;
+  border: 1px solid #c5d8f0;
+  padding: 0.85rem 1rem;
+  margin: 0 0 1.25rem;
+}
+
+.pccm-note-panel ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.pccm-note-panel li {
+  margin: 0.35rem 0;
+}
+
+.pccm-banner-panel-table .pccm-table-banner td {
+  text-align: left;
+  border-bottom: none;
+}
+
+.pccm-banner-panel-table .pccm-banner-panel-body td {
+  background: #eef4fc;
+  border-top: none;
+  padding: 0.85rem 1rem;
+}
+
+.pccm-banner-panel-table .pccm-banner-panel-body ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.pccm-banner-panel-table .pccm-banner-panel-body li {
+  margin: 0.35rem 0;
+}
+
+.pccm-consult-intro {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 0 1.25rem;
+  border: 1px solid #9eb8dc;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #222222;
+}
+
+.pccm-consult-intro-banner {
+  background: #6b9fd4;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: left;
+  letter-spacing: 0.04em;
+  font-size: 0.95rem;
+  padding: 0.5rem 0.85rem;
+  border-bottom: 1px solid #5a8bc4;
+}
+
+.pccm-consult-intro-body {
+  background: #eef4fc;
+  padding: 0.85rem 1rem;
+}
+
+.pccm-consult-intro-body ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.pccm-consult-intro-body li {
+  margin: 0.35rem 0;
+}
+
+.theme-doc-markdown .pccm-assessment-table,
+.theme-doc-markdown .pccm-isbar-table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.pccm-assessment-table-wrap {
+  width: 100%;
+  margin: 0 0 1.25rem;
+  overflow-x: auto;
+}
+
+.pccm-assessment-page .pccm-assessment-table-wrap,
+.pccm-assessment-page .pccm-isbar-wrap {
+  width: 100%;
+}
+
+.pccm-assessment-table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 100%;
+  table-layout: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-banner-panel-table td {
+  width: 100%;
+}
+
+.pccm-assessment-table td,
+.pccm-assessment-table th {
+  border: 1px solid #9eb8dc;
+  vertical-align: top;
+  padding: 0.55rem 0.65rem;
+}
+
+.pccm-assessment-table .pccm-table-banner td {
+  background: #6b9fd4;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.04em;
+  font-size: 0.95rem;
+  padding: 0.5rem 0.65rem;
+  border-color: #5a8bc4;
+}
+
+.pccm-assessment-table .pccm-row-label {
+  background: #f0f0f0;
+  font-weight: 700;
+  width: 28%;
+  min-width: 9rem;
+}
+
+.pccm-assessment-table .pccm-row-content ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pccm-assessment-table .pccm-row-content li {
+  margin: 0.25rem 0;
+}
+
+.pccm-assessment-table .pccm-row-content li ul {
+  list-style-type: none;
+  padding-left: 0.45rem;
+  margin: 0.25rem 0 0.35rem;
+}
+
+.pccm-assessment-table .pccm-row-content li ul li::before {
+  content: '– ';
+}
+
+.pccm-vital-table .pccm-vital-header td {
+  background: #6b9fd4;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  border-color: #5a8bc4;
+}
+
+.pccm-vital-table .pccm-vital-label,
+.pccm-vital-table .pccm-vital-value {
+  font-weight: 400;
+}
+
+.pccm-vital-table .pccm-vital-label {
+  width: 55%;
+}
+
+.pccm-vital-table .pccm-vital-value {
+  width: 45%;
+}
+
+.theme-doc-markdown .pccm-assessment-table.pccm-vital-table td.pccm-vital-label,
+.theme-doc-markdown .pccm-assessment-table.pccm-vital-table td.pccm-vital-value {
+  font-weight: 400;
+}
+
+.theme-doc-markdown .pccm-assessment-table.pccm-vital-table .pccm-vital-abbr,
+.theme-doc-markdown .pccm-assessment-table.pccm-vital-table td.pccm-vital-label strong {
+  font-weight: 700;
+}
+
+/* Simple classification tables (BMI etc.) — horizontal rules only */
+.pccm-simple-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 28rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  color: #222222;
+  margin: 0 0 1.25rem;
+}
+
+.pccm-simple-table th,
+.pccm-simple-table td {
+  border: none;
+  border-bottom: 1px solid #c0d0f8;
+  text-align: left;
+  padding: 0.45rem 0.75rem 0.45rem 0;
+  vertical-align: top;
+}
+
+.pccm-simple-table th {
+  font-weight: 700;
+  background: transparent;
+}
+
+/* Fever FUO differential table */
+.pccm-diff-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  margin: 0 0 1.5rem;
+}
+
+.pccm-diff-table {
+  width: 100%;
+  min-width: 40rem;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-diff-table th {
+  background: #6b9fd4;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: left;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #5a8bc4;
+}
+
+.pccm-diff-table td {
+  border: none;
+  border-bottom: 1px solid #c0d0f8;
+  vertical-align: top;
+  padding: 0.55rem 0.7rem;
+}
+
+.pccm-diff-table td:first-child {
+  font-weight: 700;
+  width: 28%;
+  color: #222222;
+}
+
+.pccm-diff-table ul {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.pccm-diff-table li {
+  margin: 0.2rem 0;
+}
+
+.pccm-diff-table a {
+  color: #003da5;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.pccm-diff-table a:hover {
+  color: #c8102e;
+}
+
+/* Selectable HTML NCD / clinical diagrams (PDF-like) */
+.pccm-ncd-diagram {
+  width: 100%;
+  box-sizing: border-box;
+  background: #fffaf3;
+  border: 2px solid #ef6a4c;
+  padding: 0.9rem 1rem 1rem;
+  margin: 0 0 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 1.35;
+  color: #222222;
+  overflow-x: auto;
+}
+
+.pccm-ncd-diagram--blue {
+  background: #f3f7ff;
+  border-color: #6b9fd4;
+}
+
+.pccm-ncd-diagram-title {
+  color: #ef6a4c;
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem;
+}
+
+.pccm-ncd-diagram-subtitle {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin: 0 0 0.75rem;
+  color: #222222;
+}
+
+.pccm-ncd-node {
+  display: block;
+  background: #ffffff;
+  border: 1.5px solid #83a4f2;
+  padding: 0.45rem 0.5rem;
+  text-align: center;
+  font-weight: 700;
+  color: #222222;
+  text-decoration: none;
+  user-select: text;
+  box-sizing: border-box;
+}
+
+a.pccm-ncd-node:hover,
+a.pccm-ncd-result:hover {
+  outline: 2px solid #003da5;
+  outline-offset: 1px;
+}
+
+.pccm-ncd-node--soft {
+  background: #e0ebfb;
+  border-color: #83a4f2;
+}
+
+.pccm-ncd-node--peach {
+  background: #ffe8d4;
+  border-color: #ef6a4c;
+  color: #c44a2e;
+}
+
+.pccm-ncd-node--wide {
+  max-width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pccm-ncd-result {
+  display: block;
+  text-align: center;
+  font-weight: 700;
+  padding: 0.35rem 0.45rem;
+  border: none;
+  text-decoration: none;
+  color: inherit;
+  user-select: text;
+  box-sizing: border-box;
+}
+
+.pccm-ncd-result--eligible {
+  background: #dce8fb;
+  color: #123a66;
+}
+
+.pccm-ncd-result--eligible-hot {
+  background: #ef6a4c;
+  color: #ffffff;
+}
+
+.pccm-ncd-result--not {
+  background: #fff4ea;
+  color: #333333;
+}
+
+.pccm-ncd-result--risk-low {
+  background: #ec008c;
+  color: #ffffff;
+}
+
+.pccm-ncd-result--risk-high {
+  background: #f26a4c;
+  color: #ffffff;
+}
+
+.pccm-ncd-note {
+  margin: 0.85rem 0 0;
+  font-size: 0.85rem;
+  color: #444444;
+}
+
+/* Horizontal eligibility chains (HTN / aspirin / statin) */
+.pccm-ncd-chain {
+  display: grid;
+  gap: 0;
+  align-items: start;
+  min-width: 40rem;
+}
+
+.pccm-ncd-chain--4 {
+  grid-template-columns: minmax(0, 1fr) 2.2rem minmax(0, 1fr) 2.2rem minmax(0, 1fr) 2.2rem minmax(0, 1.2fr);
+}
+
+.pccm-ncd-chain--2 {
+  grid-template-columns: minmax(0, 1fr) 2.4rem minmax(0, 1.35fr);
+  max-width: 34rem;
+}
+
+.pccm-ncd-chain-step {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0;
+  min-width: 0;
+}
+
+.pccm-ncd-harrow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 0.55rem;
+  color: #83a4f2;
+  font-weight: 700;
+  font-size: 0.78rem;
+  line-height: 1.1;
+  white-space: nowrap;
+}
+
+.pccm-ncd-harrow::after {
+  content: '→';
+  display: block;
+  font-size: 1.15rem;
+  line-height: 1;
+  margin-top: 0.1rem;
+}
+
+.pccm-ncd-varrow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #83a4f2;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 0.2rem 0;
+  gap: 0.05rem;
+}
+
+.pccm-ncd-varrow::after {
+  content: '↓';
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.pccm-ncd-varrow--plain::after {
+  content: '↓';
+}
+
+.pccm-ncd-yn {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem;
+  margin-top: 0.15rem;
+}
+
+.pccm-ncd-yn-item {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 0;
+}
+
+.pccm-ncd-risk-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem;
+  margin-top: 0.15rem;
+}
+
+.pccm-ncd-risk-item {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 0;
+}
+
+/* Vertical algorithm layouts */
+.pccm-ncd-algo {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.15rem;
+}
+
+.pccm-ncd-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.55rem;
+  margin: 0 0 0.15rem;
+}
+
+.pccm-ncd-row--2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 34rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pccm-ncd-row .pccm-ncd-node {
+  min-height: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pccm-ncd-decision {
+  background: #d7e4f8;
+  border: none;
+  text-align: center;
+  font-weight: 700;
+  padding: 0.45rem 0.75rem;
+  margin: 0.1rem auto;
+  max-width: 16rem;
+  width: 100%;
+}
+
+.pccm-ncd-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.85rem;
+  margin-top: 0.2rem;
+  align-items: start;
+}
+
+.pccm-ncd-branch {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  align-items: stretch;
+}
+
+.pccm-ncd-branch-label {
+  text-align: center;
+  color: #222222;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.pccm-ncd-targets {
+  background: #ffffff;
+  border: 2px solid #ef6a4c;
+  padding: 0.75rem 0.9rem;
+  margin: 0;
+}
+
+.pccm-ncd-targets h3 {
+  margin: 0 0 0.45rem;
+  font-size: 0.95rem;
+  color: #222222;
+}
+
+.pccm-ncd-targets ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pccm-ncd-algo-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(12rem, 0.9fr);
+  gap: 0.85rem;
+  align-items: start;
+  margin-top: 0.35rem;
+}
+
+.pccm-ncd-glucose {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(12rem, 0.95fr);
+  gap: 0.85rem;
+  align-items: start;
+}
+
+.pccm-ncd-glucose-main,
+.pccm-ncd-glucose-side {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.pccm-ncd-step-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 0.45rem;
+  align-items: center;
+}
+
+.pccm-ncd-step-row--decision {
+  grid-template-columns: minmax(0, 1fr) auto;
+  justify-items: stretch;
+}
+
+.pccm-ncd-step-row .pccm-ncd-decision {
+  margin: 0;
+  max-width: none;
+}
+
+.pccm-ncd-hlink {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #83a4f2;
+  font-weight: 700;
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+
+.pccm-ncd-hlink::after {
+  content: '→';
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.pccm-ncd-hlink-note {
+  color: #83a4f2;
+  font-size: 0.75rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.pccm-ncd-node .pccm-content-list {
+  margin: 0;
+  padding-left: 1.1rem;
+  text-align: left;
+  font-weight: 400;
+}
+
+.pccm-ncd-banner {
+  background: #7ba1e6;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.55rem 0.75rem;
+  margin: 0 0 0.75rem;
+}
+
+@media screen and (max-width: 996px) {
+  .pccm-ncd-chain--4,
+  .pccm-ncd-chain--2 {
+    min-width: 0;
+    grid-template-columns: 1fr;
+  }
+
+  .pccm-ncd-harrow {
+    padding: 0.15rem 0;
+    justify-content: flex-start;
+  }
+
+  .pccm-ncd-harrow::after {
+    content: '↓';
+  }
+
+  .pccm-ncd-row,
+  .pccm-ncd-row--2,
+  .pccm-ncd-split,
+  .pccm-ncd-algo-body,
+  .pccm-ncd-glucose,
+  .pccm-ncd-step-row {
+    grid-template-columns: 1fr;
+  }
+
+  .pccm-ncd-hlink::after {
+    content: '↓';
+  }
+}
+
+.pccm-section-heading-blue {
+  color: #3b60c8;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 1.25rem 0 0.65rem;
+}
+
+.pccm-isbar-wrap {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 0 1.25rem;
+  border: 1px solid #9eb8dc;
+  overflow: hidden;
+}
+
+.pccm-isbar-table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 100%;
+  table-layout: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.pccm-isbar-table td {
+  border-top: 1px solid #9eb8dc;
+  vertical-align: top;
+  padding: 0.75rem 0.85rem;
+}
+
+.pccm-isbar-table tr:first-child td {
+  border-top: none;
+}
+
+.pccm-isbar-letter {
+  width: 3.5rem;
+  background: #6b9fd4;
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+  border-color: #5a8bc4;
+}
+
+.pccm-isbar-content .pccm-isbar-title {
+  font-weight: 700;
+  margin: 0 0 0.45rem;
+}
+
+.pccm-isbar-content ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.pccm-isbar-content li {
+  margin: 0.35rem 0;
+}
+
+.pccm-isbar-content li ul {
+  list-style-type: none;
+  padding-left: 0.5rem;
+  margin: 0.35rem 0 0.5rem;
+}
+
+.pccm-isbar-content li ul li::before {
+  content: '– ';
+}
+
+.pccm-prep-table .pccm-prep-header td {
+  background: #6b9fd4;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  border-color: #5a8bc4;
+}
+
+.pccm-prep-table .pccm-prep-label {
+  background: #f0f0f0;
+  font-weight: 700;
+  width: 22%;
+  min-width: 7rem;
+}
+
+.pccm-prep-table .pccm-prep-req,
+.pccm-prep-table .pccm-prep-rationale {
+  width: 39%;
+}
+
+.pccm-prep-table ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pccm-prep-table li {
+  margin: 0.25rem 0;
+}
+
+.pccm-prep-table li ul {
+  list-style-type: none;
+  padding-left: 0.45rem;
+  margin: 0.25rem 0 0.35rem;
+}
+
+.pccm-prep-table li ul li::before {
+  content: '– ';
+}
+
+/* PCCM clinical section headings (numbered steps) */
+.pccm-section-heading-orange {
+  color: #ef6a4c;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 1.35rem 0 0.65rem;
+}
+
+.pccm-section-heading-orange:first-child {
+  margin-top: 0;
+}
+
+.pccm-content-list {
+  margin: 0 0 1rem;
+  padding-left: 1.35rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #222222;
+}
+
+.pccm-content-list li {
+  margin: 0.35rem 0;
+}
+
+.pccm-content-list li ul {
+  list-style-type: none;
+  padding-left: 0.5rem;
+  margin: 0.35rem 0 0.5rem;
+}
+
+.pccm-content-list li ul li::before {
+  content: '– ';
+}
+
+.pccm-alert-panel {
+  width: 100%;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 2px solid #ef6a4c;
+  padding: 0.9rem 1.1rem;
+  margin: 0 0 1.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #222222;
+}
+
+.pccm-alert-panel strong {
+  color: #222222;
+}
+
+.pccm-red-flags {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ef6a4c;
+  background: #fff7f0;
+  margin: 0 0 1.25rem;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #222222;
+}
+
+.pccm-red-flags-banner {
+  background: #ef6a4c;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.5rem 0.85rem;
+}
+
+.pccm-red-flags-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 1.25rem;
+  padding: 0.85rem 1rem;
+}
+
+.pccm-red-flags-body ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pccm-red-flags-body li {
+  margin: 0.3rem 0;
+}
+
+.pccm-faces-figure {
+  margin: 0.75rem 0 1rem;
+  text-align: center;
+}
+
+.pccm-faces-figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.pccm-zoom-hint-line {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  color: #555555;
+  font-style: italic;
+}
+
+.pccm-zoomable-figure .pccm-zoom-link {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  cursor: zoom-in;
+  text-decoration: none;
+  border: 1px solid transparent;
+  background: transparent;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.pccm-zoomable-figure .pccm-zoom-link:hover {
+  border-color: #6b9fd4;
+  box-shadow: 0 0 0 2px rgba(107, 159, 212, 0.25);
+}
+
+.pccm-zoomable-figure .pccm-zoom-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.pccm-zoom-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.82);
+  cursor: zoom-out;
+}
+
+.pccm-zoom-lightbox[hidden] {
+  display: none !important;
+}
+
+.pccm-zoom-lightbox__img {
+  max-width: min(96vw, 1100px);
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: #ffffff;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  cursor: default;
+}
+
+.pccm-zoom-lightbox__close {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  border: none;
+  background: transparent;
+  color: #ffffff;
+  font-size: 2.25rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
+
+body.pccm-zoom-open {
+  overflow: hidden;
+}
+
+.pccm-flowchart-figure {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 0 1.5rem;
+  text-align: center;
+  background: #ffffff;
+  border: 1px solid #c5d8f0;
+  padding: 0.75rem;
+}
+
+.pccm-flowchart-figure img {
+  display: block;
+  width: 100%;
+  max-width: 860px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.pccm-flowchart-caption {
+  margin: 0.65rem 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  color: #555555;
+}
+
+.pccm-two-col-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 0 0 1.25rem;
+}
+
+.pccm-diff-box {
+  box-sizing: border-box;
+  border: 1px solid #9eb8dc;
+  background: #eef4fc;
+  padding: 0.85rem 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-diff-box-title {
+  font-weight: 700;
+  color: #3b60c8;
+  margin: 0 0 0.5rem;
+}
+
+.pccm-diff-box ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.pccm-diff-box li {
+  margin: 0.25rem 0;
+}
+
+@media screen and (max-width: 996px) {
+  .pccm-two-col-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.pccm-drug-box {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #9eb8dc;
+  margin: 0 0 1.5rem;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-drug-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3b60c8;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 0.55rem 0.85rem;
+}
+
+.pccm-drug-name {
+  font-size: 1.05rem;
+}
+
+.pccm-drug-level {
+  font-size: 0.95rem;
+}
+
+.pccm-drug-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.theme-doc-markdown .pccm-drug-table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.pccm-drug-table th,
+.pccm-drug-table td {
+  border: 1px solid #9eb8dc;
+  vertical-align: top;
+  padding: 0.5rem 0.55rem;
+}
+
+.pccm-drug-table th {
+  background: #eef4fc;
+  font-weight: 700;
+  text-align: left;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+}
+
+.pccm-drug-notes {
+  padding: 0.85rem 1rem;
+  background: #ffffff;
+}
+
+.pccm-drug-notes p {
+  margin: 0 0 0.65rem;
+}
+
+.pccm-drug-notes p:last-child {
+  margin-bottom: 0;
+}
+
+.pccm-score-cell {
+  font-weight: 700;
+  text-align: center;
+  width: 4.5rem;
+  background: #f0f0f0;
+}
+
+.pccm-severity-cell {
+  font-weight: 700;
+  width: 18%;
+  background: #f0f0f0;
+}
+
+@media screen and (max-width: 996px) {
+  .pccm-assessment-table .pccm-row-label,
+  .pccm-prep-table .pccm-prep-label {
+    min-width: 6.5rem;
+  }
+
+  .pccm-isbar-letter {
+    width: 2.75rem;
+    font-size: 1.5rem;
+  }
+
+  .pccm-red-flags-body {
+    grid-template-columns: 1fr;
+  }
+
+  .pccm-drug-table {
+    min-width: 36rem;
+  }
 }
 
 .mermaid {
@@ -596,4 +1769,139 @@
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* Appendix — AVPU and Glasgow Coma Scale tables */
+.pccm-avpu-table {
+  width: 100%;
+  max-width: 28rem;
+  border-collapse: collapse;
+  margin: 0 0 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.pccm-avpu-table td {
+  border: 1px solid #9eb8dc;
+  padding: 0.45rem 0.75rem;
+  vertical-align: middle;
+}
+
+.pccm-avpu-table .pccm-avpu-letter {
+  width: 3.25rem;
+  background: #3b60c8;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.05rem;
+}
+
+.pccm-gcs-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #222222;
+}
+
+.theme-doc-markdown .pccm-gcs-table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.pccm-gcs-table th,
+.pccm-gcs-table td {
+  border: 1px solid #9eb8dc;
+  padding: 0.4rem 0.55rem;
+  vertical-align: top;
+}
+
+.pccm-gcs-table .pccm-gcs-banner th {
+  background: #3b60c8;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: left;
+  letter-spacing: 0.03em;
+  padding: 0.55rem 0.65rem;
+}
+
+.pccm-gcs-table .pccm-gcs-subheader th {
+  background: #e8f0fb;
+  color: #3b60c8;
+  font-weight: 700;
+  text-align: center;
+}
+
+.pccm-gcs-table .pccm-gcs-section {
+  background: #f5f8fc;
+  font-weight: 700;
+  color: #222222;
+  white-space: nowrap;
+}
+
+.pccm-gcs-table .pccm-gcs-score {
+  text-align: center;
+  font-weight: 700;
+  width: 2.5rem;
+}
+
+.pccm-gcs-table .pccm-gcs-total td {
+  background: #e8f0fb;
+  color: #3b60c8;
+  font-weight: 700;
+}
+
+.pccm-gcs-note {
+  font-size: 0.9rem;
+  color: #444444;
+  margin: 0.15rem 0 0;
+}
+
+/* Abbreviations glossary table */
+.pccm-abbrev-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+  color: #222222;
+}
+
+.theme-doc-markdown .pccm-abbrev-table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.pccm-abbrev-table th,
+.pccm-abbrev-table td {
+  border: none;
+  border-bottom: 1px solid #d8e2f0;
+  padding: 0.35rem 0.75rem 0.35rem 0;
+  vertical-align: top;
+  text-align: left;
+}
+
+.pccm-abbrev-table th {
+  color: #3b60c8;
+  font-weight: 700;
+  border-bottom: 2px solid #9eb8dc;
+}
+
+.pccm-abbrev-table .pccm-abbrev-term {
+  width: 22%;
+  min-width: 6rem;
+  white-space: nowrap;
+  padding-right: 1rem;
+}
+
+.pccm-abbrev-table .pccm-abbrev-term strong {
+  font-weight: 700;
+  color: #222222;
 }

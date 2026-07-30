@@ -1,64 +1,24 @@
 ---
-sidebar_position: 38
+sidebar_position: 40
+title: Fractures, dislocations and sprains
+hide_title: true
 ---
 
-# Fractures, dislocations and sprains
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Fractures, dislocations and sprains</h1>
+<p class="pccm-page-subtitle">General concideration:</p>
 
-Penetrating abdominal injury
-Signs and symptoms
-Signs and symptoms of penetrating abdominal trauma depend on various factors
-including the:
-•	 type of penetrating weapon or object
-•	 the range from which the injury occurred
-•	 which organs may be injured (abdominal anatomical land mark and correlating
-structures)
-•	 the location and number of wounds.
-Management:
-•	 Important to admit
-•	 Do primary survey approach DRSCABCD
-
-–
-Airway, breathing, circulation (ABCs): Includes vital signs
-	›
-Need 2 big canulas size 16 and 18  IV
-	›
-Fluid resuscitation to start and to guide guide by BP/P and urine output
-	›
-Keep patient NIL BY MOUTH and to await opinions from consulting surgeon
-/ MA.
-	›
-Start triple antibiotic – Ampicillin / Gentamycin / Flagyl : if suspect
-peritoneal contamination
-
-–
-Level of consciousness (D, disability): To detect neurologic deficits
-
-–
-Location(s) of the wound(s) (E, exposure): Inspect all body surfaces, and
-document all penetrating wounds
-	›
-All wounds need to thoroughly wash and dressed with saline gause.
-
-–
-Type of weapon or object –  Any foreign objects causing abdominal
-penetrating injury are concidered DIRTY : TETANUS TOXOID injection should
-always be given at the time of injury.
-
-–
-Amount of blood loss
-•	 Always reassess your patient on a hourly basis especially those who are
-hemodynamically unstable and report.
-
-–
-Hemodynamically unstable :
-	›
-Continue optimising patient and discuss with surgeon for immediate
-evacuation / referral
-
-–
-Hemodynamically stable
-	›
-Continue with treatment
-	›
-To report if there are concerning issues that need medical attention
-208 | Kiribati Primary Clinical Care Manual
+<ul class="pccm-content-list">
+<li>Fractures can occur in normal bones or in diseased bones.</li>
+<li>Injuries or high velocity force cause fractures in healthy bones.</li>
+<li>Pathological bone fractures occur without any injury or from very minor injuries.</li>
+<li>Pathological fractures occur because the bone is weak and can break easily</li>
+<li>Weak bones can be caused by malignancy or severe osteoporosis.</li>
+<li>Any type of fractures can cause very serious complications 2 main types of fractures</li>
+</ul>
+<h2 class="pccm-section-heading-blue">1. Simple fracture or close fracture</h2>
+<ul class="pccm-content-list"><li>Fracture without any open wound on the overlying skin</li><li>No open wound but theres obvious bone deformity</li></ul>
+<h2 class="pccm-section-heading-blue">2. Compound fracture or open fracture</h2>
+<ul class="pccm-content-list"><li>A fracture with an open wound</li><li>There is an open wound with an expose bone.</li><li>The wound that result from a fracture bone that pierce the overlying soft</li></ul>
+<p>tissue and the skin creating an open wound that exposes the bone</p>
+</div>

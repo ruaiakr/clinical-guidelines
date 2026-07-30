@@ -1,47 +1,72 @@
 ---
 sidebar_position: 23
+title: Pyloric stenosis - Child
+hide_title: true
 ---
 
-# Pyloric stenosis - Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Pyloric stenosis - Child</h1>
 
-4.	 Management1
-•	 If stools are infrequent but remain soft:
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Caused by a thickening of the pylorus (gastric outlet at the bottom of the stomach) causing obstruction and forceful vomiting</li>
+<li>Usually presents between 2–6 weeks of age</li>
+</ul>
+</div>
 
-–
-reassure parents/carer this is not constipation
+<h2 class="pccm-section-heading-blue" id="may-present-with">1. May present with<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Vomiting, getting worse, projectile ± blood</li>
+<li>Always hungry</li>
+<li>Poor weight gain or weight loss</li>
+<li>Dehydration</li>
+</ul>
 
-–
-some breastfed babies have bowel motions every 7–14 days. As long the stool
-is soft this is normal2
-•	 If child has infrequent eg &lt; 3 hard stools per week, for at least 2 weeks:
+<h2 class="pccm-section-heading-blue" id="immediate-management">2. Immediate management Not applicable</h2>
 
-–
-child is likely constipated
+<h2 class="pccm-section-heading-blue" id="clinical-assessment">3. Clinical assessment<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Ask about:
+<ul>
+<li>vomiting - after feeds, any blood, eager to feed after</li>
+<li>family history of pyloric stenosis</li>
+</ul>
+</li>
+<li>Do:
+<ul>
+<li>vital signs</li>
+<li>bare weight</li>
+<li>Hydration assessment - <a href="/docs/Paediatrics/Gastroenteritisdehydration">child</a></li>
+<li>check abdomen for:
+<ul>
+<li>mass in right upper quadrant</li>
+<li>wave like contractions (visible peristalsis) after a feed</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-–
-contact MO who may consider:
-	›
-laxative treatment
-	›
-referral to paediatrician
+<h2 class="pccm-section-heading-blue" id="management">4. Management<sup>1</sup></h2>
+<ul class="pccm-content-list">
+<li>Consult MO who may advise:
+<ul>
+<li>IV fluids, bloods</li>
+<li>evacuation/hospitalisation</li>
+<li>nil by mouth, consider NG if vomiting continues after stopping feeds</li>
+</ul>
+</li>
+<li>Monitor closely until evacuated</li>
+</ul>
 
-–
-if toilet training, hold off until stools are soft and regular
-•	 If child anxious or fearful of passing stool, consider discussing with parents/carer:
+<h2 class="pccm-section-heading-blue" id="follow-up">5. Follow up</h2>
+<ul class="pccm-content-list">
+<li>As per MO instructions</li>
+</ul>
 
-–
-positive reinforcement, avoid blaming the child
-
-–
-encourage child to sit on toilet after meals, reward even if no stool is passed
-5.	 Follow up1
-•	 If given laxatives advise to be reviewed:
-
-–
-in 3–7 days to check on progress, or
-
-–
-sooner if concerned or child is unwell
-6.	 Referral/consultation
-•	 Consider referral to the next child health nurse/MO clinic
-598 | Kiribati Primary Clinical Care Manual
+<h2 class="pccm-section-heading-blue" id="referral-consultation">6. Referral/consultation</h2>
+<ul class="pccm-content-list">
+<li>Consult MO if suspected pyloric stenosis</li>
+</ul>
+</div>

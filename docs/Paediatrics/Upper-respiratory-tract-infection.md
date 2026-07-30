@@ -1,41 +1,82 @@
 ---
 sidebar_position: 4
+title: Upper respiratory tract infection (URTI) - Child
+hide_title: true
 ---
 
-# Upper respiratory tract infection (URTI) - Child
+<div class="pccm-guideline-page pccm-assessment-page">
+<h1 class="pccm-page-title">Upper respiratory tract infection (URTI) - Child</h1>
+<p class="pccm-page-subtitle">Common cold</p>
 
-Chemoprophylaxis for contacts of meningitis cases. Discuss with consultants
-RIFAMPICIN
-ALTERNATIVES
-N. meningitides
-Neonates: 5mg/kg/dose
-BD for 2 days
-Children >1month of age:
-10mg/kg/dose BD for
-2days (maximum 600mg/
-dose)
-Child&lt; 12 years: Ciprofloxacin
-20mg/kg single dose. Max 500mg
-Child &lt;15 years: ceftriaxone 125mg
-IMI single dose
->15 years old: 250mg IMI single
-dose
-H. influenza
-Neonate: 10mg/kg daily
-for 4days
-Older child: 20mg/kg
-daily for 4 days (max dose
-600mg)
-Ceftriaxone 50mg/kg IM for 2
-days. Max1gram
-(limited data available; use only if
-rifampicin not suitable)
-6.	 Follow up
-•	 Chemoprophylaxis will be required for staff/close contacts of a patient with
-either meningococcal or Hib meningitis. Unvaccinated contacts of Hib meningitis
-&lt; 5 years should be immunized as soon as possible. Public Health Unit will advise
-•	 Refer for audiology assessment 6–8 weeks after discharge if bacterial meningitis13
-7.	 Referral/consultation
-•	 For all suspected or confirmed cases of meningitis or meningococcal disease
-notify the Public Health Unit within 6 hours
-548 | Kiribati Primary Clinical Care Manual
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Recommend</h2>
+<ul class="pccm-content-list">
+<li>Viral infection is the most likely cause and antibiotics are not recommended<sup>1</sup></li>
+</ul>
+</div>
+
+<div class="pccm-guideline-panel">
+<h2 class="pccm-section-heading">Background</h2>
+<ul class="pccm-content-list">
+<li>Primary bacterial infection is uncommon, however secondary bacterial infection may develop<sup>1</sup></li>
+</ul>
+</div>
+
+<h2 class="pccm-section-heading-blue" id="clinical-signs-and-assessment">1. Clinical signs and assessment</h2>
+<ul class="pccm-content-list">
+<li>Runny/blocked nose</li>
+<li>Sneezing, cough</li>
+<li>Sore throat</li>
+<li>Headache</li>
+<li>Malaise ± low grade fever
+<ul>
+<li>Assess the general condition of the child, including taking his/her weight</li>
+<li>Examine the tympanic membranes with an otoscope to check for infection</li>
+<li>If the child is coughing or wheezing, listen to his or her breathing and chest sounds with stethoscope</li>
+</ul>
+</li>
+</ul>
+
+<h2 class="pccm-section-heading-blue" id="differential-diagnosis">2. Differential diagnosis</h2>
+<ul class="pccm-content-list">
+<li>Consider differential diagnosis. See:
+<ul>
+<li><a href="/docs/Paediatrics/Sore-throat">Sore throat</a></li>
+<li><a href="/docs/Paediatrics/Differential-diagnosis#child-with-fever">Child with fever</a></li>
+<li><a href="/docs/Paediatrics/Differential-diagnosis#child-with-cough">Child with cough</a></li>
+<li><a href="/docs/Paediatrics/Differential-diagnosis#child-with-stridor">Child with stridor</a></li>
+</ul>
+</li>
+<li>Contact MO if symptoms are:
+<ul>
+<li>severe or respiratory distress</li>
+</ul>
+</li>
+</ul>
+
+<h2 class="pccm-section-heading-blue" id="treatment-and-management">3. Treatment and Management</h2>
+<ul class="pccm-content-list">
+<li>There are no specific treatments for viral upper respiratory infections</li>
+<li>Encourage fluids and stress the importance of ensuring that the child remains well hydrated</li>
+<li>Caregivers can use saline nose drops to clear nasal secretions.</li>
+<li>Check the immunization status of the child. If he/she is incompletely immunized, immunize the child during the visit.</li>
+<li>Remember that a cold is not a contraindication to vaccination</li>
+</ul>
+
+<p>Possible complications of upper respiratory infections include the following:</p>
+<ul class="pccm-content-list">
+<li><a href="/docs/Ear,%20Nose%20and%20Throat/Acute-otitis-media">Otitis media</a></li>
+<li>Sinusitis (thick, purulent discharge for longer than 2 weeks)</li>
+<li><a href="/docs/Paediatrics/Pneumonia">Pneumonia</a></li>
+<li>Asthma and wheezing</li>
+</ul>
+
+<h2 class="pccm-section-heading-blue" id="follow-up">4. Follow up</h2>
+<ul class="pccm-content-list">
+<li>Advise to be reviewed if symptoms worsen or become severe:
+<ul>
+<li>consult MO</li>
+</ul>
+</li>
+</ul>
+</div>

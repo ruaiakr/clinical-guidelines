@@ -136,7 +136,7 @@ the strength of the PHC system in Kiribati.
 
 - [Introduction](/docs/category/introduction) — Foreword, Bill of Rights, Code of Conduct, frameworks
 - [Emergency](/docs/category/emergency) — BLS, shock, sepsis, trauma, and critical care
-- [Medical Conditions](/docs/category/medical-conditions) — Common presentations and specialty care
+- [Common medical conditions](/docs/category/medical-conditions) — Common presentations and general conditions
 - [Obstetric and Gynecological](/docs/category/Obstetric/Gynecological) — Obstetric and women's health
 - [Pediatrics](/docs/category/Paediatrics) — Child and neonatal care
 - [Appendix](/docs/category/Appendix) — Drug tables, IV therapy, abbreviations

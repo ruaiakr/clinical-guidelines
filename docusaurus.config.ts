@@ -33,6 +33,8 @@ const config: Config = {
 
   themes: ['@docusaurus/theme-mermaid'],
 
+  clientModules: [require.resolve('./src/clientModules/pccmZoom.js')],
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
